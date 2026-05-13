@@ -1,0 +1,29 @@
+// Sales Performance — DAX Measures
+Total Revenue = SUM ( Sales[Revenue] )
+Total Profit  = SUM ( Sales[Profit] )
+Total Cost    = SUM ( Sales[Cost] )
+Orders        = DISTINCTCOUNT ( Sales[OrderID] )
+Units Sold    = SUM ( Sales[Quantity] )
+Avg Order Value = DIVIDE ( [Total Revenue], [Orders] )
+Margin %      = DIVIDE ( [Total Profit], [Total Revenue] )
+
+Revenue PY    = CALCULATE ( [Total Revenue], SAMEPERIODLASTYEAR ( 'Date'[Date] ) )
+Revenue YoY % = DIVIDE ( [Total Revenue] - [Revenue PY], [Revenue PY] )
+Revenue YTD   = TOTALYTD ( [Total Revenue], 'Date'[Date] )
+Revenue MAT   = CALCULATE ( [Total Revenue], DATESINPERIOD ( 'Date'[Date], MAX('Date'[Date]), -12, MONTH ) )
+
+Revenue 3M MA =
+AVERAGEX (
+    DATESINPERIOD ( 'Date'[Date], MAX('Date'[Date]), -3, MONTH ),
+    [Total Revenue]
+)
+
+// Forecast helper: linear projection using last 12 months slope
+Revenue Forecast =
+VAR LastDate = MAX ( 'Date'[Date] )
+VAR Hist =
+    ADDCOLUMNS (
+        DATESINPERIOD ( 'Date'[Date], LastDate, -12, MONTH ),
+        "R", [Total Revenue]
+    )
+RETURN AVERAGEX ( Hist, [R] ) * 1.05
