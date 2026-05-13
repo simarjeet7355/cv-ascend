@@ -1,0 +1,1501 @@
+EmployeeID,Age,Gender,MaritalStatus,Education,Department,JobRole,JobLevel,YearsAtCompany,YearsSinceLastPromotion,MonthlyIncome,OverTime,BusinessTravel,DistanceFromHome,JobSatisfaction,EnvironmentSatisfaction,WorkLifeBalance,PerformanceRating,Attrition
+E00001,40,Male,Divorced,High School,Marketing,Marketing Specialist,1,5,0,5640,No,Travel_Rarely,7,1,3,2,3,Yes
+E00002,38,Male,Divorced,Bachelor,Operations,Operations Manager,1,0,0,4622,No,Travel_Rarely,4,1,1,1,3,Yes
+E00003,26,Male,Single,PhD,Marketing,Content Strategist,1,1,0,6914,No,Non-Travel,7,4,2,4,3,No
+E00004,19,Female,Single,Master,HR,HR Business Partner,3,1,1,4581,No,Travel_Rarely,1,2,2,3,3,Yes
+E00005,43,Female,Single,Master,IT,DevOps Engineer,5,1,1,3465,No,Travel_Frequently,22,3,1,4,3,No
+E00006,46,Female,Single,Bachelor,IT,DevOps Engineer,1,4,3,3812,No,Travel_Rarely,2,2,1,1,3,No
+E00007,38,Female,Single,Master,IT,Software Engineer,2,0,0,5047,Yes,Travel_Rarely,3,4,3,4,3,No
+E00008,43,Male,Single,PhD,HR,HR Specialist,3,8,0,3045,No,Travel_Rarely,10,3,1,2,3,No
+E00009,35,Male,Married,PhD,Finance,Accountant,3,0,0,9429,No,Travel_Rarely,5,2,3,1,3,Yes
+E00010,43,Female,Divorced,PhD,HR,HR Specialist,3,0,0,3170,Yes,Travel_Rarely,4,2,3,2,3,Yes
+E00011,28,Female,Divorced,PhD,R&D,Lab Technician,2,10,3,4789,Yes,Travel_Rarely,17,2,2,3,4,No
+E00012,46,Male,Single,Bachelor,HR,HR Specialist,2,7,0,5222,No,Travel_Frequently,13,2,4,1,3,No
+E00013,36,Female,Divorced,Master,IT,IT Support,1,2,2,5401,No,Travel_Rarely,5,1,4,4,3,No
+E00014,33,Female,Single,PhD,Operations,Operations Analyst,1,2,0,5953,Yes,Travel_Rarely,7,1,3,3,3,Yes
+E00015,34,Female,Divorced,Bachelor,Sales,Account Executive,2,0,0,6875,No,Travel_Rarely,2,3,2,1,3,No
+E00016,35,Male,Married,Master,R&D,Lab Technician,3,2,0,11297,No,Travel_Rarely,3,2,1,3,3,No
+E00017,36,Male,Divorced,Bachelor,R&D,Research Scientist,2,5,2,4785,Yes,Travel_Rarely,9,2,1,1,3,No
+E00018,32,Female,Single,Bachelor,R&D,Senior Engineer,1,12,5,5040,No,Travel_Rarely,2,4,2,3,3,No
+E00019,38,Female,Single,Bachelor,Marketing,Brand Manager,1,3,3,10809,No,Travel_Rarely,3,4,3,4,4,No
+E00020,34,Male,Single,High School,R&D,Research Scientist,3,5,0,7926,No,Non-Travel,7,3,1,2,3,No
+E00021,38,Female,Divorced,PhD,R&D,Research Scientist,2,0,0,4352,Yes,Travel_Rarely,9,1,3,1,3,Yes
+E00022,25,Female,Single,High School,R&D,Senior Engineer,3,1,1,8488,No,Travel_Rarely,1,2,4,2,3,No
+E00023,27,Male,Divorced,High School,Sales,Account Executive,3,9,3,4158,No,Travel_Rarely,6,4,3,4,3,No
+E00024,33,Female,Single,PhD,Sales,Sales Manager,3,0,0,3891,Yes,Travel_Frequently,22,3,1,2,3,Yes
+E00025,33,Male,Single,High School,R&D,Lab Technician,2,0,0,8277,No,Travel_Rarely,2,4,2,1,4,No
+E00026,42,Female,Single,Bachelor,Sales,Sales Executive,1,8,6,3957,No,Non-Travel,6,2,4,4,3,No
+E00027,36,Female,Single,Bachelor,Finance,Financial Analyst,3,9,0,3589,No,Travel_Frequently,13,4,3,4,3,No
+E00028,45,Female,Divorced,Bachelor,HR,HR Specialist,3,9,3,6067,No,Travel_Rarely,9,1,1,3,3,Yes
+E00029,33,Male,Married,High School,Sales,Account Executive,2,2,1,8446,No,Travel_Rarely,2,1,2,1,3,No
+E00030,28,Female,Married,Bachelor,Operations,Operations Analyst,1,0,0,4016,Yes,Non-Travel,7,1,1,4,3,No
+E00031,36,Female,Married,Master,Marketing,Content Strategist,3,3,1,4477,No,Travel_Rarely,12,3,2,3,4,No
+E00032,43,Male,Divorced,Master,IT,Software Engineer,3,2,0,4241,Yes,Travel_Rarely,6,1,4,1,3,Yes
+E00033,24,Female,Divorced,Master,R&D,Lab Technician,2,6,1,9072,Yes,Travel_Rarely,3,1,2,3,3,Yes
+E00034,50,Male,Married,High School,Operations,Logistics Coordinator,4,0,0,5394,No,Travel_Rarely,1,1,3,1,3,No
+E00035,50,Female,Single,Master,Sales,Account Executive,2,4,1,3154,No,Travel_Rarely,8,2,3,3,3,No
+E00036,31,Female,Single,High School,Operations,Operations Manager,2,0,0,5480,No,Travel_Rarely,3,3,1,1,3,No
+E00037,55,Female,Divorced,High School,HR,HR Specialist,2,12,0,2493,Yes,Non-Travel,1,3,2,4,4,No
+E00038,35,Male,Married,Bachelor,Sales,Sales Executive,2,0,0,4822,Yes,Travel_Rarely,13,2,1,3,3,No
+E00039,39,Male,Divorced,High School,Sales,Sales Manager,2,4,0,4394,Yes,Travel_Frequently,11,3,1,3,3,No
+E00040,41,Male,Married,High School,HR,Recruiter,1,20,0,2685,No,Travel_Rarely,15,4,2,2,3,No
+E00041,43,Male,Married,High School,R&D,Senior Engineer,2,0,0,8656,No,Non-Travel,3,3,4,2,3,Yes
+E00042,44,Male,Single,High School,IT,IT Support,1,10,6,5313,No,Travel_Rarely,7,2,2,4,4,No
+E00043,26,Female,Married,PhD,Marketing,Marketing Specialist,3,5,0,3475,No,Travel_Rarely,1,4,3,3,3,No
+E00044,42,Female,Single,Master,Marketing,Content Strategist,3,2,0,5223,No,Travel_Rarely,7,3,1,1,3,No
+E00045,38,Male,Married,Bachelor,Sales,Sales Executive,2,0,0,4778,No,Travel_Rarely,3,4,3,3,3,No
+E00046,43,Male,Divorced,Master,HR,HR Specialist,3,7,3,4451,No,Travel_Frequently,4,4,1,2,3,No
+E00047,35,Female,Married,Master,Operations,Operations Manager,1,0,0,3823,No,Travel_Rarely,10,1,3,3,3,No
+E00048,35,Male,Divorced,Master,Operations,Operations Analyst,1,14,0,3132,No,Travel_Frequently,1,2,4,4,4,No
+E00049,38,Female,Married,PhD,Finance,Finance Manager,2,0,0,6037,No,Travel_Rarely,4,1,3,3,3,Yes
+E00050,36,Female,Divorced,Master,Finance,Finance Manager,3,3,0,5710,Yes,Travel_Rarely,4,2,4,2,3,No
+E00051,29,Male,Single,PhD,Sales,Sales Executive,1,11,2,6423,Yes,Travel_Frequently,19,3,2,2,3,Yes
+E00052,39,Female,Married,PhD,Operations,Operations Analyst,3,13,5,8382,No,Non-Travel,1,4,4,2,3,No
+E00053,46,Female,Single,Bachelor,R&D,Research Scientist,2,19,7,4860,No,Travel_Rarely,14,1,1,4,3,No
+E00054,26,Female,Married,PhD,IT,Software Engineer,2,2,2,5716,No,Travel_Rarely,30,4,2,4,4,No
+E00055,31,Male,Divorced,Master,IT,IT Support,1,2,2,7944,No,Travel_Rarely,1,2,4,4,3,No
+E00056,40,Female,Single,Master,IT,IT Support,3,3,1,6321,No,Travel_Rarely,16,2,3,4,4,Yes
+E00057,41,Male,Divorced,Bachelor,HR,HR Business Partner,1,5,0,11113,No,Travel_Rarely,3,1,2,2,3,No
+E00058,32,Male,Married,PhD,Sales,Sales Manager,1,10,1,6568,No,Travel_Frequently,15,4,3,4,3,No
+E00059,20,Female,Married,PhD,IT,Software Engineer,2,2,2,5854,Yes,Travel_Rarely,1,4,4,1,3,No
+E00060,39,Female,Single,PhD,Operations,Logistics Coordinator,2,0,0,3657,No,Travel_Rarely,8,2,4,2,3,Yes
+E00061,31,Male,Married,High School,HR,Recruiter,1,0,0,4201,No,Travel_Rarely,1,4,2,4,3,No
+E00062,34,Female,Married,Master,Sales,Account Executive,1,4,0,8805,Yes,Travel_Rarely,3,4,2,4,3,Yes
+E00063,22,Female,Married,High School,R&D,Lab Technician,3,2,1,11104,No,Travel_Rarely,1,3,3,4,4,No
+E00064,27,Male,Single,Bachelor,Finance,Financial Analyst,1,3,0,4168,No,Travel_Rarely,1,1,3,2,3,No
+E00065,51,Male,Divorced,Bachelor,R&D,Research Scientist,1,7,1,8926,No,Travel_Rarely,4,2,2,2,3,No
+E00066,35,Male,Single,Master,Finance,Finance Manager,1,1,0,11249,No,Travel_Rarely,7,3,3,2,3,No
+E00067,30,Male,Single,Bachelor,Sales,Account Executive,1,0,0,4821,No,Travel_Frequently,4,1,3,4,4,No
+E00068,31,Female,Divorced,Master,Sales,Account Executive,2,0,0,7155,Yes,Travel_Rarely,1,3,1,1,4,Yes
+E00069,36,Male,Married,Master,Sales,Account Executive,3,3,0,8417,No,Travel_Rarely,5,3,1,4,3,No
+E00070,29,Female,Divorced,PhD,Marketing,Brand Manager,3,0,0,3023,No,Non-Travel,6,2,4,2,3,No
+E00071,28,Male,Married,PhD,Finance,Accountant,1,0,0,5049,No,Travel_Rarely,5,3,3,2,3,No
+E00072,42,Female,Single,PhD,R&D,Lab Technician,2,1,0,6479,No,Travel_Frequently,6,4,3,1,3,No
+E00073,39,Female,Divorced,High School,R&D,Lab Technician,1,1,1,4987,No,Travel_Frequently,3,3,3,3,3,No
+E00074,33,Male,Divorced,PhD,Operations,Operations Analyst,3,2,1,5363,No,Travel_Rarely,11,1,2,4,3,No
+E00075,38,Male,Married,Bachelor,Marketing,Content Strategist,3,2,0,5439,No,Travel_Rarely,7,4,4,1,3,Yes
+E00076,36,Female,Married,PhD,HR,Recruiter,3,0,0,7549,No,Travel_Rarely,1,3,4,3,3,No
+E00077,43,Female,Single,Bachelor,HR,HR Business Partner,3,0,0,4083,No,Travel_Frequently,1,3,2,1,4,No
+E00078,39,Male,Married,Bachelor,R&D,Research Scientist,1,0,0,10712,No,Travel_Rarely,10,4,3,3,3,No
+E00079,39,Male,Divorced,Master,HR,HR Specialist,1,1,1,13968,No,Travel_Frequently,4,3,1,2,4,Yes
+E00080,31,Female,Married,PhD,Marketing,Marketing Specialist,4,0,0,6510,No,Travel_Rarely,21,4,1,1,3,No
+E00081,40,Male,Married,PhD,HR,HR Specialist,2,5,1,6639,No,Travel_Frequently,21,1,3,4,3,Yes
+E00082,25,Female,Single,Bachelor,Sales,Account Executive,2,2,0,18815,No,Non-Travel,12,1,2,2,3,No
+E00083,26,Female,Married,PhD,Sales,Account Executive,2,3,2,2850,No,Travel_Rarely,2,4,2,4,3,No
+E00084,41,Female,Divorced,High School,HR,Recruiter,1,0,0,5984,No,Travel_Rarely,6,1,1,2,3,No
+E00085,33,Female,Divorced,PhD,R&D,Research Scientist,2,0,0,3648,No,Travel_Frequently,1,2,1,2,3,Yes
+E00086,37,Female,Single,Bachelor,HR,HR Specialist,1,1,1,19081,No,Travel_Rarely,5,2,3,3,3,No
+E00087,47,Male,Married,Bachelor,HR,Recruiter,2,0,0,2361,Yes,Travel_Rarely,8,2,4,1,4,Yes
+E00088,33,Female,Divorced,Master,Sales,Sales Executive,1,0,0,7468,Yes,Travel_Rarely,2,2,3,3,3,Yes
+E00089,31,Male,Married,Master,Marketing,Brand Manager,1,4,2,7481,No,Travel_Rarely,14,3,4,4,3,No
+E00090,33,Male,Divorced,Master,Operations,Operations Manager,1,4,0,4465,Yes,Non-Travel,1,1,1,2,4,No
+E00091,38,Male,Divorced,PhD,Operations,Operations Analyst,1,2,1,3418,Yes,Travel_Rarely,7,2,4,4,3,No
+E00092,28,Female,Divorced,High School,Marketing,Brand Manager,1,3,3,2726,Yes,Travel_Rarely,16,1,4,3,4,Yes
+E00093,37,Female,Divorced,High School,IT,Data Analyst,4,2,0,6422,No,Travel_Rarely,30,3,4,4,3,No
+E00094,42,Female,Divorced,High School,Finance,Financial Analyst,2,0,0,2883,No,Non-Travel,1,3,3,3,3,Yes
+E00095,38,Female,Divorced,PhD,Marketing,Content Strategist,1,4,1,9341,No,Non-Travel,5,4,4,1,4,No
+E00096,40,Female,Married,PhD,Marketing,Brand Manager,2,0,0,5132,No,Travel_Rarely,2,1,2,3,3,No
+E00097,27,Female,Single,Bachelor,Sales,Sales Executive,4,3,2,9644,Yes,Travel_Rarely,1,2,2,3,4,No
+E00098,33,Female,Divorced,Master,IT,Software Engineer,1,4,0,5988,No,Non-Travel,1,4,1,2,3,No
+E00099,35,Female,Single,Bachelor,Finance,Accountant,1,5,3,13317,No,Travel_Rarely,2,4,2,4,3,No
+E00100,32,Female,Single,Master,IT,Software Engineer,2,2,2,3315,No,Travel_Rarely,13,3,4,3,3,No
+E00101,43,Female,Married,PhD,Marketing,Brand Manager,1,1,1,7380,Yes,Travel_Frequently,9,4,2,4,4,No
+E00102,35,Female,Single,Master,Finance,Accountant,2,0,0,8676,No,Travel_Frequently,20,2,2,4,3,Yes
+E00103,35,Male,Single,Master,Marketing,Brand Manager,1,8,0,8157,No,Travel_Rarely,2,4,4,2,3,No
+E00104,43,Male,Married,Bachelor,IT,Software Engineer,3,0,0,3755,No,Travel_Rarely,6,4,1,4,3,Yes
+E00105,45,Female,Divorced,PhD,Sales,Sales Manager,1,9,4,3076,Yes,Travel_Rarely,16,3,3,4,3,No
+E00106,41,Female,Single,High School,HR,Recruiter,1,12,1,10409,No,Travel_Frequently,16,4,1,1,3,No
+E00107,31,Male,Single,Master,Finance,Financial Analyst,1,2,0,11545,No,Travel_Rarely,2,1,4,2,3,No
+E00108,43,Male,Divorced,PhD,IT,Software Engineer,1,0,0,2514,No,Non-Travel,12,3,3,3,3,No
+E00109,44,Female,Divorced,Bachelor,Operations,Logistics Coordinator,4,13,10,5451,Yes,Travel_Rarely,22,2,2,2,3,Yes
+E00110,30,Female,Married,High School,Finance,Finance Manager,2,4,0,2961,Yes,Travel_Rarely,12,2,2,4,3,No
+E00111,48,Female,Divorced,Master,IT,IT Support,2,5,0,4643,No,Travel_Rarely,7,3,2,1,3,No
+E00112,32,Female,Married,High School,Marketing,Brand Manager,2,0,0,5099,No,Travel_Frequently,15,3,4,3,3,Yes
+E00113,41,Female,Married,High School,R&D,Lab Technician,1,0,0,14832,No,Travel_Rarely,1,3,3,3,3,Yes
+E00114,24,Male,Divorced,Master,Operations,Logistics Coordinator,1,5,3,1500,No,Travel_Rarely,9,1,4,3,3,No
+E00115,41,Male,Married,PhD,R&D,Senior Engineer,3,7,2,5106,No,Travel_Rarely,9,2,3,2,4,No
+E00116,39,Female,Divorced,PhD,Sales,Account Executive,2,4,4,4482,Yes,Travel_Rarely,13,3,2,1,4,No
+E00117,46,Female,Married,Master,R&D,Research Scientist,2,0,0,4156,No,Travel_Frequently,7,2,3,3,3,No
+E00118,39,Male,Divorced,PhD,Marketing,Brand Manager,1,4,3,8425,Yes,Travel_Rarely,11,1,4,1,3,Yes
+E00119,35,Male,Married,Master,IT,DevOps Engineer,2,4,0,6805,No,Travel_Rarely,1,1,4,1,3,No
+E00120,39,Male,Married,High School,Marketing,Content Strategist,2,1,1,4836,No,Travel_Rarely,11,3,4,3,4,Yes
+E00121,50,Female,Divorced,Master,Operations,Logistics Coordinator,1,5,1,5827,No,Travel_Rarely,1,3,2,1,4,No
+E00122,32,Female,Married,High School,Marketing,Brand Manager,3,5,5,9945,Yes,Travel_Frequently,4,1,2,1,3,No
+E00123,52,Female,Divorced,Bachelor,Sales,Sales Executive,3,2,0,3708,Yes,Travel_Rarely,8,2,4,4,3,No
+E00124,34,Female,Single,Master,Finance,Finance Manager,2,8,4,7536,No,Travel_Frequently,11,1,4,4,3,No
+E00125,41,Female,Divorced,Master,R&D,Lab Technician,3,0,0,10917,Yes,Travel_Rarely,9,4,2,3,3,Yes
+E00126,40,Female,Single,Bachelor,Sales,Sales Manager,2,1,0,4301,No,Travel_Rarely,2,3,2,1,3,No
+E00127,31,Male,Divorced,Bachelor,Marketing,Content Strategist,3,4,3,2016,Yes,Travel_Rarely,5,1,1,3,4,Yes
+E00128,26,Male,Divorced,High School,Sales,Account Executive,2,1,1,17692,Yes,Travel_Rarely,3,2,2,2,3,Yes
+E00129,33,Male,Single,High School,HR,HR Specialist,2,0,0,4416,No,Travel_Rarely,12,2,3,2,3,Yes
+E00130,29,Male,Divorced,PhD,HR,HR Specialist,1,0,0,6795,No,Travel_Rarely,1,3,1,2,3,Yes
+E00131,42,Male,Married,Bachelor,Operations,Operations Analyst,1,5,0,7165,No,Travel_Frequently,6,1,4,4,3,No
+E00132,45,Female,Married,PhD,Operations,Operations Analyst,4,2,0,7191,Yes,Travel_Rarely,2,3,4,1,3,Yes
+E00133,33,Female,Divorced,Bachelor,Marketing,Marketing Specialist,1,15,2,7265,No,Travel_Rarely,6,4,4,1,3,No
+E00134,31,Female,Married,PhD,Sales,Sales Executive,2,1,0,3613,Yes,Travel_Rarely,2,3,3,4,3,No
+E00135,39,Male,Married,Master,Sales,Account Executive,1,6,6,8032,Yes,Travel_Rarely,16,1,2,4,3,No
+E00136,27,Female,Divorced,Master,IT,IT Support,4,2,2,5724,No,Travel_Rarely,2,4,4,1,4,No
+E00137,49,Male,Married,High School,HR,HR Specialist,2,5,0,11170,Yes,Travel_Rarely,28,4,1,1,4,No
+E00138,29,Female,Divorced,High School,Marketing,Content Strategist,2,8,1,2856,No,Travel_Rarely,3,3,2,1,4,No
+E00139,32,Female,Single,Bachelor,Finance,Accountant,3,14,3,3626,Yes,Travel_Rarely,28,4,1,3,3,No
+E00140,24,Female,Single,Master,R&D,Senior Engineer,2,1,1,2338,Yes,Travel_Rarely,7,4,2,1,3,Yes
+E00141,32,Female,Divorced,Master,Operations,Operations Analyst,3,0,0,5129,No,Travel_Frequently,7,4,1,3,3,Yes
+E00142,47,Female,Single,Bachelor,HR,HR Business Partner,1,1,1,5181,No,Travel_Rarely,1,1,2,2,3,No
+E00143,42,Female,Married,Bachelor,Marketing,Content Strategist,1,1,1,5788,No,Travel_Frequently,1,1,1,2,3,Yes
+E00144,36,Male,Divorced,High School,HR,HR Business Partner,3,4,1,5652,No,Non-Travel,1,3,1,1,3,No
+E00145,45,Male,Divorced,High School,HR,HR Business Partner,2,1,1,3759,Yes,Travel_Frequently,9,4,4,4,3,No
+E00146,30,Female,Single,Bachelor,HR,HR Business Partner,4,12,4,5920,No,Travel_Frequently,1,1,3,4,3,No
+E00147,45,Male,Single,Master,Finance,Finance Manager,1,1,0,10241,No,Non-Travel,30,1,1,2,3,Yes
+E00148,50,Male,Single,PhD,HR,HR Business Partner,2,17,1,9436,No,Travel_Rarely,16,1,1,4,3,No
+E00149,46,Male,Married,High School,Operations,Logistics Coordinator,3,7,3,3454,Yes,Non-Travel,6,2,3,1,3,Yes
+E00150,41,Female,Married,High School,Finance,Financial Analyst,1,1,1,3377,No,Travel_Rarely,2,3,4,4,3,No
+E00151,50,Female,Single,PhD,Finance,Financial Analyst,1,4,1,9456,No,Travel_Rarely,1,3,2,4,4,No
+E00152,29,Female,Married,Master,IT,Software Engineer,1,2,2,11503,No,Travel_Rarely,13,2,4,4,3,No
+E00153,42,Male,Married,Master,R&D,Lab Technician,2,1,1,6812,Yes,Travel_Rarely,2,2,1,1,3,Yes
+E00154,40,Male,Single,Bachelor,Marketing,Content Strategist,2,7,2,2539,Yes,Travel_Rarely,4,2,2,1,3,Yes
+E00155,40,Female,Divorced,Master,IT,Software Engineer,4,0,0,3882,Yes,Travel_Rarely,26,2,4,4,3,No
+E00156,38,Female,Married,High School,IT,DevOps Engineer,2,7,6,4626,No,Travel_Frequently,13,2,4,1,3,No
+E00157,29,Male,Married,Master,HR,Recruiter,3,4,0,4454,Yes,Travel_Rarely,12,1,3,4,4,No
+E00158,33,Male,Married,Bachelor,Sales,Account Executive,1,7,2,13613,No,Travel_Rarely,7,1,4,4,3,No
+E00159,41,Female,Divorced,High School,HR,Recruiter,3,1,0,7231,No,Travel_Rarely,7,4,2,1,3,No
+E00160,50,Female,Divorced,Bachelor,Operations,Logistics Coordinator,1,19,1,7233,No,Travel_Frequently,9,2,1,2,3,No
+E00161,41,Male,Divorced,Master,HR,HR Business Partner,1,1,0,12491,No,Travel_Frequently,1,3,4,4,3,No
+E00162,29,Male,Married,High School,Sales,Sales Manager,2,1,1,9546,No,Travel_Rarely,3,1,4,3,3,Yes
+E00163,51,Female,Single,High School,Operations,Logistics Coordinator,2,2,0,7248,No,Travel_Rarely,1,2,3,3,4,No
+E00164,29,Male,Divorced,PhD,HR,Recruiter,1,0,0,12241,No,Travel_Rarely,20,4,3,2,3,No
+E00165,26,Male,Married,PhD,Operations,Operations Manager,2,8,1,5206,No,Travel_Rarely,1,1,3,3,3,No
+E00166,43,Male,Divorced,High School,R&D,Research Scientist,2,0,0,7530,No,Travel_Rarely,2,2,2,1,3,Yes
+E00167,19,Male,Divorced,PhD,Marketing,Brand Manager,4,1,1,7544,No,Travel_Frequently,30,2,4,2,3,Yes
+E00168,25,Female,Single,Bachelor,Sales,Sales Manager,3,1,1,4927,No,Travel_Rarely,12,3,2,4,4,No
+E00169,34,Female,Married,PhD,HR,HR Business Partner,1,0,0,4272,No,Travel_Frequently,1,2,3,4,4,No
+E00170,47,Female,Divorced,High School,R&D,Research Scientist,1,11,0,18200,No,Travel_Rarely,4,2,3,1,3,No
+E00171,30,Female,Married,Bachelor,Marketing,Content Strategist,2,0,0,5518,No,Travel_Rarely,4,1,3,1,3,No
+E00172,36,Male,Married,High School,IT,IT Support,1,4,0,7654,Yes,Travel_Rarely,12,1,2,4,3,No
+E00173,37,Female,Single,High School,Finance,Finance Manager,1,18,0,5158,Yes,Non-Travel,9,3,2,4,3,No
+E00174,32,Female,Divorced,Bachelor,HR,HR Specialist,3,3,1,3009,No,Travel_Frequently,1,3,2,2,3,Yes
+E00175,23,Male,Single,PhD,IT,IT Support,3,2,2,5425,Yes,Travel_Rarely,4,4,1,1,3,Yes
+E00176,33,Female,Divorced,PhD,Sales,Sales Manager,1,0,0,8851,Yes,Travel_Rarely,1,2,3,1,3,Yes
+E00177,35,Female,Married,High School,Sales,Sales Executive,1,0,0,7790,No,Travel_Rarely,1,4,1,2,3,No
+E00178,54,Male,Divorced,Master,Operations,Operations Manager,1,6,1,2129,No,Travel_Frequently,17,2,4,2,3,No
+E00179,29,Female,Married,Master,Sales,Account Executive,1,5,0,9585,No,Travel_Rarely,4,1,4,4,3,Yes
+E00180,32,Male,Divorced,Master,Marketing,Marketing Specialist,3,4,0,6798,No,Travel_Rarely,1,3,1,3,3,No
+E00181,54,Female,Divorced,PhD,R&D,Research Scientist,2,0,0,6383,Yes,Travel_Rarely,25,3,3,2,3,No
+E00182,31,Male,Single,Bachelor,Marketing,Marketing Specialist,1,1,1,3860,Yes,Non-Travel,1,2,1,4,3,Yes
+E00183,46,Male,Married,Master,Sales,Sales Manager,2,1,0,8296,Yes,Travel_Rarely,7,3,4,4,3,Yes
+E00184,47,Female,Married,PhD,IT,Software Engineer,2,4,3,4616,No,Travel_Rarely,30,3,3,1,4,No
+E00185,49,Female,Single,PhD,Finance,Accountant,1,7,5,7544,Yes,Travel_Rarely,3,2,4,4,3,Yes
+E00186,39,Female,Divorced,Master,Sales,Sales Manager,2,2,0,7791,Yes,Travel_Rarely,17,2,3,3,3,Yes
+E00187,43,Male,Divorced,Master,HR,HR Business Partner,3,8,4,4617,No,Travel_Rarely,11,4,2,4,3,No
+E00188,28,Female,Married,Bachelor,Operations,Operations Manager,2,0,0,6952,Yes,Travel_Rarely,1,3,1,1,4,No
+E00189,31,Female,Married,PhD,Sales,Sales Executive,2,3,1,7815,No,Travel_Rarely,2,4,1,2,3,Yes
+E00190,42,Male,Divorced,Bachelor,Operations,Operations Analyst,3,5,0,6959,No,Travel_Rarely,1,2,4,3,3,No
+E00191,34,Male,Single,Bachelor,Operations,Operations Manager,2,7,2,4093,Yes,Travel_Rarely,3,4,3,3,3,No
+E00192,23,Female,Single,Master,Finance,Finance Manager,1,3,0,3126,No,Travel_Rarely,30,4,1,3,3,No
+E00193,51,Female,Single,PhD,Marketing,Brand Manager,1,9,2,5014,Yes,Travel_Rarely,7,2,1,2,3,No
+E00194,49,Female,Married,Bachelor,Sales,Account Executive,1,7,2,6512,Yes,Travel_Rarely,6,3,3,1,3,No
+E00195,54,Male,Single,Bachelor,Marketing,Content Strategist,1,5,1,10339,Yes,Travel_Rarely,1,2,3,2,3,Yes
+E00196,43,Male,Divorced,High School,IT,IT Support,2,6,1,9195,Yes,Travel_Rarely,3,1,3,3,3,No
+E00197,35,Male,Single,Master,Sales,Sales Manager,2,4,2,5682,No,Travel_Rarely,1,4,4,4,3,No
+E00198,41,Male,Single,PhD,Marketing,Marketing Specialist,1,8,0,10294,No,Non-Travel,3,4,4,3,3,No
+E00199,37,Female,Divorced,Bachelor,Operations,Operations Analyst,3,1,0,2708,No,Travel_Rarely,4,1,2,3,3,Yes
+E00200,34,Female,Single,Master,HR,Recruiter,1,0,0,6585,No,Travel_Rarely,11,3,1,3,3,Yes
+E00201,27,Female,Divorced,High School,Operations,Logistics Coordinator,2,6,0,6876,No,Travel_Rarely,2,1,2,2,3,Yes
+E00202,37,Female,Divorced,High School,IT,Software Engineer,1,10,1,4112,No,Travel_Rarely,1,1,1,3,3,No
+E00203,19,Female,Married,PhD,Finance,Finance Manager,2,1,1,8935,Yes,Travel_Rarely,4,3,3,4,3,Yes
+E00204,36,Female,Single,Master,Sales,Account Executive,2,5,1,3642,No,Travel_Rarely,7,1,2,4,3,No
+E00205,29,Male,Married,High School,Operations,Operations Analyst,3,8,4,4168,No,Travel_Rarely,1,3,3,3,3,No
+E00206,59,Male,Single,High School,HR,HR Specialist,1,3,0,5783,No,Travel_Rarely,15,4,1,3,3,No
+E00207,19,Female,Single,Bachelor,HR,HR Business Partner,1,1,1,3810,No,Travel_Rarely,1,4,2,2,3,No
+E00208,36,Male,Married,PhD,Finance,Finance Manager,1,1,1,4363,No,Travel_Frequently,1,4,4,3,3,No
+E00209,33,Female,Married,High School,R&D,Research Scientist,2,15,1,2970,No,Travel_Rarely,1,3,1,1,4,No
+E00210,29,Female,Married,High School,IT,Software Engineer,1,7,0,10821,No,Travel_Rarely,2,4,2,3,4,No
+E00211,52,Female,Divorced,Master,Finance,Financial Analyst,3,7,0,9759,No,Travel_Rarely,12,2,3,3,3,Yes
+E00212,34,Female,Divorced,Master,IT,Software Engineer,2,8,0,5326,Yes,Travel_Frequently,1,2,1,4,4,No
+E00213,27,Male,Divorced,Master,IT,Data Analyst,1,2,2,7263,No,Travel_Rarely,27,2,4,1,4,Yes
+E00214,37,Female,Single,PhD,IT,IT Support,3,18,4,10066,No,Non-Travel,1,4,2,2,3,No
+E00215,46,Female,Married,High School,Operations,Logistics Coordinator,1,5,3,19250,No,Travel_Rarely,9,3,3,4,4,No
+E00216,41,Male,Divorced,PhD,HR,HR Business Partner,3,2,1,5572,No,Travel_Rarely,3,1,4,3,3,No
+E00217,43,Female,Single,Bachelor,HR,Recruiter,1,0,0,7677,No,Travel_Rarely,8,2,1,4,3,Yes
+E00218,32,Female,Single,PhD,Sales,Account Executive,3,1,1,5730,Yes,Travel_Rarely,9,1,2,1,4,Yes
+E00219,31,Male,Divorced,Master,Marketing,Marketing Specialist,1,0,0,6571,No,Travel_Rarely,9,4,4,1,3,No
+E00220,40,Female,Divorced,Master,Marketing,Brand Manager,1,1,1,9536,No,Travel_Rarely,12,4,3,2,4,No
+E00221,39,Female,Divorced,Master,Marketing,Content Strategist,1,4,1,5385,No,Travel_Rarely,6,3,4,2,3,No
+E00222,37,Female,Divorced,Master,R&D,Lab Technician,1,16,2,5517,No,Travel_Frequently,2,3,2,4,3,No
+E00223,40,Male,Married,High School,HR,HR Specialist,3,6,4,5341,Yes,Travel_Rarely,9,4,4,3,3,No
+E00224,31,Female,Single,Bachelor,HR,Recruiter,2,0,0,2569,No,Non-Travel,10,1,3,4,3,No
+E00225,44,Male,Single,High School,IT,DevOps Engineer,3,10,1,12961,No,Travel_Rarely,15,3,2,1,3,No
+E00226,30,Female,Divorced,PhD,Marketing,Content Strategist,3,0,0,7019,No,Travel_Frequently,8,2,2,1,3,Yes
+E00227,37,Female,Married,Bachelor,Sales,Account Executive,1,3,3,9418,No,Travel_Rarely,17,2,1,2,3,No
+E00228,29,Male,Divorced,Bachelor,IT,DevOps Engineer,4,4,0,10402,No,Travel_Rarely,1,3,3,1,3,No
+E00229,55,Male,Single,PhD,Operations,Logistics Coordinator,3,13,2,5546,Yes,Travel_Rarely,2,1,2,4,3,No
+E00230,41,Male,Married,Master,IT,IT Support,1,2,2,5436,No,Travel_Rarely,1,2,3,1,3,Yes
+E00231,33,Male,Married,Bachelor,Finance,Finance Manager,2,7,5,4279,No,Travel_Rarely,1,4,2,4,3,No
+E00232,60,Female,Divorced,Bachelor,Marketing,Brand Manager,1,0,0,6289,No,Travel_Rarely,30,3,2,1,4,No
+E00233,29,Male,Single,Bachelor,R&D,Senior Engineer,3,2,2,3037,No,Travel_Frequently,13,4,4,3,3,Yes
+E00234,34,Female,Married,Master,Finance,Accountant,1,7,0,6407,No,Travel_Rarely,4,2,1,3,3,No
+E00235,34,Male,Divorced,High School,HR,Recruiter,2,6,2,3849,No,Non-Travel,7,1,3,3,3,No
+E00236,34,Female,Married,Bachelor,Finance,Accountant,3,4,2,6588,Yes,Non-Travel,18,2,4,3,4,No
+E00237,25,Female,Married,PhD,R&D,Research Scientist,1,0,0,6303,Yes,Travel_Rarely,1,4,2,4,3,No
+E00238,30,Female,Single,High School,IT,Data Analyst,3,1,1,8821,No,Travel_Rarely,8,2,1,4,3,No
+E00239,45,Female,Single,Bachelor,Sales,Account Executive,2,2,2,4439,No,Travel_Rarely,3,2,2,2,4,No
+E00240,40,Female,Single,PhD,Marketing,Content Strategist,3,2,1,12253,Yes,Travel_Rarely,4,4,1,4,3,No
+E00241,33,Female,Married,High School,Finance,Finance Manager,2,0,0,8525,Yes,Travel_Rarely,4,1,4,3,3,No
+E00242,34,Male,Divorced,High School,Marketing,Marketing Specialist,3,5,5,2884,No,Travel_Rarely,9,1,1,4,3,Yes
+E00243,31,Male,Divorced,PhD,Sales,Sales Manager,2,3,0,5963,No,Non-Travel,1,1,3,4,3,No
+E00244,39,Male,Divorced,Master,HR,HR Business Partner,1,6,0,2665,No,Travel_Frequently,3,4,4,4,4,Yes
+E00245,46,Male,Married,PhD,Sales,Sales Executive,1,18,1,7089,Yes,Travel_Rarely,6,4,2,2,3,No
+E00246,22,Female,Single,Master,Marketing,Content Strategist,3,4,0,5439,Yes,Travel_Rarely,1,4,4,2,3,Yes
+E00247,19,Male,Single,Bachelor,R&D,Senior Engineer,2,1,1,8404,No,Travel_Frequently,30,1,1,4,3,No
+E00248,26,Male,Married,PhD,Sales,Sales Executive,3,4,1,14505,Yes,Travel_Rarely,5,1,4,1,3,Yes
+E00249,38,Female,Single,Master,R&D,Senior Engineer,1,3,0,7409,No,Travel_Rarely,23,2,1,2,3,No
+E00250,38,Male,Married,Master,Operations,Logistics Coordinator,2,2,1,5966,No,Travel_Rarely,2,3,2,3,4,No
+E00251,30,Female,Divorced,PhD,HR,HR Specialist,5,3,3,11142,No,Travel_Rarely,14,2,4,4,4,Yes
+E00252,33,Male,Divorced,PhD,IT,DevOps Engineer,2,3,0,10143,No,Travel_Rarely,4,4,4,2,4,No
+E00253,41,Female,Married,Bachelor,R&D,Research Scientist,4,0,0,6552,Yes,Travel_Rarely,2,3,2,4,3,No
+E00254,33,Female,Married,High School,Finance,Financial Analyst,1,7,0,4013,No,Travel_Frequently,9,3,2,3,4,No
+E00255,42,Male,Single,Bachelor,Operations,Logistics Coordinator,2,6,2,7572,No,Travel_Rarely,14,2,1,3,3,No
+E00256,30,Male,Single,Bachelor,IT,Data Analyst,2,0,0,4150,Yes,Travel_Rarely,3,4,2,3,3,Yes
+E00257,19,Male,Divorced,Master,Marketing,Marketing Specialist,3,0,0,6607,Yes,Travel_Rarely,4,4,2,2,3,Yes
+E00258,36,Female,Divorced,PhD,IT,DevOps Engineer,1,1,1,8891,No,Travel_Rarely,3,4,4,3,4,No
+E00259,41,Female,Single,Bachelor,Finance,Financial Analyst,1,17,0,3436,No,Travel_Rarely,5,4,3,2,3,No
+E00260,46,Male,Married,Bachelor,Marketing,Marketing Specialist,2,3,0,4482,No,Travel_Frequently,13,1,3,4,3,No
+E00261,45,Female,Divorced,PhD,Finance,Finance Manager,1,0,0,20782,Yes,Non-Travel,7,2,4,3,3,Yes
+E00262,44,Female,Single,High School,Finance,Financial Analyst,2,6,2,4528,Yes,Non-Travel,14,3,2,2,3,No
+E00263,43,Male,Single,Bachelor,Operations,Operations Analyst,2,1,1,4063,No,Travel_Frequently,12,1,1,1,3,No
+E00264,29,Female,Divorced,PhD,Sales,Sales Executive,3,2,0,5421,No,Travel_Rarely,5,4,3,1,4,No
+E00265,48,Female,Divorced,Master,Sales,Sales Executive,2,0,0,9106,No,Travel_Rarely,24,4,1,1,3,No
+E00266,28,Male,Single,Bachelor,Sales,Account Executive,2,1,0,6578,No,Travel_Rarely,25,4,2,1,3,No
+E00267,23,Male,Married,PhD,Operations,Logistics Coordinator,1,1,1,2136,No,Travel_Frequently,13,3,3,3,3,No
+E00268,23,Male,Divorced,High School,Finance,Finance Manager,4,1,0,5080,No,Travel_Rarely,7,2,2,3,4,No
+E00269,39,Male,Divorced,Bachelor,Sales,Sales Manager,3,6,2,4000,Yes,Travel_Rarely,17,4,4,4,3,Yes
+E00270,23,Male,Single,Bachelor,Sales,Sales Manager,2,2,0,2738,No,Non-Travel,3,4,3,1,3,No
+E00271,33,Female,Divorced,High School,IT,IT Support,3,3,0,3837,No,Travel_Rarely,26,3,1,1,3,No
+E00272,19,Female,Single,Master,R&D,Lab Technician,1,1,1,9644,No,Non-Travel,1,1,2,2,3,No
+E00273,42,Male,Divorced,High School,R&D,Senior Engineer,3,0,0,7834,No,Travel_Rarely,1,2,4,3,3,No
+E00274,29,Male,Married,PhD,Operations,Logistics Coordinator,2,4,1,8116,No,Travel_Rarely,1,3,1,1,3,No
+E00275,35,Female,Divorced,PhD,IT,DevOps Engineer,1,6,6,2865,No,Travel_Rarely,30,1,3,4,4,No
+E00276,35,Male,Single,Master,Finance,Financial Analyst,1,14,0,5472,Yes,Travel_Rarely,7,4,1,3,3,No
+E00277,25,Male,Single,Master,R&D,Lab Technician,1,7,0,6707,No,Travel_Rarely,19,2,4,3,3,No
+E00278,50,Female,Married,PhD,Finance,Accountant,2,2,0,6964,Yes,Travel_Rarely,7,3,1,2,3,Yes
+E00279,21,Female,Married,High School,Sales,Sales Executive,1,3,3,6523,No,Travel_Rarely,6,1,3,1,3,No
+E00280,38,Male,Divorced,PhD,HR,HR Business Partner,1,0,0,5484,No,Travel_Rarely,30,4,1,2,3,No
+E00281,32,Male,Single,PhD,R&D,Research Scientist,2,14,1,7823,No,Travel_Rarely,1,3,3,3,3,No
+E00282,38,Male,Divorced,PhD,HR,HR Business Partner,1,17,6,7684,No,Travel_Frequently,5,3,4,1,4,No
+E00283,30,Male,Married,Master,Operations,Logistics Coordinator,1,2,2,7476,Yes,Travel_Rarely,6,2,4,1,3,Yes
+E00284,43,Male,Married,Master,IT,IT Support,2,3,2,7929,Yes,Travel_Frequently,3,3,4,3,3,No
+E00285,31,Female,Married,Master,Operations,Logistics Coordinator,2,2,0,6765,No,Travel_Frequently,4,2,4,3,3,No
+E00286,31,Female,Married,High School,Marketing,Content Strategist,1,13,5,3278,No,Travel_Rarely,6,4,2,3,3,No
+E00287,29,Male,Married,Master,Operations,Operations Analyst,3,3,0,8567,No,Travel_Rarely,1,2,1,4,3,No
+E00288,24,Male,Married,Bachelor,IT,Software Engineer,2,1,1,6609,No,Travel_Rarely,4,4,4,2,3,No
+E00289,50,Female,Divorced,PhD,Marketing,Brand Manager,3,1,1,6291,No,Travel_Rarely,12,4,1,4,4,No
+E00290,33,Male,Single,Bachelor,Operations,Logistics Coordinator,1,3,0,7216,No,Non-Travel,1,4,1,3,3,No
+E00291,19,Female,Married,PhD,Marketing,Content Strategist,1,1,1,6565,No,Travel_Frequently,1,3,2,1,3,No
+E00292,44,Male,Married,Master,Sales,Sales Executive,1,3,0,4638,No,Travel_Rarely,1,1,3,2,3,No
+E00293,29,Female,Married,High School,Finance,Accountant,1,11,0,6095,Yes,Travel_Frequently,10,2,3,1,3,No
+E00294,26,Male,Divorced,PhD,Sales,Account Executive,3,1,1,10381,No,Travel_Rarely,3,2,3,3,3,No
+E00295,31,Female,Single,High School,HR,HR Business Partner,3,2,0,7390,No,Travel_Rarely,9,1,4,4,3,No
+E00296,20,Male,Married,PhD,Sales,Sales Manager,2,2,0,7752,No,Travel_Rarely,2,1,2,2,3,No
+E00297,32,Female,Married,High School,Finance,Financial Analyst,1,3,3,6718,No,Travel_Rarely,10,4,2,2,4,No
+E00298,37,Male,Single,Master,Marketing,Content Strategist,3,11,0,9792,No,Travel_Rarely,1,2,4,4,4,No
+E00299,39,Female,Single,Master,IT,Software Engineer,2,5,1,8522,Yes,Travel_Rarely,12,1,2,3,3,No
+E00300,36,Female,Married,PhD,Marketing,Brand Manager,2,2,2,5842,No,Travel_Frequently,6,3,4,4,3,No
+E00301,36,Male,Married,High School,Operations,Operations Analyst,2,5,1,4459,No,Travel_Frequently,1,3,1,2,3,No
+E00302,38,Female,Married,Bachelor,R&D,Lab Technician,1,0,0,3631,No,Travel_Rarely,2,2,4,4,4,No
+E00303,46,Male,Married,PhD,Finance,Finance Manager,2,10,0,6751,No,Travel_Rarely,7,2,2,4,3,No
+E00304,30,Female,Divorced,PhD,Operations,Operations Analyst,2,5,0,4410,No,Travel_Rarely,9,3,1,4,3,No
+E00305,34,Male,Divorced,High School,Finance,Finance Manager,3,13,0,4690,No,Travel_Rarely,11,4,4,4,3,No
+E00306,46,Female,Single,PhD,IT,Data Analyst,1,1,0,4778,No,Travel_Frequently,1,3,1,3,4,Yes
+E00307,33,Female,Divorced,High School,Operations,Logistics Coordinator,1,6,1,3960,Yes,Travel_Rarely,1,4,1,1,3,Yes
+E00308,51,Male,Married,High School,IT,IT Support,1,1,1,9198,Yes,Travel_Frequently,1,2,4,1,4,No
+E00309,31,Male,Single,Bachelor,Finance,Accountant,3,4,0,5312,No,Travel_Rarely,2,3,1,4,3,No
+E00310,47,Male,Single,Master,IT,DevOps Engineer,3,5,2,2955,No,Travel_Rarely,23,4,2,2,3,No
+E00311,40,Female,Divorced,High School,Operations,Operations Manager,3,1,1,6997,Yes,Travel_Rarely,6,2,3,3,3,Yes
+E00312,42,Male,Single,Bachelor,R&D,Lab Technician,2,2,0,5713,No,Travel_Rarely,30,1,3,2,3,No
+E00313,35,Female,Divorced,PhD,Marketing,Brand Manager,2,0,0,5549,No,Non-Travel,10,2,4,4,3,Yes
+E00314,37,Female,Divorced,Master,Finance,Accountant,3,4,2,12157,Yes,Travel_Frequently,1,1,1,4,3,No
+E00315,28,Female,Divorced,Master,Finance,Accountant,4,1,1,4399,Yes,Travel_Frequently,24,3,1,1,3,No
+E00316,33,Female,Married,Master,IT,Software Engineer,2,7,2,3196,No,Non-Travel,5,4,2,4,3,No
+E00317,42,Male,Single,High School,IT,DevOps Engineer,1,3,3,5463,No,Travel_Rarely,12,3,2,4,3,No
+E00318,38,Male,Married,Bachelor,Marketing,Brand Manager,1,4,1,8723,No,Non-Travel,22,1,1,2,3,No
+E00319,31,Female,Married,High School,Marketing,Marketing Specialist,1,2,2,8837,Yes,Travel_Rarely,11,3,2,3,3,Yes
+E00320,36,Male,Married,High School,HR,Recruiter,1,4,0,4382,Yes,Travel_Frequently,8,2,1,4,3,No
+E00321,41,Male,Divorced,PhD,Marketing,Marketing Specialist,1,0,0,9280,No,Travel_Rarely,3,1,2,4,3,Yes
+E00322,25,Female,Single,Bachelor,Sales,Sales Executive,3,7,6,4444,No,Travel_Rarely,3,3,1,4,4,No
+E00323,33,Female,Single,PhD,Finance,Financial Analyst,1,3,2,4092,No,Travel_Rarely,15,1,1,3,4,No
+E00324,36,Male,Married,Master,IT,Data Analyst,2,2,0,3654,No,Travel_Rarely,2,2,1,1,3,No
+E00325,44,Male,Single,Bachelor,Marketing,Marketing Specialist,2,3,0,9075,Yes,Travel_Rarely,5,2,4,4,3,No
+E00326,39,Male,Single,Master,IT,Software Engineer,1,1,0,5620,No,Travel_Rarely,7,4,3,4,3,No
+E00327,21,Female,Single,Bachelor,Marketing,Marketing Specialist,3,3,1,2576,No,Travel_Rarely,16,2,3,1,3,No
+E00328,45,Male,Single,PhD,Marketing,Brand Manager,1,3,0,6723,Yes,Travel_Rarely,9,3,1,2,3,No
+E00329,43,Male,Married,PhD,Marketing,Content Strategist,1,1,1,5401,Yes,Travel_Rarely,5,1,1,3,3,No
+E00330,38,Male,Single,Master,HR,Recruiter,3,4,2,3665,No,Travel_Frequently,14,2,4,1,3,Yes
+E00331,35,Female,Married,PhD,R&D,Research Scientist,2,1,1,10410,No,Non-Travel,5,1,4,3,3,No
+E00332,48,Male,Single,Master,Sales,Account Executive,3,2,2,5302,Yes,Non-Travel,8,2,3,1,3,Yes
+E00333,46,Male,Single,Bachelor,Finance,Finance Manager,1,2,1,4810,Yes,Travel_Rarely,3,1,3,4,3,No
+E00334,29,Male,Single,High School,Sales,Sales Manager,3,5,0,10723,No,Non-Travel,5,1,4,1,3,No
+E00335,41,Female,Single,Master,Marketing,Marketing Specialist,3,3,3,8109,No,Travel_Rarely,1,1,2,4,3,No
+E00336,39,Female,Married,High School,R&D,Senior Engineer,2,4,4,4340,No,Travel_Rarely,19,3,1,1,3,No
+E00337,51,Male,Married,Bachelor,HR,Recruiter,4,9,1,9722,No,Travel_Rarely,2,1,4,4,3,No
+E00338,45,Male,Single,High School,HR,HR Specialist,1,1,1,4267,No,Non-Travel,1,3,1,1,3,Yes
+E00339,27,Male,Single,PhD,R&D,Research Scientist,3,7,2,11892,Yes,Travel_Rarely,22,4,3,4,3,No
+E00340,41,Male,Divorced,Master,R&D,Lab Technician,1,1,0,4155,No,Travel_Rarely,2,2,4,3,3,Yes
+E00341,40,Male,Married,High School,Sales,Account Executive,1,6,0,7954,Yes,Travel_Frequently,1,1,2,2,3,No
+E00342,48,Male,Married,Bachelor,Finance,Accountant,2,1,0,4712,No,Travel_Rarely,17,3,3,1,3,No
+E00343,39,Female,Single,Bachelor,HR,Recruiter,1,1,1,6920,No,Travel_Frequently,11,3,2,4,3,No
+E00344,37,Male,Married,High School,R&D,Research Scientist,1,8,0,5745,No,Travel_Rarely,12,4,1,2,3,No
+E00345,45,Male,Married,PhD,IT,IT Support,3,1,1,3325,No,Travel_Rarely,6,3,1,2,3,No
+E00346,41,Female,Divorced,Master,Sales,Sales Executive,4,8,3,12522,No,Travel_Rarely,9,3,1,1,4,No
+E00347,40,Female,Single,High School,Finance,Finance Manager,2,11,0,3198,No,Travel_Rarely,30,1,1,2,3,No
+E00348,41,Female,Married,Master,Finance,Finance Manager,3,7,1,8195,No,Travel_Rarely,9,2,2,3,3,No
+E00349,53,Male,Divorced,High School,HR,HR Business Partner,1,5,2,6012,No,Travel_Rarely,1,3,2,1,3,No
+E00350,43,Male,Divorced,Master,R&D,Research Scientist,2,2,0,9215,No,Travel_Rarely,7,2,4,4,3,No
+E00351,39,Male,Single,Bachelor,IT,Data Analyst,1,14,0,7394,No,Travel_Frequently,2,4,3,4,3,No
+E00352,60,Male,Married,PhD,IT,DevOps Engineer,3,3,0,2744,No,Travel_Rarely,1,1,2,3,3,Yes
+E00353,25,Female,Married,Bachelor,Operations,Operations Analyst,2,7,0,7944,No,Non-Travel,30,3,3,2,3,Yes
+E00354,37,Male,Single,Bachelor,Sales,Sales Manager,2,10,4,6835,Yes,Non-Travel,3,1,2,1,3,Yes
+E00355,34,Male,Single,High School,IT,IT Support,1,0,0,4289,Yes,Travel_Rarely,1,3,1,3,3,No
+E00356,29,Female,Single,High School,R&D,Senior Engineer,1,11,0,2790,No,Travel_Rarely,2,4,2,1,3,No
+E00357,29,Female,Divorced,PhD,Finance,Financial Analyst,1,5,4,3350,Yes,Travel_Rarely,1,2,4,4,3,No
+E00358,38,Male,Single,Bachelor,R&D,Lab Technician,2,1,1,11030,No,Travel_Rarely,1,2,2,3,3,Yes
+E00359,35,Female,Married,Bachelor,Marketing,Brand Manager,1,0,0,2699,No,Travel_Rarely,4,4,4,4,3,Yes
+E00360,32,Female,Married,PhD,Finance,Financial Analyst,2,3,0,9979,No,Travel_Frequently,14,2,1,4,4,No
+E00361,33,Female,Divorced,Bachelor,HR,Recruiter,4,0,0,8780,No,Travel_Frequently,3,3,4,3,3,Yes
+E00362,35,Male,Single,High School,Sales,Sales Manager,1,2,0,4737,Yes,Travel_Rarely,24,1,4,3,3,No
+E00363,53,Male,Divorced,PhD,R&D,Senior Engineer,1,3,1,12477,No,Travel_Rarely,1,2,3,1,3,No
+E00364,41,Female,Divorced,High School,HR,HR Specialist,1,0,0,3988,No,Travel_Frequently,20,2,2,3,3,No
+E00365,26,Female,Divorced,Master,Marketing,Content Strategist,1,2,1,6629,No,Travel_Rarely,12,3,2,2,3,No
+E00366,46,Male,Single,PhD,R&D,Lab Technician,1,5,0,4415,Yes,Travel_Frequently,1,1,1,1,4,Yes
+E00367,40,Female,Single,High School,Sales,Sales Manager,2,6,0,10436,No,Non-Travel,20,2,2,3,3,No
+E00368,25,Female,Divorced,PhD,R&D,Senior Engineer,1,1,1,4468,No,Travel_Rarely,11,2,1,3,4,No
+E00369,19,Male,Divorced,PhD,Operations,Operations Analyst,3,1,0,4794,Yes,Travel_Rarely,3,3,3,3,3,Yes
+E00370,32,Male,Married,Master,IT,IT Support,3,4,0,6060,Yes,Travel_Rarely,6,3,2,3,3,No
+E00371,33,Female,Divorced,High School,Marketing,Content Strategist,1,0,0,6831,Yes,Travel_Rarely,7,3,2,2,3,No
+E00372,33,Male,Married,High School,R&D,Senior Engineer,1,0,0,10399,Yes,Travel_Rarely,11,3,2,1,3,No
+E00373,42,Female,Married,High School,R&D,Lab Technician,1,11,3,13792,No,Travel_Rarely,11,3,2,1,3,No
+E00374,34,Male,Divorced,High School,HR,HR Specialist,2,1,1,7535,No,Travel_Frequently,3,2,1,3,3,Yes
+E00375,27,Female,Married,Master,Sales,Sales Manager,3,1,1,9226,No,Non-Travel,3,4,4,2,3,No
+E00376,45,Male,Single,Master,Operations,Operations Manager,1,2,2,4150,Yes,Travel_Frequently,3,1,4,2,3,Yes
+E00377,38,Female,Single,High School,Sales,Sales Manager,2,0,0,3581,No,Travel_Rarely,8,3,1,1,3,No
+E00378,40,Male,Divorced,PhD,Operations,Operations Analyst,2,6,3,8860,Yes,Travel_Rarely,1,3,4,1,3,No
+E00379,27,Female,Divorced,Master,R&D,Research Scientist,2,2,0,13178,Yes,Travel_Rarely,1,1,3,2,3,No
+E00380,41,Female,Single,High School,Marketing,Brand Manager,4,2,1,6655,No,Travel_Rarely,7,3,2,1,3,Yes
+E00381,44,Female,Single,High School,HR,HR Specialist,3,1,1,6295,No,Travel_Frequently,8,4,1,3,4,No
+E00382,47,Male,Married,PhD,Sales,Sales Executive,2,2,1,7405,No,Travel_Frequently,1,2,3,1,3,No
+E00383,49,Female,Married,Bachelor,Finance,Accountant,2,0,0,7871,No,Travel_Frequently,2,3,1,4,3,Yes
+E00384,54,Female,Divorced,High School,Finance,Financial Analyst,2,7,0,5827,Yes,Travel_Rarely,9,3,4,4,3,No
+E00385,41,Female,Divorced,Bachelor,R&D,Senior Engineer,1,1,1,3291,No,Travel_Rarely,3,1,1,3,3,No
+E00386,45,Male,Married,Master,Operations,Operations Analyst,1,7,1,3695,No,Travel_Rarely,14,4,4,4,3,No
+E00387,46,Female,Single,Bachelor,Sales,Sales Manager,1,7,5,4873,Yes,Travel_Rarely,21,1,2,1,3,No
+E00388,19,Female,Single,Bachelor,R&D,Research Scientist,1,1,0,5930,No,Travel_Rarely,28,2,1,4,3,Yes
+E00389,32,Female,Divorced,Master,IT,DevOps Engineer,2,2,2,6481,Yes,Travel_Rarely,3,3,1,1,4,No
+E00390,27,Male,Single,High School,IT,DevOps Engineer,2,2,1,7197,Yes,Travel_Rarely,1,4,1,4,3,Yes
+E00391,51,Female,Married,PhD,Sales,Account Executive,2,4,0,4082,No,Travel_Rarely,1,1,3,3,3,No
+E00392,29,Male,Divorced,PhD,Operations,Logistics Coordinator,3,0,0,6431,No,Travel_Rarely,25,4,1,2,3,Yes
+E00393,38,Female,Married,High School,Sales,Sales Manager,3,4,2,8198,No,Travel_Frequently,10,3,2,1,3,No
+E00394,30,Male,Single,Bachelor,HR,HR Business Partner,3,0,0,6427,No,Travel_Rarely,19,3,3,4,3,No
+E00395,35,Male,Single,PhD,HR,Recruiter,2,3,0,10389,Yes,Travel_Frequently,1,4,3,3,3,No
+E00396,20,Male,Single,Master,R&D,Lab Technician,1,2,2,11830,No,Travel_Rarely,23,4,3,1,3,No
+E00397,29,Male,Single,Bachelor,Marketing,Content Strategist,2,11,2,8821,Yes,Travel_Rarely,22,4,2,1,3,Yes
+E00398,32,Female,Divorced,PhD,Sales,Sales Manager,1,4,1,4351,Yes,Travel_Rarely,1,1,3,2,3,Yes
+E00399,39,Female,Single,PhD,Marketing,Marketing Specialist,1,0,0,6722,No,Travel_Rarely,1,1,2,3,3,No
+E00400,33,Female,Divorced,High School,Operations,Logistics Coordinator,1,0,0,5073,No,Non-Travel,1,3,3,2,4,No
+E00401,19,Male,Single,Bachelor,HR,HR Specialist,2,0,0,10864,Yes,Travel_Rarely,7,4,1,2,3,No
+E00402,36,Male,Married,Bachelor,Marketing,Marketing Specialist,2,16,0,2751,No,Travel_Rarely,3,3,4,1,3,No
+E00403,35,Female,Divorced,Master,Marketing,Marketing Specialist,1,8,3,4576,No,Travel_Rarely,1,1,2,3,3,No
+E00404,41,Female,Divorced,PhD,Finance,Accountant,1,1,1,8142,No,Travel_Rarely,3,3,4,3,3,Yes
+E00405,24,Male,Married,High School,Operations,Operations Analyst,2,3,0,6305,Yes,Travel_Rarely,3,1,3,3,3,Yes
+E00406,42,Female,Single,Bachelor,HR,HR Business Partner,1,5,2,12155,Yes,Travel_Frequently,17,3,3,3,3,No
+E00407,26,Male,Divorced,PhD,Operations,Operations Analyst,3,2,2,4278,No,Travel_Rarely,4,1,4,3,3,No
+E00408,25,Male,Married,Bachelor,HR,HR Business Partner,1,6,0,11278,No,Travel_Frequently,1,4,4,4,3,No
+E00409,44,Male,Married,High School,Marketing,Content Strategist,2,9,1,13675,No,Travel_Rarely,3,4,3,3,3,No
+E00410,19,Male,Married,Bachelor,Finance,Financial Analyst,2,1,1,9114,Yes,Non-Travel,13,3,2,3,3,No
+E00411,27,Female,Married,High School,Marketing,Brand Manager,2,6,0,4426,No,Travel_Frequently,8,4,3,3,3,No
+E00412,32,Female,Divorced,Master,Finance,Financial Analyst,3,1,1,9006,No,Travel_Rarely,4,1,4,2,3,No
+E00413,29,Female,Single,Master,Finance,Financial Analyst,2,5,0,8305,Yes,Travel_Rarely,1,2,2,2,3,Yes
+E00414,24,Male,Married,High School,IT,Data Analyst,1,6,0,5277,No,Non-Travel,1,1,4,3,4,No
+E00415,26,Male,Married,High School,Sales,Sales Manager,1,3,3,14187,Yes,Travel_Rarely,17,3,2,2,3,No
+E00416,28,Female,Married,High School,R&D,Senior Engineer,2,3,2,4239,No,Travel_Rarely,19,4,4,4,3,No
+E00417,39,Male,Single,High School,Sales,Account Executive,4,1,1,4315,No,Travel_Frequently,9,2,3,1,4,No
+E00418,38,Male,Married,Master,Marketing,Content Strategist,1,1,1,8052,Yes,Travel_Rarely,10,2,2,3,3,Yes
+E00419,41,Female,Married,Bachelor,R&D,Research Scientist,1,1,1,14379,No,Non-Travel,1,1,3,3,3,No
+E00420,38,Female,Single,Bachelor,HR,HR Business Partner,1,5,1,3348,No,Travel_Rarely,25,3,2,2,3,No
+E00421,28,Male,Single,Master,R&D,Senior Engineer,3,3,0,6084,Yes,Non-Travel,3,2,2,1,3,No
+E00422,21,Male,Divorced,High School,Marketing,Content Strategist,2,0,0,5918,No,Travel_Frequently,6,1,4,3,3,No
+E00423,25,Female,Single,Master,Marketing,Marketing Specialist,3,2,0,3700,No,Travel_Rarely,1,1,1,1,3,No
+E00424,46,Male,Divorced,Master,Finance,Finance Manager,3,5,1,9567,No,Travel_Rarely,7,2,2,1,4,No
+E00425,54,Male,Married,High School,Operations,Logistics Coordinator,2,8,0,3802,No,Travel_Rarely,7,2,4,1,4,No
+E00426,33,Male,Married,PhD,IT,Software Engineer,4,0,0,10211,No,Travel_Rarely,1,4,2,2,3,No
+E00427,26,Female,Married,Bachelor,HR,HR Specialist,3,1,1,8739,No,Travel_Rarely,3,1,4,2,3,No
+E00428,38,Male,Divorced,High School,Sales,Sales Executive,1,2,0,7859,No,Travel_Rarely,1,1,1,4,3,Yes
+E00429,26,Female,Married,PhD,Marketing,Content Strategist,3,5,1,10441,No,Travel_Rarely,2,1,3,2,3,No
+E00430,30,Female,Married,High School,Sales,Sales Executive,2,3,0,5769,No,Travel_Rarely,1,2,1,3,3,No
+E00431,25,Female,Divorced,Master,Sales,Sales Executive,2,0,0,2809,No,Non-Travel,8,1,2,2,3,Yes
+E00432,44,Female,Married,Master,Marketing,Marketing Specialist,2,7,0,6487,No,Travel_Rarely,7,3,3,2,4,Yes
+E00433,20,Male,Single,High School,IT,IT Support,1,0,0,3786,Yes,Travel_Rarely,6,4,4,2,3,Yes
+E00434,32,Female,Divorced,High School,Finance,Finance Manager,3,9,1,2615,Yes,Travel_Frequently,6,4,4,2,3,No
+E00435,21,Female,Single,High School,IT,Data Analyst,2,0,0,4182,No,Travel_Rarely,11,4,4,1,3,No
+E00436,25,Female,Divorced,High School,HR,Recruiter,1,7,3,5880,No,Travel_Frequently,2,3,1,2,3,No
+E00437,39,Female,Single,High School,Finance,Finance Manager,2,3,3,1920,No,Travel_Frequently,1,2,4,3,3,No
+E00438,40,Male,Married,Master,Sales,Account Executive,3,0,0,4603,No,Non-Travel,3,2,4,4,3,No
+E00439,43,Female,Married,Bachelor,R&D,Lab Technician,2,2,2,6591,No,Travel_Rarely,7,3,1,2,3,No
+E00440,22,Female,Married,High School,Sales,Sales Manager,2,4,3,10626,No,Travel_Frequently,4,4,4,1,3,No
+E00441,56,Male,Single,Master,Finance,Finance Manager,3,1,0,8955,No,Travel_Rarely,11,1,1,4,3,No
+E00442,53,Male,Single,PhD,Operations,Logistics Coordinator,2,1,0,4597,Yes,Travel_Rarely,1,2,4,3,3,Yes
+E00443,34,Male,Single,Master,HR,Recruiter,1,3,0,4664,No,Non-Travel,1,4,3,4,3,No
+E00444,32,Male,Married,Bachelor,HR,Recruiter,2,3,3,9471,Yes,Non-Travel,1,3,3,1,3,Yes
+E00445,37,Female,Single,PhD,IT,IT Support,1,4,0,3289,Yes,Travel_Rarely,1,1,3,2,3,Yes
+E00446,43,Male,Married,PhD,IT,Data Analyst,2,1,1,6930,No,Non-Travel,1,3,1,4,3,Yes
+E00447,46,Male,Divorced,PhD,Marketing,Content Strategist,1,2,0,11202,Yes,Travel_Frequently,1,2,4,1,3,No
+E00448,33,Female,Divorced,PhD,IT,IT Support,3,4,0,3975,Yes,Travel_Rarely,1,2,2,2,3,Yes
+E00449,40,Female,Married,Bachelor,Finance,Finance Manager,1,2,2,14340,Yes,Travel_Frequently,16,2,3,4,3,No
+E00450,24,Female,Divorced,Master,R&D,Lab Technician,1,1,0,3019,No,Travel_Rarely,3,3,3,2,4,Yes
+E00451,51,Female,Divorced,PhD,Marketing,Marketing Specialist,2,8,2,2734,Yes,Travel_Rarely,4,2,3,1,3,No
+E00452,38,Male,Married,Bachelor,Marketing,Content Strategist,2,2,2,6443,No,Travel_Rarely,1,3,4,1,3,No
+E00453,30,Male,Married,Master,Sales,Account Executive,1,4,1,3539,No,Travel_Rarely,1,1,2,3,3,No
+E00454,31,Female,Single,Bachelor,R&D,Research Scientist,2,3,0,3201,No,Travel_Rarely,12,3,2,1,3,No
+E00455,43,Male,Married,PhD,Marketing,Content Strategist,2,3,1,3696,Yes,Travel_Rarely,2,4,2,3,3,No
+E00456,43,Male,Divorced,PhD,Finance,Finance Manager,2,4,1,2614,No,Non-Travel,10,3,1,1,3,No
+E00457,41,Male,Divorced,High School,IT,Data Analyst,1,0,0,6344,No,Travel_Frequently,5,3,2,2,3,Yes
+E00458,35,Female,Single,Bachelor,R&D,Research Scientist,2,0,0,9148,No,Travel_Frequently,11,1,4,1,3,No
+E00459,24,Male,Single,Bachelor,Operations,Operations Manager,1,1,1,6830,No,Travel_Rarely,4,1,3,4,3,No
+E00460,29,Female,Single,Master,HR,Recruiter,2,0,0,3071,No,Travel_Rarely,1,1,3,4,3,No
+E00461,45,Female,Single,Master,Operations,Operations Analyst,2,12,2,7878,No,Travel_Frequently,21,2,1,2,3,No
+E00462,44,Female,Divorced,High School,R&D,Research Scientist,1,5,0,8040,No,Travel_Rarely,2,3,3,3,3,No
+E00463,54,Male,Single,Master,Sales,Account Executive,3,1,1,6004,Yes,Travel_Rarely,30,3,4,2,3,No
+E00464,43,Female,Divorced,PhD,Finance,Financial Analyst,1,12,2,9433,No,Travel_Rarely,4,4,3,3,3,No
+E00465,46,Male,Single,High School,Finance,Financial Analyst,2,3,1,8978,No,Travel_Rarely,10,3,2,3,3,No
+E00466,22,Male,Divorced,PhD,Marketing,Marketing Specialist,1,2,2,4125,No,Travel_Frequently,11,2,2,4,3,No
+E00467,32,Male,Single,High School,Marketing,Marketing Specialist,1,14,1,7090,Yes,Travel_Rarely,2,2,1,4,3,No
+E00468,25,Female,Married,PhD,Sales,Sales Executive,3,7,4,5065,No,Travel_Rarely,1,3,1,2,4,No
+E00469,37,Male,Divorced,High School,Marketing,Brand Manager,4,1,0,7071,No,Travel_Frequently,12,4,3,1,3,No
+E00470,36,Male,Married,Master,Marketing,Content Strategist,2,0,0,5664,No,Travel_Rarely,23,1,1,1,3,Yes
+E00471,45,Male,Married,Bachelor,Operations,Operations Analyst,2,5,0,8888,No,Travel_Frequently,5,3,4,4,3,No
+E00472,32,Male,Married,Master,Operations,Operations Analyst,1,2,0,6991,No,Travel_Rarely,5,2,4,3,3,No
+E00473,47,Female,Divorced,High School,Sales,Account Executive,1,7,2,5606,No,Travel_Frequently,3,2,1,1,3,Yes
+E00474,38,Male,Single,Bachelor,HR,HR Specialist,1,5,0,5434,No,Travel_Rarely,9,3,2,4,4,No
+E00475,27,Male,Divorced,PhD,R&D,Senior Engineer,3,9,0,4119,Yes,Travel_Frequently,6,3,2,1,3,Yes
+E00476,29,Male,Divorced,PhD,Marketing,Content Strategist,1,2,1,3243,No,Travel_Rarely,5,1,3,1,3,Yes
+E00477,34,Male,Single,Master,HR,HR Business Partner,1,4,3,5722,Yes,Travel_Rarely,13,2,2,1,3,Yes
+E00478,51,Female,Married,PhD,Finance,Accountant,2,2,1,2850,No,Travel_Frequently,7,3,3,2,3,No
+E00479,43,Female,Married,Master,R&D,Research Scientist,1,1,1,5682,No,Travel_Rarely,10,3,2,2,3,No
+E00480,32,Female,Married,High School,R&D,Senior Engineer,2,0,0,6420,Yes,Travel_Rarely,5,3,4,4,4,No
+E00481,48,Male,Married,High School,R&D,Senior Engineer,2,5,0,3092,No,Travel_Rarely,9,1,3,2,3,No
+E00482,31,Male,Single,Master,Marketing,Marketing Specialist,3,8,1,5455,No,Travel_Rarely,11,1,1,4,4,No
+E00483,38,Female,Single,PhD,Operations,Logistics Coordinator,2,8,0,6050,No,Travel_Frequently,2,4,2,3,3,No
+E00484,30,Male,Divorced,Bachelor,Operations,Logistics Coordinator,1,1,0,3719,Yes,Travel_Rarely,6,1,4,3,3,No
+E00485,19,Male,Divorced,PhD,IT,Data Analyst,2,1,0,3453,No,Travel_Rarely,1,4,2,2,3,No
+E00486,44,Female,Single,High School,HR,HR Specialist,1,1,0,3966,No,Non-Travel,1,2,4,2,3,Yes
+E00487,37,Male,Single,Master,Marketing,Marketing Specialist,2,0,0,10791,No,Travel_Frequently,11,3,4,4,4,No
+E00488,37,Female,Married,High School,Sales,Account Executive,1,10,1,4502,No,Travel_Rarely,6,3,3,2,3,No
+E00489,27,Female,Married,PhD,Operations,Operations Manager,3,1,1,7563,Yes,Non-Travel,6,4,2,4,3,Yes
+E00490,36,Female,Single,Bachelor,Operations,Operations Analyst,2,2,2,4785,No,Non-Travel,3,2,4,2,3,Yes
+E00491,32,Female,Divorced,High School,R&D,Research Scientist,2,13,8,3523,No,Travel_Rarely,11,3,1,2,3,No
+E00492,31,Female,Single,Bachelor,Finance,Finance Manager,1,4,4,5058,No,Travel_Frequently,7,4,4,2,4,No
+E00493,34,Male,Single,Bachelor,Sales,Sales Executive,1,1,1,4732,No,Travel_Rarely,3,2,2,1,3,No
+E00494,47,Male,Married,PhD,HR,HR Specialist,1,0,0,4223,No,Travel_Frequently,3,4,1,3,3,No
+E00495,34,Male,Divorced,Master,IT,IT Support,1,7,0,3149,No,Non-Travel,3,2,2,4,3,No
+E00496,43,Female,Single,High School,R&D,Senior Engineer,1,4,0,4573,No,Travel_Frequently,1,3,4,1,3,No
+E00497,35,Male,Divorced,High School,Sales,Sales Executive,2,0,0,5447,Yes,Travel_Rarely,10,4,2,1,3,Yes
+E00498,34,Female,Single,PhD,Sales,Sales Manager,4,9,0,12032,No,Travel_Rarely,3,2,1,4,3,No
+E00499,29,Female,Married,Bachelor,R&D,Lab Technician,2,11,0,10263,Yes,Travel_Rarely,5,4,3,1,4,No
+E00500,49,Male,Divorced,High School,IT,Software Engineer,3,6,6,5628,No,Travel_Rarely,5,3,4,3,3,No
+E00501,37,Male,Single,PhD,Operations,Operations Analyst,1,6,4,8798,No,Travel_Frequently,12,4,2,3,3,No
+E00502,45,Female,Divorced,PhD,Marketing,Content Strategist,2,4,1,8545,Yes,Travel_Rarely,4,3,3,4,3,No
+E00503,50,Female,Married,Master,IT,Data Analyst,1,1,1,5193,Yes,Travel_Rarely,2,4,4,2,3,Yes
+E00504,40,Female,Divorced,Bachelor,Operations,Operations Manager,1,2,1,4032,No,Travel_Rarely,2,4,2,1,4,No
+E00505,33,Male,Single,Bachelor,Sales,Sales Executive,3,0,0,5159,Yes,Travel_Rarely,10,4,3,1,3,Yes
+E00506,25,Female,Single,High School,Finance,Finance Manager,3,5,0,2598,No,Travel_Rarely,1,4,1,1,3,Yes
+E00507,39,Male,Divorced,PhD,Marketing,Brand Manager,3,2,2,10442,Yes,Travel_Frequently,11,4,3,1,3,No
+E00508,35,Male,Divorced,Bachelor,Finance,Financial Analyst,2,0,0,3485,No,Travel_Rarely,1,2,3,2,3,Yes
+E00509,35,Male,Married,PhD,Marketing,Marketing Specialist,2,3,3,5389,No,Travel_Rarely,21,3,2,1,3,No
+E00510,43,Male,Single,Master,HR,Recruiter,1,1,1,5088,No,Travel_Rarely,1,4,4,2,3,No
+E00511,39,Male,Married,PhD,Marketing,Content Strategist,2,5,0,6241,No,Travel_Rarely,7,3,3,3,3,No
+E00512,37,Male,Divorced,Master,Operations,Operations Analyst,2,3,0,2377,No,Non-Travel,1,3,2,4,3,No
+E00513,53,Female,Single,Master,HR,HR Specialist,2,2,2,4236,No,Travel_Rarely,5,3,3,4,3,No
+E00514,20,Male,Married,Bachelor,IT,IT Support,1,2,2,5923,Yes,Travel_Rarely,6,4,1,4,3,Yes
+E00515,28,Male,Divorced,Master,Marketing,Content Strategist,4,10,1,5919,No,Travel_Rarely,1,2,3,4,3,No
+E00516,39,Male,Married,Master,R&D,Lab Technician,1,8,3,4351,Yes,Travel_Rarely,6,1,4,3,3,Yes
+E00517,35,Male,Single,Bachelor,HR,HR Specialist,1,8,1,4625,No,Travel_Rarely,6,3,2,2,3,No
+E00518,21,Female,Single,High School,IT,DevOps Engineer,1,1,1,5301,No,Travel_Frequently,28,2,2,2,3,No
+E00519,50,Female,Divorced,Master,Sales,Sales Executive,1,1,1,8612,No,Travel_Frequently,3,4,1,1,3,No
+E00520,55,Female,Married,Bachelor,Finance,Finance Manager,2,0,0,8894,Yes,Travel_Frequently,3,3,4,2,3,No
+E00521,42,Male,Divorced,Master,IT,Data Analyst,3,0,0,21302,No,Travel_Rarely,6,1,4,4,3,No
+E00522,21,Female,Married,High School,Finance,Finance Manager,3,3,2,4790,No,Travel_Rarely,7,2,4,1,4,No
+E00523,27,Female,Single,Master,Sales,Account Executive,3,9,0,4515,No,Travel_Rarely,5,2,4,1,3,No
+E00524,46,Female,Single,PhD,R&D,Lab Technician,2,4,0,5756,No,Travel_Rarely,1,4,3,3,3,No
+E00525,41,Male,Divorced,Bachelor,Marketing,Brand Manager,1,2,1,4384,No,Non-Travel,17,3,4,3,3,No
+E00526,36,Male,Single,Bachelor,IT,Software Engineer,3,3,0,5471,No,Travel_Frequently,11,3,2,4,3,No
+E00527,26,Female,Married,Master,Finance,Financial Analyst,1,8,3,11375,No,Travel_Rarely,1,2,4,4,3,Yes
+E00528,25,Male,Single,Master,HR,Recruiter,1,6,0,5581,No,Travel_Rarely,8,1,4,1,3,No
+E00529,35,Female,Divorced,Master,Finance,Finance Manager,3,7,6,6696,Yes,Travel_Rarely,3,1,4,3,3,Yes
+E00530,34,Male,Divorced,Bachelor,HR,HR Specialist,4,2,0,3685,Yes,Travel_Rarely,2,4,1,3,3,No
+E00531,31,Female,Single,PhD,IT,DevOps Engineer,2,2,0,3759,No,Travel_Rarely,8,3,3,4,4,No
+E00532,30,Female,Married,PhD,Operations,Operations Manager,1,5,2,6382,No,Travel_Rarely,1,4,2,2,3,No
+E00533,35,Female,Divorced,Master,IT,Software Engineer,2,3,3,6988,No,Travel_Rarely,4,1,2,3,3,No
+E00534,40,Female,Divorced,PhD,Marketing,Brand Manager,2,2,1,4253,No,Travel_Frequently,1,4,3,4,3,No
+E00535,30,Female,Divorced,High School,Finance,Financial Analyst,1,12,4,6234,No,Travel_Rarely,1,2,1,2,3,No
+E00536,37,Female,Divorced,High School,R&D,Research Scientist,3,1,0,5603,No,Travel_Rarely,22,4,1,1,3,Yes
+E00537,35,Male,Divorced,PhD,Sales,Sales Manager,2,0,0,6892,Yes,Travel_Rarely,1,1,1,3,3,No
+E00538,44,Male,Divorced,Bachelor,HR,HR Specialist,1,1,1,5744,Yes,Non-Travel,12,2,3,4,3,No
+E00539,39,Female,Divorced,PhD,Sales,Sales Executive,1,2,2,6758,No,Travel_Rarely,3,3,3,4,3,No
+E00540,59,Female,Married,PhD,R&D,Senior Engineer,2,11,0,6032,No,Travel_Rarely,1,2,4,4,3,No
+E00541,27,Female,Single,Master,Operations,Operations Analyst,1,2,1,3880,No,Travel_Rarely,2,1,4,3,3,No
+E00542,37,Male,Divorced,PhD,Sales,Sales Executive,2,0,0,5586,Yes,Travel_Frequently,13,2,3,3,3,Yes
+E00543,36,Male,Single,Master,IT,IT Support,1,0,0,7717,No,Travel_Rarely,2,3,1,4,3,No
+E00544,21,Female,Married,Bachelor,R&D,Lab Technician,1,3,3,3536,No,Travel_Rarely,7,4,4,2,4,Yes
+E00545,52,Female,Married,Bachelor,HR,HR Specialist,3,3,1,7250,No,Travel_Rarely,4,4,2,3,3,No
+E00546,30,Female,Divorced,PhD,IT,Software Engineer,3,2,2,7044,Yes,Travel_Rarely,2,2,2,3,3,Yes
+E00547,37,Male,Divorced,High School,HR,Recruiter,2,2,0,16127,No,Travel_Rarely,16,4,2,3,4,Yes
+E00548,40,Male,Single,High School,R&D,Research Scientist,2,5,1,4269,No,Travel_Frequently,2,3,3,2,3,No
+E00549,42,Female,Married,PhD,R&D,Research Scientist,1,15,2,5264,Yes,Non-Travel,10,4,2,3,3,No
+E00550,30,Female,Single,PhD,Marketing,Marketing Specialist,1,0,0,2957,No,Travel_Rarely,1,3,1,2,3,Yes
+E00551,35,Male,Married,PhD,R&D,Research Scientist,2,2,2,7071,No,Non-Travel,7,3,4,1,3,Yes
+E00552,36,Male,Divorced,Bachelor,R&D,Senior Engineer,1,5,0,6407,No,Travel_Frequently,1,1,2,4,3,No
+E00553,22,Male,Divorced,High School,Finance,Accountant,1,0,0,5465,Yes,Travel_Rarely,2,3,3,2,3,No
+E00554,25,Male,Single,Bachelor,HR,HR Business Partner,1,1,1,12611,No,Travel_Frequently,29,3,2,3,3,No
+E00555,30,Male,Married,Bachelor,Marketing,Brand Manager,1,0,0,8344,No,Travel_Rarely,14,3,1,2,3,No
+E00556,27,Male,Single,PhD,Sales,Sales Executive,2,5,0,5022,No,Travel_Rarely,3,4,2,3,3,No
+E00557,29,Male,Divorced,High School,Sales,Account Executive,1,7,2,9569,No,Travel_Rarely,2,3,1,1,3,No
+E00558,19,Female,Divorced,Bachelor,R&D,Lab Technician,3,1,1,7258,No,Travel_Frequently,6,2,3,3,3,No
+E00559,53,Male,Married,PhD,Sales,Account Executive,1,3,1,9521,No,Travel_Rarely,2,4,3,2,3,No
+E00560,35,Female,Divorced,PhD,Operations,Operations Manager,2,0,0,4576,No,Travel_Rarely,1,4,2,2,3,No
+E00561,38,Female,Divorced,Master,HR,Recruiter,4,4,2,10280,Yes,Travel_Rarely,4,2,1,2,3,No
+E00562,19,Female,Divorced,Bachelor,Finance,Financial Analyst,1,1,0,7197,Yes,Travel_Frequently,1,4,2,1,3,No
+E00563,19,Female,Divorced,Bachelor,HR,Recruiter,3,0,0,15046,Yes,Non-Travel,1,1,4,2,3,Yes
+E00564,39,Male,Single,Bachelor,Operations,Operations Manager,1,1,1,4999,No,Travel_Rarely,14,3,4,3,3,Yes
+E00565,38,Male,Divorced,PhD,R&D,Research Scientist,1,1,0,4723,Yes,Non-Travel,21,2,1,4,4,Yes
+E00566,46,Male,Single,Bachelor,Marketing,Brand Manager,2,5,5,8463,Yes,Travel_Rarely,13,3,1,3,4,Yes
+E00567,28,Female,Married,High School,Marketing,Brand Manager,1,4,3,7022,No,Non-Travel,4,1,4,1,3,No
+E00568,35,Male,Divorced,High School,IT,DevOps Engineer,2,2,0,8514,No,Travel_Frequently,1,1,1,3,3,Yes
+E00569,32,Male,Divorced,Bachelor,Sales,Account Executive,3,1,0,2212,No,Travel_Rarely,1,2,4,2,3,Yes
+E00570,47,Female,Single,Bachelor,Operations,Logistics Coordinator,2,0,0,9420,No,Travel_Rarely,1,4,1,3,4,No
+E00571,31,Female,Married,Master,IT,Data Analyst,2,2,0,8210,No,Travel_Rarely,13,4,3,2,3,No
+E00572,21,Female,Divorced,Bachelor,Operations,Operations Manager,3,0,0,5455,Yes,Travel_Rarely,11,3,4,4,3,No
+E00573,31,Female,Married,PhD,Operations,Logistics Coordinator,2,0,0,4798,Yes,Travel_Frequently,6,2,4,3,3,Yes
+E00574,30,Female,Single,Master,Sales,Account Executive,1,1,0,9824,No,Travel_Rarely,7,1,3,1,3,No
+E00575,43,Male,Single,High School,R&D,Research Scientist,1,1,1,10130,No,Travel_Rarely,26,3,1,3,3,No
+E00576,32,Male,Single,Master,Finance,Accountant,3,0,0,13908,No,Travel_Rarely,1,2,2,3,3,No
+E00577,31,Female,Married,Bachelor,IT,DevOps Engineer,2,4,1,8437,Yes,Travel_Rarely,9,1,4,2,3,No
+E00578,35,Female,Single,High School,Finance,Finance Manager,2,1,0,8855,No,Travel_Frequently,5,1,3,1,3,No
+E00579,39,Male,Single,High School,IT,DevOps Engineer,2,1,1,3901,No,Travel_Rarely,4,3,4,4,3,No
+E00580,28,Female,Divorced,Bachelor,Marketing,Content Strategist,1,10,1,3775,Yes,Travel_Rarely,19,4,1,3,3,No
+E00581,42,Female,Married,High School,HR,Recruiter,2,0,0,6765,No,Travel_Rarely,1,2,2,1,4,No
+E00582,40,Male,Married,High School,R&D,Lab Technician,1,0,0,11063,No,Non-Travel,1,3,4,2,3,Yes
+E00583,31,Male,Single,PhD,Operations,Operations Manager,4,4,2,9734,Yes,Travel_Rarely,1,3,1,4,3,No
+E00584,39,Male,Single,High School,Operations,Operations Analyst,2,9,0,10383,No,Travel_Frequently,8,4,4,2,4,No
+E00585,42,Female,Married,Master,HR,HR Business Partner,2,0,0,4505,No,Travel_Rarely,4,3,1,1,3,No
+E00586,36,Female,Divorced,PhD,R&D,Lab Technician,2,6,0,6370,Yes,Travel_Frequently,2,3,1,3,3,Yes
+E00587,48,Female,Single,High School,Operations,Operations Analyst,3,1,1,8757,Yes,Travel_Rarely,8,4,1,2,3,Yes
+E00588,23,Female,Single,Master,Sales,Account Executive,2,4,4,5378,Yes,Travel_Rarely,2,1,2,2,3,No
+E00589,49,Male,Divorced,Bachelor,Marketing,Marketing Specialist,1,0,0,6041,No,Non-Travel,3,3,4,4,3,Yes
+E00590,28,Male,Married,High School,R&D,Senior Engineer,2,1,0,6079,No,Travel_Rarely,13,3,4,2,3,No
+E00591,37,Female,Single,PhD,HR,HR Specialist,3,11,2,3854,No,Travel_Rarely,1,1,3,2,3,No
+E00592,35,Female,Single,High School,Marketing,Marketing Specialist,1,4,4,5493,No,Travel_Rarely,13,1,4,3,3,No
+E00593,39,Male,Married,PhD,HR,Recruiter,4,9,1,10824,Yes,Non-Travel,1,4,2,4,3,No
+E00594,22,Male,Single,Bachelor,IT,Software Engineer,1,4,0,4315,No,Travel_Frequently,1,2,2,4,3,No
+E00595,48,Male,Married,Master,Operations,Operations Manager,1,0,0,4766,No,Travel_Rarely,10,3,4,4,3,No
+E00596,56,Female,Married,High School,HR,Recruiter,1,5,0,8121,Yes,Travel_Frequently,7,3,2,3,3,No
+E00597,22,Male,Single,PhD,Operations,Operations Manager,1,4,0,4709,No,Travel_Frequently,3,2,2,3,3,No
+E00598,53,Female,Married,Master,Operations,Logistics Coordinator,1,2,2,20868,No,Travel_Rarely,10,2,4,2,4,No
+E00599,23,Male,Single,Master,Finance,Finance Manager,2,2,2,5910,No,Travel_Rarely,7,2,2,2,3,No
+E00600,34,Male,Married,High School,Marketing,Content Strategist,2,0,0,4188,No,Travel_Rarely,1,2,4,2,3,No
+E00601,42,Male,Divorced,High School,Operations,Logistics Coordinator,2,5,5,5591,No,Travel_Rarely,2,1,2,3,3,No
+E00602,19,Female,Single,Bachelor,IT,DevOps Engineer,3,0,0,3408,No,Travel_Frequently,7,4,4,3,3,No
+E00603,33,Male,Divorced,Bachelor,Sales,Sales Executive,3,1,0,4631,No,Travel_Rarely,4,2,1,3,3,No
+E00604,46,Female,Single,PhD,R&D,Senior Engineer,1,0,0,3387,No,Travel_Rarely,1,1,3,1,3,No
+E00605,40,Male,Single,Bachelor,Marketing,Content Strategist,1,0,0,10642,No,Travel_Frequently,4,3,2,4,3,No
+E00606,44,Male,Divorced,Bachelor,R&D,Research Scientist,3,2,2,5758,Yes,Travel_Frequently,22,4,1,3,4,No
+E00607,30,Female,Divorced,Master,IT,Data Analyst,1,7,0,7837,Yes,Travel_Rarely,6,1,2,4,4,No
+E00608,42,Female,Divorced,Master,IT,IT Support,2,4,2,6105,No,Travel_Rarely,1,2,4,4,4,No
+E00609,35,Male,Single,PhD,Finance,Finance Manager,2,0,0,1500,Yes,Travel_Rarely,8,1,1,4,3,Yes
+E00610,53,Female,Married,Master,Marketing,Marketing Specialist,2,9,1,3685,Yes,Travel_Rarely,7,4,1,2,4,No
+E00611,40,Male,Married,PhD,Finance,Financial Analyst,1,17,0,7503,No,Non-Travel,6,4,3,1,3,No
+E00612,37,Female,Married,High School,Sales,Account Executive,1,2,2,7809,Yes,Travel_Rarely,7,1,2,2,3,No
+E00613,30,Male,Divorced,High School,R&D,Lab Technician,3,4,0,8307,No,Travel_Rarely,7,2,4,1,4,No
+E00614,27,Female,Divorced,Bachelor,Sales,Sales Executive,1,2,0,7506,No,Travel_Frequently,13,4,3,1,3,No
+E00615,41,Male,Single,Bachelor,Finance,Finance Manager,3,3,1,6055,No,Travel_Frequently,15,4,1,2,3,No
+E00616,33,Female,Married,Bachelor,R&D,Senior Engineer,1,2,0,5735,No,Travel_Rarely,5,1,4,3,3,No
+E00617,33,Female,Married,High School,Sales,Sales Executive,1,13,0,5014,Yes,Travel_Rarely,3,2,1,3,3,Yes
+E00618,31,Female,Single,High School,Operations,Operations Manager,1,3,1,4281,Yes,Travel_Rarely,2,2,2,4,4,No
+E00619,29,Male,Divorced,Master,R&D,Senior Engineer,2,5,0,8050,No,Travel_Rarely,1,3,2,1,3,No
+E00620,32,Male,Single,PhD,Sales,Sales Executive,2,0,0,5116,No,Travel_Frequently,3,1,3,3,4,No
+E00621,34,Female,Single,High School,R&D,Research Scientist,2,3,0,5526,No,Travel_Frequently,8,3,2,4,3,No
+E00622,34,Female,Divorced,High School,IT,DevOps Engineer,2,1,0,5063,No,Travel_Rarely,12,3,3,4,3,No
+E00623,19,Female,Divorced,Bachelor,HR,HR Business Partner,1,0,0,6259,Yes,Travel_Rarely,1,2,1,3,3,Yes
+E00624,22,Female,Married,Master,Marketing,Marketing Specialist,2,2,1,6529,No,Travel_Frequently,1,1,1,1,3,No
+E00625,30,Female,Married,Bachelor,HR,Recruiter,4,3,1,7448,No,Non-Travel,1,3,2,4,4,No
+E00626,33,Female,Divorced,High School,Operations,Operations Analyst,2,0,0,4426,No,Travel_Rarely,2,3,2,1,3,Yes
+E00627,35,Male,Single,Bachelor,Marketing,Marketing Specialist,1,2,1,2812,No,Travel_Rarely,6,4,4,1,3,No
+E00628,37,Female,Single,High School,Marketing,Brand Manager,1,0,0,8874,No,Travel_Frequently,1,3,1,3,3,No
+E00629,29,Male,Married,Master,Marketing,Brand Manager,2,0,0,9279,No,Travel_Rarely,9,3,4,1,3,No
+E00630,28,Female,Divorced,Master,Marketing,Brand Manager,2,1,1,4958,No,Travel_Rarely,20,4,1,2,3,No
+E00631,28,Male,Single,Master,Finance,Accountant,2,2,1,3467,No,Travel_Frequently,11,1,3,3,3,No
+E00632,30,Female,Married,Bachelor,IT,DevOps Engineer,1,0,0,3230,No,Travel_Rarely,1,1,2,3,3,No
+E00633,38,Female,Divorced,Master,Operations,Logistics Coordinator,3,0,0,4143,Yes,Travel_Frequently,3,4,2,1,4,No
+E00634,19,Male,Married,PhD,Marketing,Marketing Specialist,2,1,1,8961,Yes,Travel_Rarely,6,3,4,1,4,Yes
+E00635,41,Male,Single,High School,IT,DevOps Engineer,2,0,0,11343,Yes,Non-Travel,3,2,3,2,3,Yes
+E00636,43,Female,Divorced,Master,Finance,Finance Manager,3,2,2,15760,Yes,Travel_Frequently,1,1,4,2,3,Yes
+E00637,36,Male,Married,PhD,IT,DevOps Engineer,2,17,0,10441,No,Travel_Rarely,1,2,1,2,3,No
+E00638,30,Male,Married,PhD,Marketing,Content Strategist,3,4,4,3406,Yes,Travel_Rarely,14,1,1,3,3,No
+E00639,43,Male,Married,Bachelor,Sales,Sales Executive,3,1,1,9286,No,Travel_Rarely,1,3,1,3,3,No
+E00640,37,Female,Single,Bachelor,R&D,Lab Technician,1,13,0,8607,Yes,Travel_Rarely,10,3,3,4,4,No
+E00641,33,Female,Married,Bachelor,HR,HR Specialist,1,2,1,11541,No,Travel_Frequently,5,1,1,2,3,No
+E00642,47,Female,Divorced,PhD,Marketing,Brand Manager,2,2,0,15053,No,Travel_Rarely,10,2,2,1,3,No
+E00643,34,Male,Single,PhD,Sales,Sales Executive,5,4,0,6193,Yes,Travel_Rarely,24,1,4,1,3,Yes
+E00644,41,Male,Divorced,High School,Finance,Financial Analyst,4,2,0,6909,No,Travel_Rarely,1,4,3,3,3,No
+E00645,19,Female,Divorced,PhD,IT,IT Support,3,1,1,5174,Yes,Travel_Frequently,2,2,1,4,3,Yes
+E00646,47,Female,Single,Master,Finance,Financial Analyst,2,4,4,4675,No,Travel_Rarely,6,2,2,3,3,No
+E00647,37,Male,Married,PhD,IT,DevOps Engineer,1,0,0,7180,No,Travel_Rarely,3,4,4,1,3,Yes
+E00648,34,Female,Divorced,High School,Finance,Financial Analyst,3,3,3,7487,No,Non-Travel,1,3,3,2,3,No
+E00649,42,Female,Single,Bachelor,HR,Recruiter,2,15,0,7648,Yes,Travel_Rarely,4,1,3,4,3,No
+E00650,44,Female,Married,Master,Operations,Operations Analyst,3,3,0,4051,No,Travel_Rarely,11,4,4,1,3,No
+E00651,19,Female,Single,PhD,Operations,Logistics Coordinator,2,1,0,5943,No,Travel_Frequently,1,2,2,1,4,No
+E00652,43,Female,Single,High School,HR,Recruiter,1,1,0,6363,No,Travel_Rarely,15,1,4,2,4,Yes
+E00653,32,Male,Single,Bachelor,Marketing,Content Strategist,2,2,2,3283,No,Travel_Rarely,1,4,3,4,3,No
+E00654,38,Female,Married,PhD,IT,Data Analyst,3,2,2,4240,No,Travel_Rarely,17,1,2,2,3,No
+E00655,39,Female,Divorced,Master,R&D,Research Scientist,1,3,2,11674,Yes,Travel_Rarely,7,3,3,3,3,No
+E00656,37,Male,Married,High School,Sales,Account Executive,2,15,4,4311,No,Travel_Rarely,4,1,4,2,3,No
+E00657,23,Male,Married,PhD,Sales,Account Executive,1,0,0,12924,Yes,Non-Travel,13,3,1,3,3,No
+E00658,28,Male,Divorced,Bachelor,Marketing,Brand Manager,3,3,2,8248,No,Travel_Frequently,10,4,4,4,3,No
+E00659,26,Male,Married,Bachelor,Finance,Financial Analyst,2,3,2,6128,Yes,Travel_Rarely,1,2,4,3,3,No
+E00660,27,Female,Divorced,PhD,R&D,Research Scientist,1,9,2,3445,No,Travel_Rarely,4,1,1,2,3,No
+E00661,33,Female,Divorced,Bachelor,R&D,Research Scientist,1,1,1,5817,Yes,Travel_Frequently,1,2,4,4,3,No
+E00662,41,Male,Married,High School,Finance,Finance Manager,2,6,4,5158,No,Travel_Rarely,5,4,4,4,3,No
+E00663,40,Female,Single,High School,Operations,Operations Manager,1,17,3,8333,Yes,Travel_Frequently,1,2,3,4,3,No
+E00664,30,Male,Single,Master,Operations,Operations Manager,3,0,0,4958,No,Non-Travel,20,3,1,4,3,No
+E00665,34,Male,Divorced,Master,Finance,Finance Manager,2,4,0,5458,No,Travel_Rarely,27,1,1,2,3,No
+E00666,44,Female,Divorced,Master,Operations,Operations Analyst,1,3,0,6335,No,Travel_Rarely,3,3,1,4,3,No
+E00667,35,Female,Divorced,Master,Finance,Accountant,1,6,3,6046,No,Travel_Rarely,2,3,3,2,3,Yes
+E00668,48,Female,Divorced,High School,Sales,Account Executive,2,0,0,3579,No,Travel_Rarely,3,4,2,1,3,No
+E00669,34,Female,Married,Bachelor,HR,HR Business Partner,2,0,0,6045,No,Travel_Frequently,17,1,2,1,3,No
+E00670,38,Male,Divorced,Bachelor,Operations,Operations Manager,1,6,1,6731,Yes,Travel_Rarely,1,3,3,1,3,No
+E00671,19,Male,Married,Bachelor,Marketing,Brand Manager,2,1,0,4949,Yes,Travel_Rarely,20,3,2,3,3,No
+E00672,41,Male,Married,PhD,IT,Software Engineer,3,3,1,2781,Yes,Travel_Rarely,1,3,1,2,3,No
+E00673,34,Female,Single,Master,IT,IT Support,1,9,0,7184,No,Travel_Rarely,1,2,4,2,3,Yes
+E00674,43,Female,Married,Bachelor,IT,Software Engineer,2,3,1,4635,No,Travel_Rarely,13,1,2,4,3,No
+E00675,41,Female,Single,Master,Finance,Finance Manager,1,3,2,9237,No,Travel_Rarely,8,4,4,3,3,No
+E00676,51,Female,Married,Master,IT,IT Support,2,10,3,4195,No,Travel_Frequently,5,4,3,1,3,Yes
+E00677,30,Female,Married,Bachelor,HR,HR Business Partner,2,10,0,2976,No,Travel_Rarely,3,3,1,3,4,No
+E00678,41,Male,Divorced,High School,Marketing,Content Strategist,1,1,0,3019,No,Travel_Rarely,6,2,3,2,3,Yes
+E00679,47,Female,Married,Bachelor,IT,Software Engineer,1,10,0,4227,Yes,Travel_Frequently,3,1,4,1,3,No
+E00680,46,Male,Single,Bachelor,Marketing,Brand Manager,3,1,1,7061,No,Travel_Rarely,8,3,2,1,3,Yes
+E00681,32,Male,Married,Bachelor,Operations,Logistics Coordinator,2,5,3,8539,Yes,Travel_Frequently,9,1,1,1,3,No
+E00682,19,Male,Divorced,PhD,Sales,Account Executive,3,1,1,8692,No,Travel_Rarely,6,2,3,3,3,No
+E00683,22,Female,Single,PhD,HR,HR Business Partner,4,2,0,3971,Yes,Travel_Frequently,9,3,3,2,4,No
+E00684,41,Male,Married,Bachelor,Finance,Accountant,2,8,0,4147,No,Non-Travel,11,1,3,3,3,No
+E00685,33,Female,Single,High School,Operations,Operations Manager,2,4,4,10458,No,Travel_Rarely,4,2,4,1,3,Yes
+E00686,30,Female,Married,High School,Finance,Finance Manager,1,12,6,3854,Yes,Travel_Frequently,2,3,1,1,3,Yes
+E00687,45,Female,Married,High School,Finance,Financial Analyst,1,2,0,6598,Yes,Travel_Rarely,1,1,1,4,3,Yes
+E00688,29,Male,Divorced,Bachelor,Operations,Logistics Coordinator,1,8,0,3818,No,Travel_Frequently,12,4,4,4,3,No
+E00689,32,Female,Married,High School,Sales,Sales Manager,2,0,0,8491,No,Travel_Rarely,10,4,1,3,3,No
+E00690,44,Female,Married,Bachelor,Marketing,Content Strategist,1,20,1,5589,No,Travel_Frequently,10,1,3,3,3,Yes
+E00691,37,Female,Single,Master,R&D,Senior Engineer,1,7,1,10127,No,Travel_Rarely,26,1,4,2,3,No
+E00692,21,Male,Divorced,Bachelor,Finance,Financial Analyst,2,0,0,4400,No,Travel_Rarely,4,4,2,2,3,Yes
+E00693,31,Female,Single,High School,Finance,Accountant,3,1,0,12271,No,Travel_Rarely,5,1,3,4,3,No
+E00694,29,Female,Divorced,Bachelor,HR,HR Specialist,4,1,1,5593,No,Travel_Frequently,1,3,1,4,3,Yes
+E00695,30,Female,Divorced,High School,Marketing,Content Strategist,2,5,1,4541,No,Travel_Rarely,18,2,1,1,3,No
+E00696,34,Male,Married,High School,Finance,Finance Manager,2,2,2,3695,Yes,Non-Travel,1,1,2,2,4,Yes
+E00697,24,Male,Single,Bachelor,Finance,Finance Manager,3,4,4,2252,No,Travel_Frequently,1,2,1,1,3,Yes
+E00698,22,Male,Married,Bachelor,Finance,Accountant,1,4,1,6173,Yes,Travel_Frequently,6,4,3,1,3,No
+E00699,28,Male,Married,Bachelor,IT,Software Engineer,3,4,0,6019,Yes,Travel_Rarely,11,2,3,1,3,Yes
+E00700,32,Male,Single,High School,Marketing,Brand Manager,1,6,6,4512,No,Travel_Rarely,1,2,4,2,3,No
+E00701,36,Male,Single,High School,IT,IT Support,2,2,2,3513,Yes,Travel_Rarely,3,2,1,4,4,Yes
+E00702,19,Male,Single,Master,Marketing,Content Strategist,3,1,0,3322,No,Travel_Rarely,15,3,4,4,3,No
+E00703,39,Male,Divorced,Bachelor,Operations,Operations Manager,1,1,1,5842,No,Travel_Rarely,7,4,2,2,3,No
+E00704,27,Male,Single,High School,Marketing,Brand Manager,3,9,1,14759,No,Travel_Rarely,9,1,3,3,3,No
+E00705,30,Male,Married,High School,Operations,Operations Analyst,1,2,1,5298,No,Travel_Frequently,13,3,2,4,3,No
+E00706,33,Male,Single,Master,R&D,Research Scientist,1,5,0,6239,Yes,Non-Travel,17,2,4,4,3,Yes
+E00707,34,Female,Single,High School,HR,HR Specialist,2,2,2,12538,No,Travel_Rarely,6,4,3,3,3,No
+E00708,19,Male,Single,Bachelor,Marketing,Marketing Specialist,3,1,1,3234,No,Travel_Rarely,8,2,2,1,3,Yes
+E00709,39,Female,Single,High School,Marketing,Brand Manager,3,0,0,3381,No,Non-Travel,11,3,4,2,3,No
+E00710,19,Female,Single,High School,HR,HR Specialist,2,0,0,8357,No,Travel_Rarely,4,1,2,4,3,No
+E00711,33,Female,Single,PhD,Finance,Finance Manager,4,11,0,5631,No,Travel_Rarely,1,4,1,4,4,No
+E00712,43,Male,Married,Bachelor,HR,HR Specialist,3,8,1,4410,Yes,Travel_Rarely,2,4,2,3,3,No
+E00713,42,Female,Married,PhD,Sales,Account Executive,2,1,0,4552,Yes,Travel_Rarely,3,1,3,2,4,Yes
+E00714,23,Male,Divorced,Bachelor,R&D,Lab Technician,3,3,0,7388,No,Travel_Rarely,3,2,3,2,3,No
+E00715,24,Female,Single,PhD,Sales,Sales Manager,1,3,0,9215,No,Travel_Rarely,6,4,2,4,3,No
+E00716,55,Male,Divorced,High School,Marketing,Marketing Specialist,1,6,5,12558,No,Non-Travel,10,2,3,4,3,No
+E00717,35,Female,Married,High School,Finance,Financial Analyst,3,9,1,3124,Yes,Travel_Rarely,12,1,4,1,3,Yes
+E00718,36,Female,Single,Bachelor,Finance,Accountant,2,10,0,14885,No,Travel_Rarely,1,2,1,1,3,No
+E00719,32,Female,Single,PhD,HR,HR Business Partner,4,2,1,5071,Yes,Travel_Rarely,6,2,1,1,3,No
+E00720,26,Female,Single,Master,IT,Software Engineer,3,3,1,4114,No,Non-Travel,8,4,4,2,3,No
+E00721,46,Female,Divorced,High School,Marketing,Brand Manager,2,1,0,12005,No,Non-Travel,14,1,1,4,3,No
+E00722,40,Female,Divorced,High School,HR,HR Business Partner,2,1,0,3135,Yes,Travel_Rarely,17,3,2,1,3,Yes
+E00723,39,Female,Divorced,High School,Operations,Logistics Coordinator,2,2,2,6629,Yes,Travel_Rarely,9,3,1,1,4,No
+E00724,23,Female,Single,High School,HR,HR Business Partner,1,5,1,6263,No,Travel_Rarely,1,2,1,2,4,Yes
+E00725,39,Female,Divorced,PhD,Marketing,Brand Manager,4,1,1,5601,No,Travel_Rarely,16,2,2,3,3,Yes
+E00726,31,Male,Married,Master,HR,HR Specialist,1,4,4,7031,No,Travel_Rarely,11,1,3,3,3,No
+E00727,54,Female,Single,High School,Finance,Finance Manager,1,6,1,3814,No,Travel_Rarely,3,3,1,2,3,No
+E00728,40,Male,Divorced,Bachelor,Finance,Financial Analyst,1,5,2,13328,Yes,Travel_Rarely,15,3,1,1,3,Yes
+E00729,28,Male,Married,Master,Finance,Financial Analyst,2,2,0,4177,No,Travel_Rarely,30,2,1,3,3,No
+E00730,43,Male,Divorced,Master,Finance,Accountant,2,1,1,2939,No,Travel_Frequently,2,1,3,2,3,Yes
+E00731,20,Female,Married,Master,Finance,Finance Manager,3,2,1,10940,Yes,Travel_Rarely,13,3,3,4,3,No
+E00732,54,Female,Married,High School,Operations,Operations Analyst,2,0,0,5613,Yes,Travel_Rarely,21,3,2,3,3,Yes
+E00733,30,Male,Divorced,Master,R&D,Lab Technician,2,2,0,3064,No,Travel_Rarely,1,3,4,2,3,No
+E00734,48,Female,Divorced,Bachelor,R&D,Research Scientist,2,3,3,6825,Yes,Travel_Rarely,1,2,2,2,4,Yes
+E00735,35,Male,Divorced,Master,Finance,Accountant,1,0,0,7908,No,Travel_Frequently,7,3,2,2,3,No
+E00736,35,Male,Single,PhD,HR,HR Specialist,2,4,0,10679,No,Non-Travel,2,3,4,2,4,No
+E00737,43,Female,Divorced,Master,Finance,Financial Analyst,2,0,0,7180,No,Travel_Rarely,3,4,3,2,4,Yes
+E00738,38,Female,Single,Bachelor,Finance,Accountant,1,0,0,2890,Yes,Non-Travel,13,2,4,3,3,No
+E00739,31,Male,Married,Master,Marketing,Content Strategist,1,2,2,3474,Yes,Travel_Frequently,4,1,3,1,4,Yes
+E00740,26,Female,Single,High School,Sales,Sales Manager,1,1,1,6606,Yes,Travel_Rarely,1,1,2,2,3,No
+E00741,36,Female,Divorced,High School,Sales,Account Executive,2,3,2,3103,Yes,Travel_Rarely,1,4,1,4,3,Yes
+E00742,35,Female,Single,Master,Marketing,Brand Manager,2,0,0,2161,No,Travel_Frequently,2,4,2,4,3,Yes
+E00743,31,Female,Divorced,PhD,HR,HR Business Partner,1,7,0,8812,No,Travel_Rarely,1,3,4,1,3,No
+E00744,38,Female,Single,High School,IT,IT Support,5,2,0,2977,Yes,Travel_Rarely,1,3,2,4,3,No
+E00745,38,Female,Single,High School,R&D,Research Scientist,1,1,0,3339,Yes,Travel_Rarely,8,3,4,3,3,Yes
+E00746,38,Male,Single,Bachelor,Finance,Finance Manager,1,12,1,12323,Yes,Travel_Rarely,4,3,4,2,3,No
+E00747,38,Female,Divorced,Master,IT,IT Support,2,1,0,6391,No,Travel_Frequently,30,3,4,1,3,No
+E00748,30,Male,Married,Master,Finance,Finance Manager,2,0,0,7118,No,Travel_Rarely,5,4,2,1,3,No
+E00749,60,Female,Divorced,Bachelor,Marketing,Content Strategist,2,0,0,5411,No,Non-Travel,1,4,1,3,3,No
+E00750,42,Female,Divorced,PhD,Sales,Sales Executive,1,3,1,12102,Yes,Travel_Rarely,30,3,4,1,3,No
+E00751,25,Male,Married,Bachelor,Operations,Operations Manager,4,0,0,10286,No,Non-Travel,2,3,4,1,3,No
+E00752,27,Male,Married,Bachelor,Operations,Operations Analyst,2,0,0,6912,No,Travel_Rarely,6,2,3,4,3,No
+E00753,24,Female,Divorced,High School,Sales,Sales Manager,1,4,0,4600,No,Travel_Rarely,5,3,4,3,3,Yes
+E00754,52,Female,Divorced,Master,Operations,Operations Analyst,2,1,1,4021,No,Travel_Rarely,5,2,1,2,3,No
+E00755,33,Male,Single,Master,HR,Recruiter,1,4,0,4518,Yes,Travel_Frequently,1,3,1,3,3,No
+E00756,44,Male,Divorced,Bachelor,HR,HR Business Partner,1,1,1,4283,Yes,Travel_Rarely,1,4,3,2,3,Yes
+E00757,47,Male,Single,High School,IT,Data Analyst,3,3,1,3862,No,Travel_Rarely,2,1,4,4,3,No
+E00758,24,Female,Single,Master,Finance,Accountant,1,6,1,3210,No,Travel_Rarely,19,3,3,2,3,No
+E00759,23,Male,Divorced,Bachelor,Sales,Account Executive,3,5,3,3028,Yes,Travel_Rarely,16,1,2,2,3,No
+E00760,50,Male,Single,High School,HR,HR Specialist,2,2,2,15385,No,Travel_Rarely,3,2,2,1,3,No
+E00761,34,Male,Married,High School,IT,IT Support,1,2,2,1628,No,Travel_Rarely,1,4,1,2,4,Yes
+E00762,51,Male,Divorced,Bachelor,HR,HR Specialist,2,1,0,9797,No,Travel_Rarely,1,1,3,1,3,No
+E00763,47,Female,Divorced,Master,Operations,Operations Analyst,2,0,0,6454,No,Travel_Frequently,7,2,3,1,4,Yes
+E00764,26,Male,Divorced,Bachelor,HR,HR Specialist,1,8,0,6728,Yes,Non-Travel,12,2,1,1,3,No
+E00765,36,Male,Single,PhD,Marketing,Marketing Specialist,1,3,1,2118,No,Travel_Rarely,8,3,2,1,3,No
+E00766,47,Female,Married,PhD,HR,Recruiter,1,0,0,5263,No,Travel_Rarely,12,2,4,1,3,Yes
+E00767,20,Female,Single,PhD,R&D,Senior Engineer,2,0,0,3063,Yes,Travel_Rarely,12,2,4,1,4,No
+E00768,30,Male,Single,Master,Sales,Account Executive,2,7,2,6738,No,Travel_Rarely,7,2,4,3,3,No
+E00769,36,Female,Divorced,PhD,Finance,Financial Analyst,2,3,0,3232,No,Travel_Frequently,5,4,3,4,3,No
+E00770,43,Male,Married,Master,R&D,Senior Engineer,1,11,0,5716,No,Travel_Rarely,1,4,3,4,3,No
+E00771,50,Male,Single,Bachelor,R&D,Research Scientist,3,11,0,7945,Yes,Travel_Rarely,6,4,1,4,3,No
+E00772,46,Male,Married,Bachelor,Finance,Accountant,4,2,0,6467,No,Travel_Frequently,10,1,2,1,3,No
+E00773,27,Female,Divorced,Master,Operations,Operations Manager,2,3,0,7581,No,Travel_Rarely,3,1,2,4,3,No
+E00774,41,Female,Single,PhD,IT,IT Support,1,1,0,3146,No,Travel_Rarely,28,3,4,4,3,No
+E00775,37,Male,Single,High School,Sales,Sales Executive,2,0,0,9822,No,Travel_Rarely,18,3,4,4,3,Yes
+E00776,53,Female,Divorced,Master,Marketing,Marketing Specialist,3,3,2,2875,Yes,Travel_Rarely,3,1,4,1,4,No
+E00777,19,Male,Married,PhD,R&D,Lab Technician,1,1,1,4609,Yes,Travel_Rarely,3,1,1,4,3,No
+E00778,31,Male,Married,High School,Finance,Finance Manager,3,0,0,7823,No,Travel_Rarely,5,3,3,1,3,No
+E00779,36,Male,Single,Master,Finance,Accountant,1,6,2,4977,No,Travel_Rarely,16,3,4,4,3,No
+E00780,36,Female,Married,High School,Marketing,Marketing Specialist,2,6,1,9397,No,Travel_Frequently,11,4,4,2,3,No
+E00781,36,Male,Divorced,High School,Operations,Logistics Coordinator,1,4,3,8309,No,Travel_Frequently,2,4,4,4,3,No
+E00782,35,Female,Married,High School,Finance,Accountant,2,0,0,5148,No,Travel_Rarely,4,4,4,3,3,No
+E00783,24,Male,Divorced,Master,Sales,Account Executive,3,6,0,4012,Yes,Travel_Rarely,6,1,2,3,3,Yes
+E00784,47,Male,Divorced,Bachelor,Finance,Financial Analyst,1,3,0,3349,No,Travel_Frequently,2,4,3,3,3,No
+E00785,38,Male,Married,Bachelor,R&D,Research Scientist,2,3,0,5894,No,Travel_Rarely,21,3,1,1,3,No
+E00786,38,Female,Divorced,PhD,Sales,Account Executive,2,3,2,8248,Yes,Travel_Rarely,7,3,1,4,3,No
+E00787,27,Female,Married,High School,HR,HR Specialist,1,2,0,9684,No,Travel_Rarely,1,4,1,3,3,No
+E00788,39,Female,Single,Master,IT,IT Support,1,0,0,3008,No,Travel_Rarely,17,1,2,3,3,Yes
+E00789,29,Male,Married,Master,HR,HR Business Partner,3,2,0,6598,No,Travel_Rarely,1,2,4,1,3,No
+E00790,47,Male,Divorced,Master,Sales,Sales Manager,3,3,0,3821,Yes,Travel_Frequently,3,4,2,1,3,No
+E00791,36,Male,Divorced,Master,HR,HR Specialist,1,2,0,9229,No,Travel_Rarely,6,4,4,2,4,No
+E00792,34,Female,Divorced,PhD,Operations,Operations Manager,3,2,2,10729,Yes,Travel_Rarely,2,4,3,2,3,No
+E00793,42,Male,Divorced,PhD,Marketing,Content Strategist,1,1,0,7345,No,Travel_Rarely,18,2,1,2,3,No
+E00794,32,Male,Single,Bachelor,HR,Recruiter,1,1,1,3322,No,Travel_Rarely,23,4,1,2,3,Yes
+E00795,28,Male,Divorced,Bachelor,Marketing,Content Strategist,1,1,0,6371,No,Travel_Rarely,7,3,4,4,4,No
+E00796,32,Male,Married,Bachelor,IT,IT Support,3,2,0,6553,No,Travel_Rarely,13,3,3,2,3,No
+E00797,35,Female,Married,PhD,Sales,Sales Executive,3,0,0,10671,No,Travel_Rarely,4,2,1,2,3,No
+E00798,42,Male,Single,Master,Operations,Operations Manager,3,0,0,3090,No,Non-Travel,3,4,1,2,4,Yes
+E00799,56,Male,Single,Master,IT,DevOps Engineer,3,4,0,13909,No,Travel_Frequently,6,2,1,4,3,No
+E00800,25,Male,Married,Bachelor,Operations,Operations Manager,2,0,0,4785,No,Travel_Rarely,1,1,4,3,3,No
+E00801,33,Male,Divorced,High School,R&D,Research Scientist,2,3,0,11120,No,Travel_Rarely,6,1,3,4,3,No
+E00802,43,Male,Single,High School,IT,DevOps Engineer,3,1,1,4888,No,Non-Travel,6,3,4,2,3,No
+E00803,29,Male,Married,Master,R&D,Research Scientist,4,0,0,7059,Yes,Travel_Rarely,22,3,4,4,3,Yes
+E00804,26,Female,Single,Master,Marketing,Marketing Specialist,2,8,3,7094,No,Travel_Rarely,7,3,4,4,3,No
+E00805,30,Male,Divorced,High School,Finance,Finance Manager,1,3,0,5110,No,Travel_Rarely,18,3,3,1,3,No
+E00806,45,Female,Divorced,High School,Marketing,Content Strategist,1,2,2,7007,Yes,Non-Travel,23,2,3,4,3,Yes
+E00807,30,Female,Married,Master,Operations,Operations Analyst,4,10,0,6392,Yes,Travel_Rarely,16,4,4,1,3,No
+E00808,39,Female,Divorced,PhD,Sales,Sales Executive,1,0,0,17612,Yes,Travel_Frequently,4,3,2,2,3,No
+E00809,25,Female,Married,PhD,IT,Software Engineer,3,7,0,6158,Yes,Travel_Rarely,9,3,1,4,3,No
+E00810,44,Female,Married,High School,IT,Software Engineer,2,2,2,8113,No,Travel_Rarely,8,2,3,1,3,No
+E00811,27,Male,Divorced,Master,IT,Software Engineer,1,0,0,3603,Yes,Travel_Rarely,10,2,4,2,3,Yes
+E00812,29,Male,Divorced,PhD,HR,Recruiter,3,0,0,6353,Yes,Non-Travel,9,1,1,2,3,Yes
+E00813,34,Female,Married,Bachelor,IT,DevOps Engineer,2,4,1,10357,No,Travel_Frequently,4,4,4,2,3,No
+E00814,26,Male,Single,High School,Sales,Sales Manager,2,3,0,7196,No,Travel_Rarely,13,3,2,4,3,No
+E00815,48,Male,Single,PhD,Operations,Logistics Coordinator,1,1,1,6310,Yes,Travel_Frequently,2,2,1,4,3,Yes
+E00816,42,Male,Divorced,High School,Operations,Operations Manager,4,1,1,4942,Yes,Travel_Rarely,16,3,2,1,3,No
+E00817,34,Male,Single,Master,Sales,Account Executive,3,14,0,5573,Yes,Travel_Rarely,5,4,4,4,3,Yes
+E00818,41,Male,Divorced,Bachelor,HR,Recruiter,1,4,1,5967,No,Travel_Rarely,4,4,4,2,3,No
+E00819,44,Male,Single,Master,IT,DevOps Engineer,2,8,1,9958,No,Travel_Rarely,3,2,4,2,3,No
+E00820,23,Female,Single,High School,HR,HR Specialist,1,1,1,6915,No,Travel_Frequently,1,4,2,3,3,No
+E00821,34,Female,Divorced,Master,Finance,Financial Analyst,2,3,0,9841,Yes,Travel_Rarely,4,3,4,2,4,No
+E00822,39,Female,Married,High School,Sales,Sales Executive,2,7,2,3394,No,Travel_Rarely,5,1,1,3,3,No
+E00823,21,Male,Divorced,High School,Sales,Sales Manager,1,3,0,4451,No,Travel_Rarely,1,4,3,4,3,No
+E00824,31,Female,Single,High School,Operations,Operations Analyst,1,1,1,8366,No,Non-Travel,9,3,2,4,3,No
+E00825,39,Male,Single,PhD,HR,Recruiter,1,3,2,5743,No,Non-Travel,24,4,2,3,3,No
+E00826,32,Female,Divorced,Master,IT,DevOps Engineer,2,1,1,5405,No,Travel_Frequently,1,3,4,3,3,No
+E00827,31,Female,Single,PhD,Operations,Operations Manager,1,5,5,7550,Yes,Travel_Rarely,4,4,2,3,3,No
+E00828,20,Female,Married,Bachelor,Sales,Sales Executive,2,2,1,4813,Yes,Travel_Frequently,13,2,1,2,3,Yes
+E00829,19,Female,Divorced,PhD,Marketing,Brand Manager,1,1,0,5666,Yes,Travel_Rarely,1,4,1,4,3,Yes
+E00830,28,Male,Married,Bachelor,Finance,Accountant,1,0,0,4925,No,Travel_Rarely,16,1,2,1,4,Yes
+E00831,26,Male,Married,High School,IT,Data Analyst,3,2,1,4543,Yes,Travel_Rarely,1,3,2,1,3,No
+E00832,25,Male,Married,Master,R&D,Lab Technician,1,7,0,11856,Yes,Travel_Rarely,2,1,3,1,3,Yes
+E00833,40,Female,Married,Master,Operations,Operations Analyst,1,0,0,4453,No,Travel_Rarely,2,3,2,1,3,Yes
+E00834,44,Female,Married,Bachelor,Operations,Logistics Coordinator,3,9,0,5282,Yes,Travel_Rarely,7,1,3,1,3,No
+E00835,33,Female,Single,PhD,R&D,Research Scientist,1,7,2,3187,No,Travel_Rarely,7,3,3,1,3,No
+E00836,37,Male,Single,PhD,HR,HR Specialist,1,5,0,2737,No,Travel_Rarely,19,2,4,1,3,Yes
+E00837,45,Female,Divorced,Master,IT,IT Support,2,1,0,5344,Yes,Non-Travel,11,3,2,1,3,Yes
+E00838,37,Male,Married,PhD,Marketing,Content Strategist,1,7,0,10801,Yes,Travel_Rarely,1,2,3,1,3,No
+E00839,51,Female,Divorced,Bachelor,Finance,Accountant,1,3,0,6405,No,Travel_Rarely,16,3,4,1,3,No
+E00840,23,Female,Divorced,Bachelor,Finance,Finance Manager,3,3,0,5492,No,Travel_Rarely,27,4,1,1,3,No
+E00841,41,Female,Single,PhD,Marketing,Content Strategist,2,4,3,7383,Yes,Travel_Rarely,9,2,4,1,3,Yes
+E00842,36,Female,Divorced,High School,HR,HR Specialist,1,0,0,4731,No,Travel_Rarely,5,2,3,2,3,No
+E00843,36,Female,Divorced,Master,Operations,Operations Analyst,3,2,2,5083,No,Travel_Rarely,1,1,1,4,3,No
+E00844,32,Female,Single,Bachelor,HR,HR Business Partner,2,1,0,4350,No,Travel_Rarely,15,1,1,1,3,No
+E00845,42,Female,Married,PhD,IT,IT Support,3,7,6,11281,No,Travel_Rarely,4,1,1,4,3,No
+E00846,32,Male,Divorced,Master,IT,IT Support,2,7,7,3351,No,Non-Travel,13,3,3,2,3,Yes
+E00847,55,Male,Single,PhD,IT,Software Engineer,1,7,0,4859,No,Travel_Rarely,1,4,1,1,3,No
+E00848,37,Female,Divorced,PhD,Finance,Finance Manager,1,7,1,5093,No,Travel_Rarely,4,4,4,3,3,No
+E00849,28,Male,Single,Bachelor,IT,DevOps Engineer,1,0,0,6775,No,Travel_Rarely,1,1,2,2,3,Yes
+E00850,24,Female,Divorced,Bachelor,IT,Software Engineer,1,3,2,7591,No,Travel_Rarely,2,2,4,2,3,No
+E00851,28,Male,Single,Bachelor,Sales,Sales Manager,3,4,1,6532,No,Travel_Frequently,15,4,2,4,3,No
+E00852,42,Female,Divorced,Bachelor,Marketing,Content Strategist,3,3,1,6382,Yes,Travel_Rarely,1,4,4,4,3,Yes
+E00853,19,Female,Married,PhD,R&D,Lab Technician,1,1,1,6546,No,Travel_Rarely,11,4,1,3,3,Yes
+E00854,34,Female,Single,High School,Marketing,Content Strategist,1,3,0,4142,No,Travel_Frequently,1,3,1,4,3,No
+E00855,29,Female,Married,High School,Operations,Operations Analyst,1,0,0,5028,Yes,Non-Travel,4,4,3,1,4,Yes
+E00856,37,Female,Divorced,Bachelor,Finance,Finance Manager,1,4,2,2948,No,Travel_Rarely,1,3,4,4,3,Yes
+E00857,45,Female,Divorced,PhD,Finance,Accountant,2,0,0,6570,No,Travel_Rarely,23,4,2,2,3,No
+E00858,45,Male,Divorced,Bachelor,R&D,Lab Technician,2,4,4,7404,No,Travel_Frequently,2,4,4,3,3,No
+E00859,43,Male,Divorced,PhD,HR,Recruiter,1,1,1,1775,No,Travel_Rarely,1,1,4,2,3,Yes
+E00860,20,Male,Single,Master,Sales,Sales Manager,2,2,2,6404,No,Travel_Rarely,1,4,3,2,4,No
+E00861,30,Female,Married,High School,HR,HR Business Partner,2,7,0,4687,No,Travel_Rarely,30,2,2,1,4,No
+E00862,25,Female,Married,High School,Operations,Operations Analyst,1,0,0,4322,No,Travel_Rarely,1,1,2,4,3,Yes
+E00863,33,Female,Married,High School,IT,DevOps Engineer,3,0,0,7404,Yes,Travel_Frequently,24,2,1,1,3,No
+E00864,44,Male,Single,Master,Sales,Account Executive,3,2,0,5577,No,Non-Travel,6,1,1,1,3,Yes
+E00865,49,Male,Single,Master,R&D,Senior Engineer,3,5,1,5267,No,Travel_Rarely,6,3,4,4,3,No
+E00866,38,Male,Single,PhD,HR,HR Specialist,3,0,0,5802,No,Travel_Rarely,13,1,2,4,4,No
+E00867,39,Female,Married,Bachelor,HR,HR Business Partner,1,7,5,1955,Yes,Travel_Rarely,8,2,1,3,3,Yes
+E00868,21,Female,Married,PhD,R&D,Senior Engineer,2,2,2,4858,No,Travel_Frequently,1,4,2,2,3,No
+E00869,43,Male,Single,Master,IT,DevOps Engineer,3,2,1,6969,Yes,Travel_Rarely,3,1,4,2,4,No
+E00870,36,Male,Divorced,Bachelor,HR,HR Business Partner,1,1,1,8077,Yes,Non-Travel,3,2,4,1,3,Yes
+E00871,44,Female,Divorced,Master,Operations,Operations Analyst,2,9,4,4252,No,Travel_Rarely,5,3,4,4,3,No
+E00872,22,Male,Divorced,PhD,HR,HR Specialist,2,4,2,5996,No,Travel_Rarely,6,3,2,4,4,No
+E00873,55,Female,Married,Bachelor,Marketing,Brand Manager,3,2,1,6815,No,Travel_Rarely,9,4,2,3,3,No
+E00874,39,Female,Divorced,Master,Operations,Logistics Coordinator,3,4,4,5448,Yes,Travel_Frequently,2,3,2,1,4,No
+E00875,46,Female,Divorced,PhD,IT,Data Analyst,1,0,0,6026,No,Travel_Rarely,8,1,1,3,4,Yes
+E00876,42,Female,Single,High School,Operations,Operations Analyst,1,0,0,2894,No,Travel_Rarely,7,1,3,3,3,No
+E00877,33,Male,Divorced,Bachelor,IT,Software Engineer,2,1,1,10444,Yes,Travel_Rarely,10,4,3,1,3,Yes
+E00878,20,Male,Single,Master,HR,HR Business Partner,1,0,0,3162,No,Travel_Rarely,6,3,2,4,3,No
+E00879,19,Female,Married,High School,Operations,Logistics Coordinator,5,0,0,3082,Yes,Travel_Frequently,2,2,3,4,3,Yes
+E00880,34,Male,Married,PhD,Sales,Sales Executive,1,13,0,5983,No,Travel_Rarely,1,4,2,4,3,No
+E00881,25,Female,Divorced,PhD,Operations,Logistics Coordinator,1,0,0,6304,No,Non-Travel,3,4,3,4,3,No
+E00882,40,Female,Single,High School,Marketing,Brand Manager,1,1,0,5244,Yes,Travel_Rarely,5,2,2,2,3,Yes
+E00883,36,Female,Single,PhD,Marketing,Marketing Specialist,3,2,0,7437,Yes,Travel_Rarely,2,4,4,1,3,No
+E00884,37,Male,Married,Master,Sales,Sales Executive,2,6,3,4257,No,Travel_Rarely,8,3,3,1,3,No
+E00885,53,Male,Divorced,PhD,HR,HR Business Partner,1,9,0,6738,No,Travel_Rarely,16,3,4,1,3,No
+E00886,35,Female,Single,High School,Sales,Sales Manager,1,2,0,4576,No,Travel_Rarely,2,3,2,2,3,No
+E00887,37,Female,Divorced,PhD,Operations,Operations Manager,3,2,1,5884,Yes,Travel_Rarely,5,1,1,4,3,No
+E00888,49,Female,Married,PhD,HR,HR Business Partner,1,0,0,6659,Yes,Travel_Frequently,25,4,2,2,3,Yes
+E00889,29,Female,Married,High School,R&D,Senior Engineer,1,1,1,3617,No,Travel_Frequently,1,3,1,4,3,No
+E00890,35,Female,Divorced,High School,Marketing,Brand Manager,1,7,0,5324,Yes,Travel_Rarely,6,3,1,2,3,No
+E00891,29,Male,Married,High School,Marketing,Content Strategist,1,0,0,10132,No,Travel_Rarely,5,1,2,1,3,No
+E00892,43,Male,Divorced,PhD,Sales,Account Executive,2,0,0,8279,No,Travel_Rarely,4,2,1,3,3,No
+E00893,36,Male,Married,PhD,Sales,Account Executive,3,0,0,3608,No,Travel_Frequently,9,3,4,1,3,No
+E00894,34,Male,Single,Bachelor,R&D,Lab Technician,1,2,2,5363,No,Travel_Rarely,8,1,3,4,3,No
+E00895,19,Female,Divorced,Bachelor,HR,HR Specialist,1,1,0,9773,Yes,Travel_Rarely,16,2,3,1,4,Yes
+E00896,33,Female,Married,High School,Sales,Account Executive,1,4,0,3795,No,Travel_Rarely,10,3,2,1,3,No
+E00897,60,Male,Single,Bachelor,HR,HR Specialist,2,11,0,6271,No,Travel_Rarely,1,4,3,3,4,No
+E00898,30,Female,Single,Master,R&D,Senior Engineer,4,12,5,4275,No,Travel_Rarely,1,2,4,4,3,No
+E00899,26,Male,Single,Master,Finance,Finance Manager,2,1,1,5865,No,Travel_Rarely,15,4,1,4,3,Yes
+E00900,29,Female,Married,High School,Operations,Logistics Coordinator,4,0,0,4345,No,Travel_Rarely,19,1,2,2,3,Yes
+E00901,33,Female,Divorced,PhD,IT,Data Analyst,2,2,0,4436,No,Travel_Rarely,13,2,3,2,3,No
+E00902,23,Female,Married,Master,Sales,Sales Executive,3,5,0,3706,No,Travel_Rarely,30,4,3,2,3,Yes
+E00903,43,Male,Married,High School,IT,IT Support,2,0,0,2697,No,Travel_Rarely,7,3,2,3,4,Yes
+E00904,40,Male,Divorced,Master,Finance,Finance Manager,4,4,2,8881,No,Travel_Rarely,16,1,2,3,4,No
+E00905,35,Female,Married,Bachelor,Marketing,Brand Manager,2,3,1,4087,Yes,Travel_Frequently,7,3,4,3,3,No
+E00906,47,Male,Divorced,PhD,Finance,Finance Manager,3,0,0,12453,No,Travel_Rarely,4,3,1,2,3,No
+E00907,40,Male,Divorced,High School,Sales,Sales Executive,1,4,1,3858,No,Travel_Rarely,4,2,4,4,4,No
+E00908,38,Female,Divorced,Master,Operations,Operations Analyst,2,8,3,5487,No,Travel_Rarely,2,4,1,3,4,No
+E00909,43,Male,Married,High School,Finance,Financial Analyst,1,0,0,4676,No,Travel_Frequently,7,1,1,4,3,No
+E00910,42,Female,Divorced,Bachelor,R&D,Senior Engineer,3,1,1,1713,No,Travel_Rarely,7,1,3,3,3,Yes
+E00911,29,Male,Single,Bachelor,R&D,Lab Technician,1,0,0,6327,No,Travel_Rarely,3,3,1,3,3,No
+E00912,41,Male,Divorced,Bachelor,IT,IT Support,1,4,2,10192,No,Travel_Rarely,1,1,3,4,3,No
+E00913,41,Male,Divorced,Master,Sales,Account Executive,1,7,0,5594,No,Travel_Rarely,2,2,1,2,3,No
+E00914,40,Female,Divorced,High School,R&D,Senior Engineer,2,0,0,13309,No,Travel_Rarely,2,1,3,4,3,Yes
+E00915,60,Female,Married,Master,IT,DevOps Engineer,1,1,0,5833,Yes,Travel_Frequently,1,4,4,3,3,Yes
+E00916,33,Female,Married,High School,Operations,Operations Analyst,3,0,0,3408,No,Travel_Rarely,5,2,1,3,4,No
+E00917,27,Male,Divorced,PhD,Finance,Financial Analyst,1,9,0,6460,No,Travel_Rarely,4,3,1,1,3,No
+E00918,27,Male,Single,PhD,Sales,Sales Executive,2,0,0,7430,No,Travel_Rarely,29,2,2,3,3,Yes
+E00919,31,Male,Married,High School,Finance,Financial Analyst,2,2,2,5883,No,Travel_Rarely,1,3,3,2,3,Yes
+E00920,36,Female,Divorced,High School,IT,DevOps Engineer,1,3,3,4350,No,Travel_Rarely,11,2,1,4,3,No
+E00921,19,Male,Single,High School,Sales,Sales Executive,1,1,1,7172,No,Travel_Rarely,4,1,4,3,3,No
+E00922,36,Male,Divorced,High School,IT,IT Support,3,2,2,8713,Yes,Travel_Rarely,3,1,3,4,3,Yes
+E00923,46,Male,Married,PhD,HR,HR Business Partner,2,1,0,4235,No,Non-Travel,4,4,1,4,4,No
+E00924,26,Female,Divorced,Bachelor,Finance,Accountant,4,3,0,6347,Yes,Travel_Rarely,22,1,3,1,4,No
+E00925,48,Male,Divorced,Master,Sales,Sales Executive,1,1,0,7057,No,Travel_Rarely,2,1,1,2,3,No
+E00926,39,Male,Single,Bachelor,HR,HR Business Partner,4,12,0,18552,No,Travel_Frequently,7,4,4,2,3,No
+E00927,35,Male,Single,PhD,HR,Recruiter,2,4,1,9377,No,Travel_Frequently,9,4,3,3,4,No
+E00928,43,Male,Single,Bachelor,HR,Recruiter,3,1,1,6397,No,Travel_Rarely,8,3,3,3,3,No
+E00929,57,Male,Divorced,Bachelor,Operations,Logistics Coordinator,4,2,0,5064,No,Travel_Rarely,4,1,4,3,3,No
+E00930,36,Female,Divorced,Master,IT,Software Engineer,2,3,0,3625,Yes,Travel_Rarely,21,3,2,4,3,No
+E00931,26,Female,Single,PhD,IT,DevOps Engineer,3,8,7,12828,No,Travel_Rarely,15,3,4,3,3,No
+E00932,41,Male,Married,Master,R&D,Research Scientist,1,1,0,3832,Yes,Travel_Rarely,2,2,2,4,4,No
+E00933,42,Male,Married,High School,IT,IT Support,2,3,0,4523,No,Travel_Rarely,9,2,4,2,3,No
+E00934,35,Male,Divorced,Master,Sales,Sales Manager,2,5,2,7306,No,Travel_Rarely,9,1,1,2,3,No
+E00935,35,Female,Divorced,Bachelor,Sales,Sales Executive,3,4,1,8038,No,Travel_Rarely,12,2,2,3,3,No
+E00936,35,Female,Single,High School,HR,Recruiter,2,10,1,5186,No,Travel_Rarely,14,2,2,2,3,Yes
+E00937,37,Female,Married,Bachelor,IT,Data Analyst,2,3,1,4123,No,Travel_Rarely,3,4,1,3,4,No
+E00938,33,Male,Single,Bachelor,HR,HR Business Partner,1,2,0,12822,Yes,Travel_Rarely,5,2,4,1,3,Yes
+E00939,47,Male,Single,Bachelor,Operations,Operations Manager,2,5,1,3731,No,Travel_Rarely,1,3,3,4,4,No
+E00940,53,Female,Single,PhD,IT,DevOps Engineer,3,0,0,3306,No,Travel_Rarely,2,2,3,2,3,Yes
+E00941,31,Female,Divorced,Master,R&D,Senior Engineer,4,2,2,6992,Yes,Travel_Rarely,2,1,4,1,3,Yes
+E00942,36,Female,Divorced,PhD,Finance,Finance Manager,1,0,0,3814,No,Travel_Rarely,10,4,2,3,3,No
+E00943,39,Male,Married,Bachelor,Finance,Accountant,2,0,0,2659,Yes,Travel_Rarely,14,4,1,2,4,Yes
+E00944,29,Female,Married,High School,Finance,Financial Analyst,3,4,1,5096,No,Travel_Rarely,6,3,4,4,3,No
+E00945,38,Male,Married,Master,R&D,Research Scientist,2,12,4,6874,No,Travel_Rarely,11,3,4,3,3,No
+E00946,31,Female,Married,Master,Finance,Accountant,2,1,0,4295,No,Travel_Rarely,9,4,4,4,3,No
+E00947,27,Male,Married,High School,Finance,Financial Analyst,3,7,0,6354,No,Travel_Rarely,7,2,4,2,3,No
+E00948,24,Male,Married,High School,HR,Recruiter,1,0,0,4547,No,Travel_Rarely,4,1,3,2,3,Yes
+E00949,24,Female,Single,Bachelor,Operations,Operations Analyst,4,4,4,4781,No,Travel_Frequently,1,3,2,3,3,No
+E00950,31,Female,Married,High School,IT,DevOps Engineer,3,6,0,7104,No,Travel_Rarely,16,1,3,3,4,No
+E00951,33,Male,Married,Bachelor,Finance,Finance Manager,2,8,1,6915,Yes,Travel_Rarely,2,2,4,2,3,Yes
+E00952,53,Female,Single,PhD,Operations,Logistics Coordinator,2,3,3,7749,Yes,Travel_Frequently,1,4,4,3,3,No
+E00953,35,Male,Married,Bachelor,IT,IT Support,3,5,0,5525,No,Travel_Rarely,6,2,4,4,3,No
+E00954,33,Female,Married,Bachelor,Operations,Operations Analyst,1,3,3,5301,No,Travel_Rarely,2,3,1,4,3,No
+E00955,35,Male,Single,Bachelor,Finance,Accountant,2,3,0,5369,No,Travel_Rarely,2,4,3,3,3,No
+E00956,20,Male,Divorced,PhD,HR,Recruiter,2,0,0,3453,Yes,Non-Travel,5,4,4,2,3,No
+E00957,22,Female,Single,Bachelor,R&D,Lab Technician,3,3,1,7973,No,Travel_Rarely,23,1,3,4,3,No
+E00958,36,Male,Single,PhD,Sales,Account Executive,3,1,1,5413,Yes,Travel_Rarely,9,2,1,4,3,Yes
+E00959,26,Female,Divorced,High School,HR,HR Specialist,1,5,0,3742,No,Non-Travel,5,2,3,1,3,No
+E00960,40,Male,Divorced,PhD,R&D,Lab Technician,3,15,1,3885,No,Travel_Rarely,1,4,4,2,3,No
+E00961,32,Male,Married,PhD,Finance,Finance Manager,2,2,2,7939,Yes,Travel_Rarely,10,1,4,2,3,Yes
+E00962,43,Female,Married,Bachelor,IT,IT Support,3,7,1,6075,No,Travel_Rarely,17,2,3,2,3,No
+E00963,30,Male,Divorced,Master,Sales,Sales Executive,3,0,0,5216,No,Travel_Rarely,1,4,1,4,3,No
+E00964,22,Female,Divorced,PhD,Operations,Operations Manager,1,0,0,6064,Yes,Travel_Rarely,8,4,4,1,3,No
+E00965,19,Male,Divorced,PhD,HR,Recruiter,2,1,1,5536,No,Travel_Rarely,3,3,4,2,3,No
+E00966,22,Male,Single,Bachelor,Finance,Accountant,3,0,0,3013,No,Travel_Rarely,1,2,1,4,3,No
+E00967,25,Female,Divorced,High School,HR,Recruiter,2,2,0,7411,No,Travel_Rarely,22,3,1,2,3,No
+E00968,52,Female,Single,High School,HR,HR Specialist,2,0,0,9319,No,Travel_Frequently,1,1,3,4,3,No
+E00969,45,Female,Single,PhD,Finance,Financial Analyst,4,2,0,5006,No,Travel_Rarely,1,1,4,4,3,No
+E00970,27,Female,Married,PhD,Sales,Sales Executive,1,1,0,2387,Yes,Travel_Frequently,5,3,1,2,3,Yes
+E00971,43,Female,Single,Bachelor,Sales,Sales Executive,4,4,3,11016,Yes,Travel_Rarely,9,2,4,2,3,No
+E00972,36,Female,Single,High School,IT,Software Engineer,1,2,1,10090,No,Travel_Rarely,4,1,2,3,4,Yes
+E00973,22,Male,Divorced,High School,Marketing,Marketing Specialist,1,4,0,3612,Yes,Travel_Frequently,23,3,2,4,3,No
+E00974,27,Male,Married,Master,Marketing,Content Strategist,1,0,0,2750,Yes,Travel_Rarely,10,2,4,1,3,No
+E00975,29,Male,Married,Bachelor,Finance,Financial Analyst,1,3,0,3198,No,Non-Travel,1,1,1,4,3,No
+E00976,29,Female,Single,High School,R&D,Research Scientist,2,4,0,8020,No,Travel_Rarely,9,1,4,1,3,No
+E00977,39,Male,Married,Master,R&D,Research Scientist,2,5,1,6479,No,Travel_Rarely,3,2,2,1,3,No
+E00978,23,Male,Single,Bachelor,Operations,Logistics Coordinator,1,4,0,3684,No,Travel_Rarely,2,2,2,4,3,No
+E00979,32,Female,Single,PhD,Sales,Sales Manager,1,2,1,5872,No,Travel_Rarely,12,3,2,1,3,No
+E00980,36,Female,Single,High School,R&D,Lab Technician,1,4,0,4493,Yes,Travel_Rarely,5,2,1,3,3,No
+E00981,45,Male,Married,High School,R&D,Lab Technician,1,3,0,7490,No,Travel_Rarely,1,3,4,1,3,No
+E00982,28,Female,Divorced,PhD,Operations,Operations Manager,3,5,1,5404,Yes,Travel_Rarely,4,4,2,3,3,Yes
+E00983,19,Male,Divorced,High School,Sales,Sales Manager,2,1,0,6249,No,Travel_Frequently,3,1,4,4,3,No
+E00984,47,Male,Divorced,High School,R&D,Research Scientist,1,15,1,2383,No,Travel_Rarely,2,1,3,2,3,No
+E00985,48,Female,Single,High School,Sales,Sales Executive,2,6,0,6399,Yes,Travel_Rarely,1,3,4,3,3,No
+E00986,27,Male,Divorced,PhD,R&D,Senior Engineer,2,1,0,3298,Yes,Travel_Rarely,5,4,3,2,4,Yes
+E00987,29,Male,Divorced,High School,Marketing,Brand Manager,3,0,0,4047,No,Travel_Frequently,1,1,2,3,3,No
+E00988,42,Male,Single,PhD,Marketing,Marketing Specialist,1,7,0,4664,No,Travel_Rarely,5,2,4,3,3,No
+E00989,41,Male,Divorced,Bachelor,Sales,Sales Executive,1,5,3,11556,No,Travel_Frequently,1,1,2,2,3,Yes
+E00990,43,Male,Single,PhD,R&D,Senior Engineer,1,1,0,5948,Yes,Travel_Frequently,2,1,4,4,3,Yes
+E00991,38,Male,Married,PhD,R&D,Senior Engineer,2,11,9,3294,Yes,Travel_Rarely,11,2,3,3,3,No
+E00992,24,Female,Divorced,PhD,Sales,Sales Manager,1,0,0,11080,No,Travel_Rarely,4,4,4,2,3,No
+E00993,24,Male,Married,Bachelor,IT,Data Analyst,2,5,0,2901,Yes,Non-Travel,5,4,1,4,3,No
+E00994,42,Female,Married,PhD,Operations,Logistics Coordinator,2,1,1,5140,No,Travel_Rarely,20,2,3,4,3,No
+E00995,42,Female,Single,Bachelor,Operations,Logistics Coordinator,1,6,1,5634,No,Travel_Rarely,10,4,1,3,3,No
+E00996,33,Female,Married,Master,R&D,Research Scientist,2,15,0,3824,No,Travel_Rarely,25,1,3,4,3,No
+E00997,27,Male,Married,Bachelor,Finance,Accountant,3,2,2,17033,Yes,Travel_Rarely,5,3,1,4,3,No
+E00998,23,Female,Divorced,High School,R&D,Lab Technician,2,2,1,11998,No,Travel_Frequently,1,3,3,4,3,No
+E00999,33,Female,Divorced,High School,Marketing,Brand Manager,2,5,0,7330,No,Travel_Rarely,1,4,2,2,4,No
+E01000,38,Male,Married,Bachelor,Marketing,Content Strategist,1,8,2,10339,No,Travel_Rarely,1,2,3,4,3,No
+E01001,35,Female,Married,High School,Operations,Logistics Coordinator,1,0,0,9971,No,Travel_Frequently,21,2,1,1,3,No
+E01002,42,Female,Divorced,PhD,Operations,Operations Analyst,1,5,0,4688,Yes,Non-Travel,7,4,2,4,3,No
+E01003,34,Female,Single,Master,Operations,Operations Manager,1,5,1,4675,No,Travel_Rarely,1,4,1,1,3,No
+E01004,49,Female,Single,High School,Marketing,Marketing Specialist,2,9,2,4744,Yes,Travel_Rarely,13,4,3,1,3,No
+E01005,31,Male,Single,Master,Sales,Account Executive,3,5,0,6820,No,Travel_Rarely,1,4,4,3,3,No
+E01006,40,Male,Married,Bachelor,R&D,Senior Engineer,1,11,0,9785,Yes,Travel_Frequently,3,2,2,4,3,Yes
+E01007,37,Female,Married,High School,R&D,Research Scientist,1,2,2,4141,No,Non-Travel,6,1,2,2,4,No
+E01008,31,Female,Single,Master,IT,Data Analyst,1,2,0,5437,Yes,Travel_Rarely,5,1,3,1,3,Yes
+E01009,39,Male,Single,High School,Sales,Account Executive,1,12,0,7658,Yes,Travel_Rarely,5,2,4,4,3,No
+E01010,44,Male,Married,Master,HR,HR Specialist,3,3,0,3777,No,Travel_Rarely,10,1,1,2,3,No
+E01011,25,Female,Married,Bachelor,Finance,Accountant,1,3,1,8318,No,Travel_Rarely,10,3,4,3,3,No
+E01012,60,Female,Single,High School,HR,Recruiter,1,6,1,5767,No,Travel_Rarely,24,4,4,1,3,No
+E01013,46,Female,Divorced,Bachelor,Finance,Finance Manager,1,1,0,2850,No,Travel_Rarely,4,4,2,1,3,No
+E01014,41,Female,Single,Master,HR,HR Business Partner,2,2,2,5515,No,Travel_Rarely,4,4,4,2,4,Yes
+E01015,22,Female,Divorced,High School,IT,Software Engineer,1,0,0,3617,No,Travel_Rarely,11,3,4,2,4,No
+E01016,57,Male,Divorced,Bachelor,HR,HR Business Partner,2,9,1,6886,Yes,Travel_Rarely,1,4,1,4,3,No
+E01017,33,Female,Single,PhD,IT,Software Engineer,2,0,0,4886,No,Travel_Frequently,16,2,4,1,3,Yes
+E01018,42,Male,Single,PhD,Sales,Sales Manager,2,4,1,8451,Yes,Travel_Rarely,20,2,2,2,3,Yes
+E01019,38,Male,Divorced,Master,Marketing,Marketing Specialist,1,6,3,3077,No,Travel_Rarely,13,2,3,4,3,No
+E01020,41,Female,Single,High School,Marketing,Brand Manager,1,10,1,8189,No,Travel_Rarely,5,1,2,4,3,Yes
+E01021,23,Male,Married,High School,Marketing,Brand Manager,3,0,0,7333,No,Travel_Frequently,22,4,4,4,3,No
+E01022,46,Male,Divorced,High School,HR,HR Specialist,1,4,0,4075,No,Travel_Rarely,7,1,1,3,3,No
+E01023,35,Male,Married,High School,Operations,Operations Manager,3,0,0,15860,Yes,Travel_Rarely,2,2,3,4,3,No
+E01024,43,Female,Divorced,Bachelor,Operations,Logistics Coordinator,2,2,1,6855,No,Travel_Rarely,2,2,4,4,3,No
+E01025,36,Female,Married,Bachelor,Operations,Logistics Coordinator,3,17,0,6935,No,Travel_Rarely,3,2,1,4,3,Yes
+E01026,26,Female,Single,High School,IT,DevOps Engineer,2,1,0,3979,No,Travel_Rarely,1,2,4,4,3,Yes
+E01027,38,Female,Divorced,Bachelor,Operations,Operations Manager,2,0,0,7795,No,Travel_Rarely,30,3,1,3,3,No
+E01028,47,Male,Divorced,Bachelor,Finance,Accountant,2,4,0,4669,No,Travel_Rarely,6,4,1,3,3,No
+E01029,35,Female,Divorced,Bachelor,Marketing,Content Strategist,3,11,3,4785,No,Travel_Rarely,15,1,2,4,3,No
+E01030,23,Female,Married,PhD,Sales,Account Executive,1,5,3,4185,No,Travel_Rarely,2,4,3,4,3,No
+E01031,55,Female,Single,Bachelor,Sales,Account Executive,3,2,1,9321,No,Travel_Rarely,5,3,3,2,3,No
+E01032,34,Male,Married,PhD,HR,Recruiter,1,3,0,6116,Yes,Travel_Rarely,11,1,3,4,3,No
+E01033,48,Male,Married,High School,HR,HR Specialist,1,5,2,8547,No,Travel_Frequently,15,2,2,2,3,No
+E01034,30,Male,Married,PhD,Marketing,Marketing Specialist,1,0,0,7003,No,Travel_Frequently,2,4,4,2,3,No
+E01035,44,Female,Single,High School,R&D,Research Scientist,2,1,0,8561,No,Travel_Rarely,1,1,3,4,3,No
+E01036,21,Male,Divorced,PhD,Sales,Sales Executive,2,3,0,6642,No,Travel_Rarely,18,4,4,3,3,No
+E01037,22,Female,Married,High School,IT,Software Engineer,2,3,3,9396,Yes,Travel_Rarely,1,4,4,3,3,No
+E01038,30,Male,Single,PhD,Sales,Sales Executive,2,5,1,4587,No,Travel_Rarely,15,1,1,4,3,No
+E01039,39,Female,Married,Bachelor,HR,Recruiter,3,6,1,10942,Yes,Travel_Rarely,5,1,2,4,3,No
+E01040,31,Male,Married,PhD,Sales,Sales Manager,2,1,1,8080,No,Non-Travel,16,1,2,4,3,No
+E01041,46,Male,Single,PhD,Sales,Account Executive,2,4,0,10129,No,Travel_Rarely,3,1,2,1,3,Yes
+E01042,30,Male,Single,Master,IT,DevOps Engineer,1,12,0,17076,No,Travel_Rarely,4,1,1,2,3,No
+E01043,28,Male,Married,High School,IT,Software Engineer,2,4,0,5586,No,Travel_Frequently,5,1,1,3,3,No
+E01044,25,Female,Divorced,Master,R&D,Lab Technician,2,7,5,4958,No,Travel_Frequently,1,1,3,4,3,Yes
+E01045,43,Male,Single,Master,Operations,Operations Manager,2,10,8,3920,No,Non-Travel,24,2,1,1,3,Yes
+E01046,34,Female,Single,Master,IT,Data Analyst,4,5,2,2655,Yes,Travel_Rarely,6,2,2,3,3,Yes
+E01047,30,Female,Divorced,PhD,HR,HR Business Partner,2,2,2,4314,No,Travel_Rarely,1,2,4,4,4,Yes
+E01048,21,Male,Divorced,Master,Marketing,Marketing Specialist,3,0,0,4403,No,Travel_Rarely,1,2,1,3,3,No
+E01049,39,Female,Married,High School,Operations,Logistics Coordinator,1,10,1,4260,No,Travel_Rarely,6,2,4,2,4,No
+E01050,19,Female,Single,Master,Operations,Operations Analyst,3,0,0,5349,No,Travel_Rarely,1,1,3,1,3,No
+E01051,31,Male,Married,High School,Marketing,Marketing Specialist,1,4,1,9942,No,Travel_Rarely,30,3,3,3,4,No
+E01052,47,Male,Single,Master,Sales,Sales Manager,2,0,0,11078,No,Travel_Frequently,2,2,4,1,3,No
+E01053,35,Male,Single,Bachelor,Operations,Operations Manager,4,0,0,6254,No,Travel_Rarely,5,1,3,3,3,No
+E01054,41,Male,Married,High School,HR,HR Business Partner,2,3,0,3349,Yes,Travel_Rarely,28,2,3,4,3,Yes
+E01055,41,Female,Single,Master,Marketing,Content Strategist,2,4,0,2975,No,Travel_Frequently,22,2,2,2,3,Yes
+E01056,31,Female,Married,Master,Marketing,Marketing Specialist,1,5,0,5600,No,Travel_Rarely,7,4,4,2,3,No
+E01057,40,Female,Married,High School,HR,HR Business Partner,2,1,1,7348,No,Travel_Rarely,19,2,3,1,3,No
+E01058,38,Male,Single,Master,Marketing,Marketing Specialist,2,1,1,1500,No,Travel_Frequently,15,1,2,1,3,Yes
+E01059,44,Male,Married,High School,Operations,Operations Manager,2,2,2,3850,No,Travel_Frequently,14,1,4,2,4,No
+E01060,54,Male,Divorced,PhD,Operations,Operations Analyst,2,7,0,2875,No,Travel_Rarely,5,1,4,3,3,Yes
+E01061,32,Male,Divorced,Master,R&D,Senior Engineer,3,2,1,3732,No,Travel_Rarely,13,2,2,1,3,No
+E01062,31,Male,Married,Bachelor,Sales,Sales Manager,1,5,1,2729,No,Travel_Rarely,2,4,4,2,3,No
+E01063,29,Male,Single,PhD,IT,Software Engineer,2,0,0,8575,Yes,Travel_Rarely,2,3,3,4,3,Yes
+E01064,41,Male,Divorced,PhD,R&D,Lab Technician,1,4,0,6302,Yes,Non-Travel,1,1,4,4,3,Yes
+E01065,28,Male,Married,Master,HR,HR Business Partner,1,7,2,10006,Yes,Travel_Rarely,1,3,1,1,3,No
+E01066,19,Male,Married,High School,Sales,Sales Executive,1,1,1,14765,No,Travel_Rarely,10,4,4,2,3,Yes
+E01067,53,Female,Married,Master,Finance,Financial Analyst,1,9,1,7113,Yes,Non-Travel,17,2,3,2,3,No
+E01068,22,Female,Single,Bachelor,Finance,Financial Analyst,1,4,0,6360,Yes,Travel_Rarely,6,3,1,4,3,No
+E01069,38,Male,Single,Bachelor,HR,Recruiter,2,6,6,4093,No,Travel_Rarely,2,4,1,3,3,No
+E01070,37,Male,Single,Bachelor,HR,HR Specialist,1,2,2,11492,No,Travel_Frequently,1,2,4,4,3,No
+E01071,34,Female,Divorced,Bachelor,Finance,Finance Manager,3,0,0,5380,No,Travel_Frequently,7,3,1,4,3,No
+E01072,40,Male,Single,Bachelor,HR,HR Business Partner,2,1,1,8313,No,Travel_Frequently,1,4,2,1,4,No
+E01073,36,Female,Married,High School,HR,Recruiter,3,2,0,5959,No,Travel_Rarely,12,1,2,1,3,No
+E01074,58,Female,Single,Bachelor,Finance,Accountant,4,6,4,3395,No,Travel_Rarely,6,3,3,4,3,Yes
+E01075,35,Female,Divorced,Bachelor,Marketing,Content Strategist,2,0,0,4021,Yes,Travel_Frequently,8,2,2,3,4,No
+E01076,25,Male,Single,Bachelor,Marketing,Brand Manager,3,6,0,6301,No,Travel_Rarely,3,2,4,1,3,No
+E01077,34,Male,Single,PhD,R&D,Research Scientist,3,1,1,5471,No,Travel_Rarely,14,2,4,1,4,Yes
+E01078,22,Female,Divorced,Bachelor,Sales,Account Executive,3,1,0,19814,No,Travel_Frequently,3,2,1,1,3,Yes
+E01079,50,Male,Married,High School,R&D,Lab Technician,2,6,1,5137,No,Non-Travel,1,4,4,1,4,No
+E01080,21,Male,Single,High School,HR,HR Business Partner,2,3,3,7328,No,Travel_Frequently,3,3,3,4,3,No
+E01081,48,Male,Married,Bachelor,Sales,Sales Executive,1,2,2,2071,No,Travel_Rarely,7,3,2,3,3,No
+E01082,58,Male,Divorced,Bachelor,HR,HR Business Partner,1,0,0,8670,Yes,Travel_Rarely,1,3,3,3,3,Yes
+E01083,38,Male,Divorced,PhD,HR,HR Business Partner,2,0,0,9178,No,Travel_Rarely,4,3,3,2,4,No
+E01084,19,Male,Single,PhD,Sales,Sales Executive,1,1,1,8660,Yes,Travel_Frequently,17,2,1,1,3,Yes
+E01085,35,Male,Divorced,Bachelor,Sales,Sales Executive,1,5,0,7553,No,Travel_Rarely,1,3,3,4,3,No
+E01086,31,Female,Married,PhD,Sales,Sales Executive,2,4,1,15041,No,Travel_Rarely,22,2,4,3,3,No
+E01087,28,Male,Single,Master,Marketing,Content Strategist,3,0,0,4531,No,Travel_Rarely,9,1,4,1,3,No
+E01088,25,Male,Divorced,PhD,Marketing,Marketing Specialist,2,2,0,3350,No,Travel_Rarely,11,3,1,1,3,No
+E01089,25,Female,Divorced,PhD,Finance,Finance Manager,1,6,0,4653,No,Travel_Rarely,2,1,2,4,3,No
+E01090,35,Male,Divorced,High School,Finance,Finance Manager,2,2,1,9406,Yes,Travel_Rarely,4,3,2,2,4,Yes
+E01091,53,Female,Divorced,High School,IT,IT Support,1,0,0,8439,No,Travel_Rarely,1,3,3,2,3,Yes
+E01092,40,Male,Married,Bachelor,R&D,Research Scientist,1,5,1,8169,No,Travel_Rarely,5,1,2,3,3,Yes
+E01093,53,Female,Divorced,Master,HR,HR Specialist,1,2,0,5332,No,Travel_Rarely,12,2,2,1,3,Yes
+E01094,30,Female,Married,High School,HR,HR Specialist,2,12,2,8808,Yes,Non-Travel,1,3,2,4,3,No
+E01095,27,Male,Divorced,High School,Marketing,Marketing Specialist,3,6,0,10719,No,Travel_Rarely,4,3,2,3,3,No
+E01096,31,Male,Married,Master,Marketing,Content Strategist,1,6,0,5316,No,Non-Travel,30,4,3,2,3,No
+E01097,28,Female,Married,Bachelor,R&D,Senior Engineer,4,6,0,3136,No,Travel_Rarely,9,4,2,4,3,No
+E01098,46,Male,Single,PhD,Finance,Financial Analyst,2,9,1,3906,Yes,Travel_Rarely,24,4,2,4,3,Yes
+E01099,36,Male,Married,Bachelor,Marketing,Marketing Specialist,1,0,0,14283,Yes,Travel_Frequently,5,3,1,3,3,Yes
+E01100,37,Female,Single,Bachelor,Sales,Sales Executive,3,3,3,6886,No,Travel_Rarely,16,1,4,2,3,No
+E01101,44,Male,Divorced,High School,Marketing,Marketing Specialist,2,12,2,6593,No,Travel_Rarely,2,1,4,4,3,Yes
+E01102,29,Male,Single,High School,R&D,Research Scientist,2,5,5,6717,No,Travel_Rarely,1,1,3,2,3,No
+E01103,19,Female,Single,Master,Operations,Logistics Coordinator,3,0,0,7287,No,Travel_Rarely,4,3,1,2,3,Yes
+E01104,52,Female,Divorced,High School,HR,HR Business Partner,2,0,0,5533,No,Travel_Rarely,5,2,2,1,3,No
+E01105,35,Female,Single,High School,Sales,Sales Executive,3,7,0,5491,Yes,Travel_Rarely,1,1,3,1,3,No
+E01106,21,Female,Single,PhD,R&D,Research Scientist,2,3,2,11033,No,Travel_Rarely,5,2,4,4,3,Yes
+E01107,31,Male,Single,Master,Marketing,Content Strategist,1,0,0,7799,Yes,Travel_Rarely,1,1,4,2,4,No
+E01108,41,Male,Single,Bachelor,HR,HR Specialist,1,4,0,9209,Yes,Travel_Rarely,11,3,1,3,3,No
+E01109,33,Female,Divorced,Master,R&D,Lab Technician,1,3,1,10256,Yes,Travel_Rarely,18,3,2,4,3,Yes
+E01110,31,Male,Single,Bachelor,HR,HR Specialist,2,0,0,6137,No,Travel_Rarely,3,3,4,3,3,No
+E01111,40,Female,Single,High School,IT,Data Analyst,2,1,1,4549,No,Travel_Rarely,3,3,2,4,3,No
+E01112,45,Male,Single,PhD,Operations,Operations Manager,2,2,0,8580,No,Travel_Rarely,8,3,2,1,3,No
+E01113,41,Female,Divorced,Master,HR,HR Business Partner,3,1,1,5642,No,Travel_Rarely,4,4,4,4,3,No
+E01114,43,Female,Divorced,Bachelor,R&D,Senior Engineer,2,5,0,9287,Yes,Non-Travel,1,2,4,4,3,No
+E01115,39,Male,Single,High School,Finance,Financial Analyst,3,4,4,8598,No,Travel_Rarely,20,4,2,1,3,No
+E01116,39,Female,Married,Bachelor,HR,Recruiter,4,1,1,10655,No,Travel_Frequently,1,4,2,1,3,Yes
+E01117,43,Male,Single,Bachelor,HR,HR Business Partner,2,5,5,6955,Yes,Travel_Frequently,16,2,4,2,3,Yes
+E01118,19,Female,Married,High School,Sales,Account Executive,2,1,1,5585,Yes,Travel_Rarely,18,2,4,1,4,No
+E01119,57,Female,Single,High School,Marketing,Marketing Specialist,3,0,0,3196,Yes,Travel_Rarely,4,1,4,2,3,Yes
+E01120,34,Female,Divorced,Bachelor,R&D,Research Scientist,2,7,5,6392,No,Travel_Rarely,6,1,4,2,3,No
+E01121,37,Female,Divorced,High School,Marketing,Content Strategist,1,2,0,7216,Yes,Travel_Frequently,8,3,4,4,3,No
+E01122,20,Male,Divorced,Bachelor,HR,HR Specialist,1,2,0,9799,No,Non-Travel,11,2,1,1,4,No
+E01123,38,Female,Divorced,Bachelor,Sales,Sales Manager,2,0,0,6933,No,Non-Travel,3,4,4,3,3,No
+E01124,19,Male,Divorced,Bachelor,Finance,Financial Analyst,3,1,0,2014,No,Travel_Rarely,30,3,1,4,3,No
+E01125,49,Male,Divorced,PhD,Finance,Finance Manager,3,5,1,3080,No,Travel_Rarely,24,1,2,4,3,Yes
+E01126,34,Female,Divorced,PhD,Finance,Accountant,1,0,0,5107,No,Travel_Frequently,10,4,4,2,3,Yes
+E01127,41,Female,Single,Bachelor,R&D,Lab Technician,3,6,3,5069,No,Travel_Rarely,2,1,1,1,3,No
+E01128,28,Female,Single,Bachelor,HR,HR Specialist,1,4,4,13847,No,Travel_Rarely,11,1,1,2,4,No
+E01129,28,Male,Divorced,PhD,Marketing,Marketing Specialist,3,2,1,8067,No,Travel_Rarely,11,2,3,1,3,No
+E01130,40,Female,Married,PhD,Sales,Sales Executive,4,1,0,8063,No,Travel_Frequently,9,3,1,3,3,Yes
+E01131,42,Male,Married,PhD,Operations,Operations Analyst,1,0,0,4360,No,Travel_Rarely,1,3,4,3,3,No
+E01132,54,Female,Married,High School,Marketing,Content Strategist,1,2,2,10263,Yes,Travel_Rarely,8,1,2,1,3,No
+E01133,28,Male,Divorced,Bachelor,HR,HR Specialist,1,8,0,3571,Yes,Non-Travel,5,2,4,1,3,No
+E01134,46,Male,Married,Master,R&D,Senior Engineer,2,8,6,6544,No,Travel_Frequently,7,2,2,3,3,No
+E01135,33,Male,Single,PhD,HR,Recruiter,4,5,0,6226,No,Travel_Rarely,2,4,1,4,4,No
+E01136,43,Female,Married,Bachelor,Sales,Sales Executive,1,4,0,5010,Yes,Travel_Rarely,14,2,3,1,3,No
+E01137,42,Male,Single,PhD,HR,HR Specialist,3,1,1,5951,No,Travel_Rarely,11,1,3,3,3,No
+E01138,21,Female,Single,Master,HR,HR Business Partner,1,0,0,3807,Yes,Travel_Rarely,14,3,4,2,3,No
+E01139,52,Female,Married,High School,IT,DevOps Engineer,1,2,2,4275,No,Travel_Rarely,4,4,4,2,3,No
+E01140,35,Male,Divorced,Bachelor,Marketing,Brand Manager,2,5,0,11231,No,Travel_Rarely,1,4,3,1,3,No
+E01141,45,Male,Divorced,PhD,Marketing,Content Strategist,1,2,0,6228,No,Travel_Rarely,1,1,2,1,4,No
+E01142,29,Female,Married,PhD,IT,Software Engineer,1,2,1,3354,No,Travel_Frequently,18,2,4,4,4,No
+E01143,39,Male,Married,PhD,Marketing,Content Strategist,3,0,0,5665,No,Travel_Rarely,7,4,1,1,3,Yes
+E01144,33,Female,Single,PhD,R&D,Lab Technician,3,5,5,6900,Yes,Non-Travel,1,3,1,3,3,No
+E01145,27,Male,Divorced,Bachelor,Sales,Sales Manager,1,0,0,6451,No,Travel_Rarely,2,4,1,2,3,No
+E01146,27,Female,Married,PhD,HR,Recruiter,1,9,1,4307,No,Travel_Rarely,6,1,4,1,3,No
+E01147,26,Male,Single,Bachelor,R&D,Research Scientist,1,4,1,5677,Yes,Non-Travel,1,2,1,4,3,Yes
+E01148,23,Female,Married,Bachelor,Sales,Sales Manager,1,5,0,7308,No,Travel_Frequently,5,4,1,3,3,No
+E01149,27,Female,Married,Master,Marketing,Brand Manager,2,1,0,16455,Yes,Travel_Rarely,23,2,1,1,3,No
+E01150,41,Male,Divorced,PhD,R&D,Research Scientist,2,2,0,4282,Yes,Travel_Rarely,15,3,4,4,3,No
+E01151,25,Male,Married,Master,HR,Recruiter,1,2,2,5111,Yes,Travel_Frequently,1,4,1,2,4,Yes
+E01152,44,Male,Divorced,PhD,Sales,Sales Executive,2,2,0,10743,No,Travel_Rarely,11,4,2,4,3,No
+E01153,32,Male,Single,Bachelor,HR,Recruiter,1,6,1,11681,No,Travel_Frequently,3,1,4,2,3,No
+E01154,29,Male,Single,High School,Marketing,Marketing Specialist,1,11,5,8361,No,Travel_Rarely,10,4,2,4,3,No
+E01155,29,Male,Divorced,PhD,HR,HR Business Partner,2,2,0,4553,No,Travel_Frequently,1,1,3,3,3,No
+E01156,48,Female,Divorced,Master,Marketing,Brand Manager,2,20,2,5662,No,Travel_Rarely,12,4,4,3,3,No
+E01157,42,Male,Divorced,PhD,Sales,Sales Executive,1,1,1,9730,No,Travel_Rarely,14,4,4,3,3,Yes
+E01158,37,Male,Single,High School,Finance,Accountant,4,0,0,6563,No,Non-Travel,1,4,3,1,3,No
+E01159,20,Male,Divorced,Master,Operations,Operations Manager,3,2,2,4312,Yes,Travel_Rarely,22,1,4,1,3,No
+E01160,30,Male,Single,PhD,IT,IT Support,2,8,0,4224,No,Travel_Rarely,1,2,2,4,3,No
+E01161,35,Female,Single,Master,Sales,Sales Manager,1,7,4,7171,No,Travel_Rarely,2,4,4,4,4,Yes
+E01162,60,Male,Married,High School,HR,Recruiter,1,1,1,4198,No,Travel_Frequently,1,3,3,4,3,No
+E01163,39,Female,Single,PhD,Sales,Sales Executive,2,0,0,3612,No,Travel_Frequently,18,2,3,3,3,Yes
+E01164,35,Female,Divorced,Bachelor,R&D,Senior Engineer,1,1,1,6603,Yes,Travel_Rarely,1,4,1,4,3,Yes
+E01165,40,Male,Divorced,High School,Finance,Accountant,4,0,0,5088,No,Travel_Frequently,3,2,4,2,3,Yes
+E01166,30,Male,Single,High School,Marketing,Content Strategist,1,4,0,9787,No,Travel_Rarely,3,4,3,2,3,No
+E01167,35,Male,Divorced,PhD,Sales,Sales Manager,1,12,1,12364,No,Travel_Rarely,1,1,2,1,3,No
+E01168,21,Male,Married,Bachelor,Sales,Account Executive,3,1,1,6998,No,Travel_Rarely,17,2,4,3,3,Yes
+E01169,24,Male,Divorced,High School,Operations,Operations Analyst,3,0,0,3452,No,Travel_Rarely,3,4,3,1,3,Yes
+E01170,38,Male,Single,Bachelor,Marketing,Content Strategist,3,5,0,7310,Yes,Travel_Rarely,6,1,1,4,3,No
+E01171,52,Female,Single,PhD,HR,HR Business Partner,2,15,5,7654,No,Travel_Rarely,7,2,1,1,4,No
+E01172,27,Male,Single,PhD,Sales,Sales Manager,2,8,1,6528,No,Travel_Frequently,5,1,4,1,3,No
+E01173,41,Male,Divorced,High School,Finance,Accountant,3,0,0,6179,No,Travel_Frequently,15,4,2,2,3,Yes
+E01174,41,Female,Single,Bachelor,Sales,Sales Manager,3,0,0,5302,No,Travel_Rarely,13,3,4,1,3,Yes
+E01175,35,Male,Single,High School,Operations,Operations Analyst,1,0,0,5542,No,Travel_Rarely,12,1,2,2,3,No
+E01176,44,Female,Single,High School,HR,HR Specialist,2,4,0,6700,Yes,Travel_Rarely,17,2,1,2,3,Yes
+E01177,48,Female,Single,Master,HR,Recruiter,1,2,0,10260,No,Travel_Rarely,16,3,4,4,4,No
+E01178,53,Female,Single,Bachelor,R&D,Research Scientist,1,3,1,5192,No,Travel_Frequently,23,3,4,1,3,No
+E01179,47,Female,Married,High School,Marketing,Brand Manager,3,1,0,4721,No,Travel_Rarely,1,4,4,4,3,No
+E01180,33,Male,Married,Bachelor,Operations,Operations Manager,1,1,0,6451,Yes,Non-Travel,1,4,2,3,3,Yes
+E01181,35,Female,Married,High School,Sales,Account Executive,3,1,1,12389,No,Travel_Rarely,3,3,4,3,4,No
+E01182,34,Male,Single,Master,Sales,Sales Executive,4,4,4,5140,No,Travel_Rarely,4,3,4,2,3,No
+E01183,31,Male,Divorced,Master,HR,HR Specialist,2,1,0,5285,No,Travel_Rarely,1,3,1,1,3,No
+E01184,35,Male,Divorced,Bachelor,R&D,Lab Technician,2,9,1,7645,No,Travel_Frequently,15,3,2,1,4,No
+E01185,46,Female,Married,Master,Sales,Account Executive,3,6,2,7629,Yes,Travel_Rarely,3,3,1,4,3,No
+E01186,19,Female,Married,High School,R&D,Research Scientist,1,1,1,4378,Yes,Travel_Rarely,1,1,4,4,3,Yes
+E01187,20,Male,Married,High School,Sales,Sales Manager,1,2,0,6055,No,Travel_Rarely,2,2,3,4,3,No
+E01188,35,Female,Single,High School,Marketing,Content Strategist,2,6,1,5642,No,Non-Travel,18,1,4,3,3,Yes
+E01189,35,Female,Divorced,Master,HR,Recruiter,1,0,0,3648,No,Travel_Rarely,3,1,1,4,3,Yes
+E01190,32,Female,Married,High School,HR,HR Business Partner,1,8,0,7036,No,Travel_Rarely,1,3,4,1,3,No
+E01191,28,Male,Single,Bachelor,Finance,Accountant,2,0,0,3666,No,Travel_Rarely,1,4,4,1,3,No
+E01192,46,Female,Single,Bachelor,Sales,Sales Executive,1,0,0,6899,No,Travel_Rarely,4,2,1,3,3,No
+E01193,49,Male,Single,High School,Sales,Sales Executive,1,5,0,10671,No,Travel_Rarely,13,3,1,1,3,No
+E01194,25,Male,Single,PhD,HR,HR Specialist,1,0,0,6242,Yes,Travel_Rarely,4,3,3,4,4,Yes
+E01195,39,Male,Divorced,Bachelor,Sales,Sales Executive,4,10,1,7160,Yes,Travel_Rarely,4,3,2,4,3,No
+E01196,36,Female,Single,High School,Operations,Operations Manager,1,1,1,5286,No,Travel_Rarely,1,4,3,3,3,No
+E01197,39,Male,Divorced,High School,HR,HR Business Partner,4,1,1,8787,No,Travel_Rarely,16,1,3,2,3,No
+E01198,40,Female,Married,Bachelor,Sales,Sales Manager,2,2,2,9842,Yes,Travel_Frequently,5,1,2,1,3,No
+E01199,34,Female,Divorced,PhD,Finance,Financial Analyst,1,0,0,3006,No,Travel_Rarely,30,3,2,3,3,No
+E01200,32,Female,Married,Bachelor,Marketing,Marketing Specialist,1,5,1,4824,Yes,Travel_Rarely,11,1,2,2,3,No
+E01201,38,Female,Divorced,High School,IT,IT Support,2,2,0,7887,No,Non-Travel,1,2,1,3,3,No
+E01202,40,Female,Single,Master,R&D,Lab Technician,2,2,1,7908,Yes,Travel_Rarely,7,1,1,2,4,Yes
+E01203,36,Male,Married,PhD,Sales,Sales Manager,1,9,0,5581,No,Travel_Rarely,17,4,3,3,4,No
+E01204,44,Female,Married,High School,R&D,Research Scientist,1,3,3,6243,No,Non-Travel,19,4,4,3,3,Yes
+E01205,32,Female,Single,Master,Sales,Account Executive,2,0,0,6898,No,Travel_Rarely,3,4,4,2,3,Yes
+E01206,34,Male,Single,Bachelor,Operations,Logistics Coordinator,1,7,1,14174,Yes,Non-Travel,1,4,4,1,4,No
+E01207,30,Male,Married,Bachelor,Sales,Sales Executive,2,1,1,6967,Yes,Travel_Rarely,1,1,3,2,3,Yes
+E01208,19,Female,Married,Bachelor,Operations,Logistics Coordinator,2,1,1,5065,Yes,Travel_Frequently,1,4,4,4,4,Yes
+E01209,28,Male,Single,PhD,R&D,Research Scientist,3,5,1,13172,Yes,Travel_Rarely,20,3,3,3,3,No
+E01210,42,Male,Single,Master,Marketing,Brand Manager,2,1,0,6988,No,Travel_Frequently,2,2,2,3,3,No
+E01211,21,Male,Married,High School,Finance,Financial Analyst,1,3,1,5468,Yes,Travel_Rarely,12,1,4,4,3,Yes
+E01212,37,Female,Single,PhD,R&D,Senior Engineer,2,0,0,4015,No,Travel_Frequently,20,1,3,4,3,No
+E01213,24,Male,Single,High School,Sales,Sales Executive,3,3,2,4016,No,Travel_Frequently,5,1,3,2,3,No
+E01214,40,Female,Divorced,PhD,Sales,Sales Manager,3,15,1,4870,No,Travel_Rarely,16,3,4,4,3,No
+E01215,43,Female,Divorced,PhD,HR,HR Business Partner,1,0,0,4131,No,Travel_Frequently,4,4,1,3,3,No
+E01216,21,Male,Married,PhD,Sales,Sales Manager,1,2,1,4395,Yes,Travel_Rarely,3,1,2,4,3,No
+E01217,28,Male,Married,High School,Sales,Sales Executive,2,6,2,4681,Yes,Travel_Rarely,2,4,3,2,3,No
+E01218,34,Female,Married,PhD,HR,Recruiter,3,3,1,5677,No,Travel_Rarely,25,4,2,3,4,No
+E01219,40,Female,Divorced,High School,Operations,Operations Manager,1,0,0,3421,No,Travel_Frequently,15,3,3,2,3,Yes
+E01220,39,Female,Divorced,Bachelor,Finance,Accountant,4,2,1,2829,No,Travel_Rarely,11,3,3,1,3,No
+E01221,37,Female,Single,Master,Finance,Finance Manager,2,1,1,9602,No,Travel_Rarely,14,2,3,2,3,Yes
+E01222,46,Male,Single,PhD,Sales,Sales Manager,1,5,3,5458,Yes,Travel_Rarely,2,1,2,3,4,No
+E01223,47,Male,Married,Master,HR,HR Specialist,3,6,0,8326,No,Travel_Rarely,24,4,3,1,3,Yes
+E01224,36,Male,Married,High School,IT,Data Analyst,2,3,0,7800,No,Travel_Rarely,15,1,3,2,3,No
+E01225,19,Female,Married,PhD,HR,HR Specialist,2,0,0,3793,No,Travel_Rarely,1,1,4,3,4,Yes
+E01226,40,Female,Divorced,Bachelor,Sales,Sales Manager,2,3,0,4761,No,Travel_Rarely,7,3,3,2,3,No
+E01227,44,Female,Married,High School,Marketing,Marketing Specialist,1,1,1,15951,Yes,Travel_Frequently,1,3,2,4,3,No
+E01228,32,Female,Single,Bachelor,HR,Recruiter,4,6,6,3815,No,Travel_Frequently,2,4,2,4,3,No
+E01229,28,Female,Married,PhD,Operations,Operations Manager,2,2,0,9493,No,Non-Travel,30,3,3,4,3,No
+E01230,35,Female,Single,Master,Finance,Financial Analyst,2,2,0,7810,No,Travel_Frequently,7,1,4,1,3,No
+E01231,41,Male,Married,PhD,R&D,Senior Engineer,4,1,0,5421,Yes,Travel_Rarely,1,3,1,4,3,Yes
+E01232,29,Male,Married,High School,IT,Software Engineer,2,6,2,4094,No,Travel_Rarely,8,1,1,3,4,No
+E01233,55,Male,Divorced,Bachelor,IT,DevOps Engineer,1,0,0,5057,No,Travel_Rarely,7,4,3,1,3,Yes
+E01234,21,Male,Married,Master,Operations,Operations Analyst,1,0,0,5526,No,Travel_Rarely,6,4,2,2,3,No
+E01235,46,Male,Divorced,High School,Marketing,Marketing Specialist,2,8,0,2955,No,Travel_Frequently,1,4,2,1,3,Yes
+E01236,50,Female,Married,High School,Operations,Operations Analyst,2,4,1,5581,Yes,Travel_Frequently,2,2,2,1,3,No
+E01237,19,Female,Divorced,PhD,Sales,Sales Manager,3,0,0,10624,No,Travel_Rarely,7,4,4,2,3,No
+E01238,45,Male,Single,Bachelor,IT,Software Engineer,3,12,3,2803,Yes,Travel_Rarely,2,4,2,1,3,Yes
+E01239,45,Female,Married,Master,Finance,Accountant,1,0,0,4484,No,Travel_Frequently,30,3,3,1,3,No
+E01240,45,Male,Single,Master,Finance,Accountant,1,4,0,4902,No,Non-Travel,1,1,4,4,3,No
+E01241,35,Female,Single,Master,Finance,Financial Analyst,1,6,1,3187,Yes,Travel_Frequently,7,4,1,3,3,Yes
+E01242,34,Female,Divorced,Bachelor,R&D,Lab Technician,1,0,0,5642,No,Travel_Frequently,3,4,3,1,4,No
+E01243,46,Female,Divorced,Master,HR,Recruiter,3,6,0,8140,No,Travel_Frequently,6,4,1,2,3,No
+E01244,37,Male,Divorced,PhD,Finance,Finance Manager,1,18,3,11536,No,Travel_Rarely,1,2,3,3,3,No
+E01245,27,Female,Divorced,PhD,Finance,Accountant,1,9,2,6774,No,Travel_Rarely,8,2,3,2,3,No
+E01246,46,Male,Married,PhD,Sales,Sales Executive,1,3,3,2833,No,Non-Travel,1,1,2,2,3,Yes
+E01247,19,Female,Married,High School,HR,HR Specialist,1,1,1,3024,No,Travel_Rarely,1,2,1,2,4,No
+E01248,34,Male,Married,Master,Sales,Account Executive,3,12,5,2725,Yes,Travel_Frequently,5,3,1,1,3,No
+E01249,40,Female,Married,Bachelor,Operations,Logistics Coordinator,1,4,2,4171,Yes,Travel_Rarely,4,1,2,3,3,Yes
+E01250,48,Female,Single,Bachelor,Marketing,Content Strategist,2,0,0,5829,No,Travel_Rarely,1,2,2,3,4,No
+E01251,33,Male,Single,High School,Marketing,Marketing Specialist,2,10,4,6680,No,Travel_Rarely,3,4,2,1,4,No
+E01252,24,Male,Married,Bachelor,IT,Data Analyst,2,0,0,11584,No,Travel_Rarely,3,1,3,4,3,No
+E01253,48,Female,Divorced,Master,Marketing,Content Strategist,2,0,0,5627,No,Travel_Rarely,6,4,2,2,4,No
+E01254,26,Female,Single,High School,HR,Recruiter,2,7,3,4740,No,Non-Travel,8,2,1,4,3,No
+E01255,26,Male,Divorced,Master,R&D,Senior Engineer,1,7,0,6984,No,Travel_Rarely,3,3,1,1,3,No
+E01256,28,Male,Single,Master,Sales,Sales Executive,4,10,0,6660,No,Travel_Rarely,5,3,3,4,4,No
+E01257,23,Male,Divorced,PhD,Sales,Account Executive,2,5,2,5455,No,Travel_Frequently,8,2,3,4,3,No
+E01258,35,Male,Married,High School,HR,Recruiter,1,7,1,10312,Yes,Travel_Rarely,10,1,1,3,3,No
+E01259,21,Male,Married,High School,R&D,Research Scientist,2,3,0,4580,Yes,Travel_Rarely,1,3,1,2,4,No
+E01260,39,Male,Single,High School,Finance,Finance Manager,2,6,0,6478,No,Travel_Frequently,9,1,4,2,3,No
+E01261,56,Male,Single,High School,Finance,Finance Manager,1,1,1,3800,No,Travel_Rarely,1,2,3,4,4,No
+E01262,39,Female,Divorced,Bachelor,Sales,Sales Executive,2,8,0,8433,Yes,Travel_Frequently,5,4,1,4,3,Yes
+E01263,26,Female,Married,Bachelor,Finance,Finance Manager,1,8,0,9885,No,Travel_Rarely,4,4,2,1,3,No
+E01264,44,Male,Single,PhD,HR,HR Business Partner,3,0,0,4337,Yes,Travel_Rarely,6,1,2,2,3,Yes
+E01265,45,Male,Single,Bachelor,Marketing,Content Strategist,3,1,0,10156,No,Non-Travel,2,1,1,2,3,No
+E01266,25,Male,Married,Bachelor,Finance,Financial Analyst,2,7,2,5013,Yes,Non-Travel,3,3,1,3,3,No
+E01267,42,Male,Married,Master,Operations,Operations Manager,1,7,0,4497,No,Travel_Rarely,8,4,1,1,3,Yes
+E01268,26,Female,Divorced,Bachelor,IT,Data Analyst,2,6,0,7176,No,Travel_Frequently,3,4,3,3,3,No
+E01269,38,Female,Divorced,PhD,Operations,Operations Manager,1,1,0,6326,No,Travel_Rarely,12,3,1,1,4,No
+E01270,43,Male,Single,Master,HR,HR Specialist,2,2,0,5900,No,Travel_Rarely,8,2,2,2,3,No
+E01271,36,Female,Single,High School,Marketing,Marketing Specialist,1,0,0,5382,No,Travel_Rarely,1,1,2,4,3,No
+E01272,31,Male,Single,Master,Finance,Financial Analyst,3,4,0,3902,No,Travel_Rarely,23,3,3,4,3,No
+E01273,32,Male,Single,Bachelor,IT,IT Support,3,4,1,5315,Yes,Travel_Rarely,2,4,1,4,4,No
+E01274,48,Female,Single,Master,Finance,Financial Analyst,2,4,4,14522,No,Travel_Rarely,12,4,1,3,3,Yes
+E01275,41,Female,Married,High School,IT,DevOps Engineer,3,2,1,6839,Yes,Travel_Frequently,27,2,1,3,3,No
+E01276,44,Female,Single,PhD,IT,Software Engineer,1,0,0,6692,No,Travel_Rarely,3,4,3,4,3,No
+E01277,42,Female,Single,Bachelor,Finance,Finance Manager,1,1,1,7680,No,Travel_Rarely,17,2,2,1,3,Yes
+E01278,29,Female,Married,Master,IT,DevOps Engineer,2,2,2,4267,No,Travel_Rarely,6,3,4,1,3,No
+E01279,34,Male,Married,PhD,IT,Software Engineer,3,2,2,2692,No,Travel_Frequently,16,1,3,3,3,No
+E01280,32,Female,Divorced,Bachelor,Sales,Sales Manager,2,1,0,7421,Yes,Travel_Rarely,1,1,4,1,3,No
+E01281,41,Female,Single,Master,Finance,Financial Analyst,1,12,0,7271,No,Travel_Rarely,6,1,3,3,3,No
+E01282,27,Male,Single,High School,IT,DevOps Engineer,2,3,2,13345,No,Travel_Rarely,4,3,4,2,3,No
+E01283,51,Male,Divorced,Bachelor,R&D,Research Scientist,1,6,2,4002,No,Travel_Rarely,4,1,2,4,3,No
+E01284,33,Female,Divorced,High School,Sales,Account Executive,1,1,1,2669,Yes,Travel_Rarely,6,3,3,1,3,No
+E01285,41,Male,Divorced,High School,Operations,Operations Analyst,1,4,3,3058,No,Travel_Rarely,3,3,1,1,3,No
+E01286,53,Female,Married,Bachelor,R&D,Research Scientist,1,0,0,6491,No,Travel_Rarely,2,3,3,4,3,Yes
+E01287,28,Female,Married,Master,Sales,Sales Manager,1,5,1,8676,No,Travel_Rarely,8,3,3,4,3,No
+E01288,49,Male,Divorced,High School,Operations,Operations Analyst,1,5,1,14031,No,Travel_Rarely,10,2,3,1,3,No
+E01289,38,Female,Divorced,High School,Sales,Account Executive,2,12,3,5351,No,Travel_Frequently,1,2,3,3,3,No
+E01290,25,Male,Divorced,PhD,Marketing,Content Strategist,3,0,0,5475,Yes,Travel_Rarely,8,2,4,1,3,No
+E01291,37,Female,Married,Master,Operations,Logistics Coordinator,2,5,5,5445,No,Travel_Frequently,9,1,1,4,3,No
+E01292,29,Female,Single,PhD,R&D,Senior Engineer,3,7,0,6753,No,Travel_Rarely,7,3,2,3,3,No
+E01293,33,Female,Married,High School,HR,Recruiter,3,1,1,2816,No,Travel_Rarely,5,1,2,4,3,No
+E01294,37,Female,Married,Bachelor,HR,Recruiter,2,10,0,5138,No,Travel_Rarely,1,1,3,4,3,No
+E01295,44,Female,Married,Master,Operations,Operations Analyst,2,2,0,7380,No,Travel_Rarely,4,2,4,2,3,No
+E01296,39,Male,Single,PhD,Sales,Sales Executive,3,6,0,15803,No,Travel_Rarely,10,4,4,2,4,No
+E01297,32,Female,Divorced,High School,Sales,Sales Executive,1,2,2,3595,No,Travel_Frequently,9,1,4,3,4,No
+E01298,33,Male,Divorced,PhD,R&D,Research Scientist,1,0,0,6803,No,Travel_Rarely,4,4,1,2,3,No
+E01299,28,Male,Married,Master,Finance,Accountant,2,7,3,4694,No,Travel_Rarely,8,2,4,2,4,No
+E01300,40,Female,Married,PhD,Operations,Logistics Coordinator,1,3,3,6417,No,Travel_Rarely,2,1,1,1,3,No
+E01301,58,Male,Divorced,High School,Marketing,Brand Manager,1,1,0,4828,Yes,Travel_Frequently,12,4,3,4,3,No
+E01302,42,Male,Divorced,Master,R&D,Research Scientist,2,2,0,3533,No,Travel_Rarely,21,3,4,4,3,No
+E01303,28,Female,Married,Master,IT,Software Engineer,1,1,0,5307,No,Travel_Rarely,20,2,3,4,3,Yes
+E01304,25,Male,Married,Master,Finance,Accountant,1,0,0,8197,Yes,Travel_Rarely,4,2,2,1,3,No
+E01305,36,Male,Married,Master,Operations,Logistics Coordinator,3,1,0,4086,Yes,Travel_Rarely,12,3,1,3,3,Yes
+E01306,33,Female,Divorced,High School,Finance,Accountant,1,2,1,4464,No,Travel_Rarely,5,2,2,3,4,No
+E01307,26,Male,Single,High School,R&D,Senior Engineer,3,3,1,4765,Yes,Travel_Rarely,25,3,2,1,4,Yes
+E01308,44,Male,Married,Bachelor,Operations,Logistics Coordinator,4,4,3,7707,No,Travel_Rarely,6,2,1,4,3,No
+E01309,24,Female,Single,High School,HR,Recruiter,2,6,0,3686,No,Travel_Rarely,3,4,4,2,3,No
+E01310,46,Female,Divorced,High School,Finance,Accountant,4,3,3,11552,No,Travel_Frequently,6,4,3,1,3,No
+E01311,35,Female,Married,PhD,HR,HR Specialist,1,2,2,10285,Yes,Travel_Frequently,4,2,1,3,3,Yes
+E01312,37,Female,Single,High School,Marketing,Content Strategist,1,2,2,4111,No,Travel_Frequently,4,1,3,1,3,No
+E01313,19,Male,Divorced,Bachelor,Marketing,Content Strategist,2,1,0,7285,No,Travel_Rarely,2,1,2,2,3,No
+E01314,51,Female,Single,Bachelor,HR,HR Business Partner,3,0,0,4155,Yes,Non-Travel,17,2,4,2,3,No
+E01315,46,Male,Divorced,Bachelor,Marketing,Marketing Specialist,1,4,4,5523,No,Travel_Frequently,3,2,1,4,3,Yes
+E01316,20,Female,Divorced,Bachelor,Sales,Sales Manager,1,0,0,4966,Yes,Travel_Frequently,5,3,4,2,3,No
+E01317,30,Female,Divorced,Master,HR,HR Specialist,1,12,0,9390,No,Travel_Rarely,1,3,4,4,3,No
+E01318,37,Female,Married,PhD,Operations,Operations Manager,2,0,0,5416,Yes,Non-Travel,4,3,1,2,4,Yes
+E01319,36,Female,Divorced,High School,HR,HR Specialist,2,0,0,8979,No,Non-Travel,3,4,1,2,4,No
+E01320,28,Female,Divorced,PhD,HR,Recruiter,1,10,2,6760,Yes,Travel_Rarely,25,4,2,4,3,No
+E01321,37,Female,Single,Master,Marketing,Marketing Specialist,2,2,2,10253,No,Non-Travel,6,1,3,3,4,No
+E01322,39,Female,Married,Master,HR,Recruiter,1,0,0,4694,No,Non-Travel,4,3,4,4,3,No
+E01323,36,Male,Married,PhD,Sales,Sales Manager,4,3,1,5313,No,Travel_Frequently,24,4,2,3,3,No
+E01324,28,Female,Single,High School,Finance,Financial Analyst,2,2,2,3703,No,Travel_Rarely,21,2,2,1,3,No
+E01325,36,Male,Divorced,High School,Marketing,Marketing Specialist,3,1,0,4745,No,Travel_Rarely,3,4,1,3,3,No
+E01326,30,Female,Divorced,Bachelor,Operations,Operations Analyst,2,4,1,8727,No,Travel_Rarely,1,3,2,2,3,No
+E01327,37,Male,Single,High School,HR,HR Specialist,3,7,0,7511,Yes,Travel_Rarely,5,3,3,4,4,No
+E01328,40,Female,Married,High School,IT,Software Engineer,1,1,0,3405,Yes,Travel_Frequently,18,1,4,4,3,Yes
+E01329,31,Female,Divorced,PhD,R&D,Senior Engineer,1,1,1,2438,No,Travel_Frequently,3,2,1,3,3,No
+E01330,30,Female,Single,High School,R&D,Senior Engineer,1,12,0,4771,No,Travel_Rarely,6,3,1,1,3,Yes
+E01331,40,Female,Married,PhD,Marketing,Content Strategist,2,14,0,2450,No,Non-Travel,1,2,1,4,3,Yes
+E01332,25,Male,Married,PhD,Operations,Logistics Coordinator,2,0,0,13241,Yes,Travel_Rarely,7,1,3,3,3,Yes
+E01333,29,Female,Married,Master,Finance,Accountant,2,0,0,5428,No,Non-Travel,2,4,1,2,3,No
+E01334,36,Female,Married,High School,Marketing,Content Strategist,1,0,0,3430,Yes,Travel_Rarely,19,2,4,1,3,No
+E01335,57,Female,Divorced,High School,Finance,Financial Analyst,2,3,1,9204,Yes,Travel_Rarely,6,1,4,2,3,No
+E01336,30,Male,Single,PhD,Marketing,Brand Manager,1,3,0,2438,No,Travel_Rarely,11,3,2,1,3,Yes
+E01337,33,Female,Divorced,Bachelor,Operations,Operations Analyst,2,0,0,2587,No,Travel_Frequently,24,1,2,4,3,No
+E01338,23,Male,Single,Master,Sales,Sales Manager,2,5,1,4524,No,Travel_Rarely,30,3,4,3,3,No
+E01339,26,Female,Divorced,PhD,Marketing,Content Strategist,5,0,0,4734,No,Travel_Frequently,7,4,1,3,3,No
+E01340,40,Male,Single,PhD,HR,Recruiter,3,0,0,7273,No,Travel_Rarely,1,2,3,4,3,No
+E01341,45,Male,Single,Bachelor,Marketing,Marketing Specialist,1,8,3,3420,No,Travel_Rarely,4,4,2,1,4,Yes
+E01342,19,Female,Single,PhD,Finance,Financial Analyst,2,1,0,4604,No,Non-Travel,14,1,4,4,3,Yes
+E01343,40,Female,Divorced,Master,Finance,Financial Analyst,3,1,0,6560,Yes,Travel_Rarely,6,3,1,4,3,No
+E01344,44,Male,Divorced,Master,Operations,Operations Manager,1,5,0,2503,Yes,Travel_Rarely,1,2,2,3,3,No
+E01345,28,Female,Divorced,Bachelor,Operations,Logistics Coordinator,2,4,0,10110,No,Travel_Frequently,25,3,4,4,4,No
+E01346,50,Male,Married,High School,R&D,Senior Engineer,1,0,0,3883,No,Travel_Rarely,6,4,1,3,3,No
+E01347,45,Female,Single,High School,Sales,Sales Manager,2,6,1,5374,No,Travel_Rarely,16,2,2,1,3,No
+E01348,30,Male,Married,High School,Operations,Operations Manager,1,1,1,6545,Yes,Travel_Rarely,3,2,1,3,3,No
+E01349,29,Female,Married,Bachelor,R&D,Lab Technician,2,3,2,5338,No,Travel_Frequently,6,3,4,3,3,No
+E01350,22,Female,Divorced,High School,Sales,Account Executive,2,4,0,2509,No,Travel_Rarely,5,2,1,2,3,Yes
+E01351,35,Female,Single,Bachelor,R&D,Senior Engineer,4,9,1,3179,No,Non-Travel,8,4,3,3,3,No
+E01352,42,Female,Single,Master,Sales,Sales Executive,1,3,0,3786,No,Travel_Frequently,5,2,1,2,4,Yes
+E01353,49,Female,Married,High School,Sales,Sales Executive,1,8,3,4736,Yes,Travel_Rarely,2,2,4,4,3,No
+E01354,21,Female,Married,Master,R&D,Senior Engineer,1,3,1,11591,No,Travel_Rarely,18,4,4,4,3,No
+E01355,39,Female,Divorced,PhD,Operations,Operations Analyst,1,0,0,9014,No,Travel_Rarely,3,2,2,3,3,No
+E01356,28,Male,Single,Master,Finance,Finance Manager,2,0,0,7042,Yes,Travel_Rarely,1,3,1,4,3,No
+E01357,56,Male,Married,Master,IT,IT Support,2,10,0,3138,Yes,Travel_Rarely,10,3,4,2,3,No
+E01358,38,Male,Single,Master,R&D,Senior Engineer,1,2,2,8951,Yes,Travel_Rarely,1,1,2,4,3,No
+E01359,39,Male,Divorced,Master,HR,HR Specialist,2,0,0,5319,Yes,Travel_Rarely,30,3,3,1,3,No
+E01360,24,Male,Divorced,High School,Marketing,Brand Manager,2,2,2,2765,No,Travel_Frequently,1,4,1,3,3,No
+E01361,33,Male,Single,Master,IT,IT Support,1,0,0,5080,No,Travel_Rarely,21,4,4,2,4,No
+E01362,35,Male,Single,PhD,Sales,Account Executive,2,8,0,8467,No,Travel_Rarely,2,2,2,2,3,Yes
+E01363,37,Female,Single,High School,Marketing,Content Strategist,2,2,2,2606,No,Travel_Rarely,3,1,3,1,3,No
+E01364,38,Female,Married,High School,HR,Recruiter,3,10,1,4207,No,Travel_Rarely,14,3,2,3,4,No
+E01365,40,Male,Married,Bachelor,Sales,Sales Executive,2,10,0,11034,Yes,Travel_Rarely,30,2,3,1,3,Yes
+E01366,25,Female,Single,Master,Marketing,Content Strategist,1,7,2,4824,No,Travel_Frequently,6,4,2,1,3,No
+E01367,33,Male,Single,High School,Finance,Finance Manager,1,0,0,3017,Yes,Travel_Rarely,1,1,4,1,3,Yes
+E01368,41,Female,Married,High School,R&D,Lab Technician,3,2,2,7220,Yes,Travel_Frequently,12,1,2,1,3,Yes
+E01369,53,Female,Divorced,Master,Marketing,Marketing Specialist,3,1,0,6980,No,Travel_Rarely,9,3,2,2,3,No
+E01370,34,Male,Married,Bachelor,R&D,Lab Technician,1,11,0,5379,No,Non-Travel,1,2,3,4,3,No
+E01371,48,Female,Divorced,Master,R&D,Lab Technician,2,1,1,6703,No,Travel_Rarely,1,3,4,3,4,Yes
+E01372,59,Female,Single,Bachelor,HR,Recruiter,2,2,1,5671,Yes,Travel_Frequently,1,4,2,1,3,No
+E01373,45,Female,Single,Bachelor,Marketing,Brand Manager,2,8,5,6503,No,Travel_Rarely,4,3,3,2,3,No
+E01374,20,Male,Married,Bachelor,HR,HR Specialist,1,2,2,4401,No,Travel_Frequently,5,4,3,1,3,No
+E01375,42,Male,Married,High School,Finance,Finance Manager,3,3,0,3697,No,Travel_Rarely,13,3,3,4,3,No
+E01376,37,Female,Divorced,High School,Marketing,Brand Manager,1,7,0,3434,No,Travel_Rarely,1,1,2,4,3,No
+E01377,46,Male,Married,PhD,R&D,Lab Technician,1,2,2,15556,No,Non-Travel,1,3,2,4,3,No
+E01378,32,Female,Divorced,Master,Operations,Logistics Coordinator,4,12,0,18646,No,Travel_Rarely,27,4,4,4,3,No
+E01379,41,Male,Divorced,High School,Operations,Operations Manager,1,1,1,4364,No,Travel_Rarely,4,4,4,3,3,Yes
+E01380,29,Male,Married,Bachelor,Finance,Accountant,1,3,0,5664,Yes,Travel_Rarely,3,3,4,1,3,Yes
+E01381,32,Female,Single,Master,Operations,Operations Analyst,1,3,1,3119,No,Travel_Rarely,1,2,3,1,3,No
+E01382,42,Male,Single,Master,Finance,Accountant,1,0,0,5951,No,Travel_Rarely,4,2,4,1,3,No
+E01383,30,Male,Single,Master,HR,HR Specialist,3,10,3,5993,No,Travel_Rarely,7,2,2,2,3,No
+E01384,47,Female,Divorced,Bachelor,Sales,Sales Manager,1,3,2,16021,No,Travel_Rarely,10,2,3,1,3,No
+E01385,53,Male,Married,Bachelor,Finance,Finance Manager,4,2,0,6617,No,Non-Travel,1,4,4,2,4,No
+E01386,48,Female,Divorced,PhD,HR,HR Specialist,1,6,1,7937,No,Travel_Rarely,4,4,3,3,3,No
+E01387,33,Male,Single,Master,Operations,Operations Analyst,1,15,1,4799,No,Travel_Frequently,22,3,4,1,4,No
+E01388,44,Male,Married,Bachelor,HR,HR Business Partner,2,8,1,11664,No,Travel_Rarely,2,1,4,1,3,No
+E01389,30,Male,Married,Bachelor,Sales,Sales Executive,2,6,6,5970,No,Travel_Rarely,2,3,4,1,3,No
+E01390,26,Female,Single,Bachelor,HR,HR Business Partner,3,8,1,9412,Yes,Travel_Rarely,6,4,4,1,3,Yes
+E01391,25,Male,Divorced,PhD,Finance,Finance Manager,2,6,1,5296,No,Non-Travel,3,1,4,1,3,No
+E01392,33,Female,Divorced,PhD,IT,Software Engineer,3,2,2,4171,No,Travel_Frequently,30,2,3,2,3,No
+E01393,31,Female,Divorced,High School,Sales,Sales Manager,2,1,1,4593,Yes,Travel_Frequently,19,4,4,1,3,Yes
+E01394,35,Female,Single,Bachelor,Operations,Operations Manager,2,0,0,5039,No,Travel_Rarely,1,3,4,3,3,No
+E01395,28,Female,Single,PhD,Finance,Finance Manager,1,0,0,8198,No,Travel_Frequently,3,4,1,2,3,Yes
+E01396,28,Female,Married,Master,Finance,Financial Analyst,2,0,0,5207,No,Travel_Rarely,12,4,3,1,3,Yes
+E01397,37,Female,Single,Master,Sales,Account Executive,2,6,3,4198,No,Travel_Frequently,16,3,3,4,3,No
+E01398,24,Female,Divorced,High School,R&D,Lab Technician,2,2,2,11255,Yes,Travel_Rarely,3,3,4,1,3,No
+E01399,28,Male,Divorced,High School,Operations,Operations Analyst,2,5,0,4324,Yes,Travel_Rarely,7,3,1,4,3,No
+E01400,32,Female,Married,Bachelor,R&D,Senior Engineer,2,9,4,8750,Yes,Travel_Rarely,27,2,4,4,3,No
+E01401,32,Male,Divorced,High School,IT,IT Support,1,2,2,6774,Yes,Travel_Rarely,2,1,1,3,3,No
+E01402,26,Male,Single,Master,Finance,Finance Manager,1,4,2,4084,Yes,Travel_Rarely,1,1,3,3,3,No
+E01403,35,Female,Married,Bachelor,Marketing,Content Strategist,2,4,0,7006,No,Travel_Rarely,4,1,4,1,3,No
+E01404,21,Female,Married,Bachelor,Marketing,Marketing Specialist,2,3,1,7173,No,Travel_Rarely,1,3,4,2,3,No
+E01405,29,Female,Single,PhD,HR,Recruiter,2,2,1,4787,Yes,Travel_Rarely,1,1,4,2,3,No
+E01406,29,Female,Single,Bachelor,R&D,Research Scientist,1,11,0,5290,No,Travel_Rarely,5,4,2,3,4,No
+E01407,25,Female,Divorced,PhD,R&D,Research Scientist,2,1,1,3746,Yes,Travel_Rarely,7,3,2,1,3,No
+E01408,41,Male,Married,Master,Marketing,Content Strategist,1,6,1,9555,Yes,Travel_Rarely,5,3,4,4,4,No
+E01409,39,Female,Single,Bachelor,HR,HR Business Partner,4,2,0,6374,No,Non-Travel,8,4,2,4,3,No
+E01410,31,Male,Divorced,PhD,Marketing,Brand Manager,3,1,0,9818,No,Travel_Rarely,6,3,4,1,3,No
+E01411,27,Female,Married,PhD,Operations,Operations Manager,1,9,2,6712,No,Travel_Rarely,5,1,2,3,3,No
+E01412,31,Male,Married,PhD,Sales,Sales Executive,1,11,1,7734,No,Travel_Rarely,5,2,3,4,3,No
+E01413,41,Male,Single,High School,R&D,Lab Technician,1,11,0,8623,Yes,Travel_Rarely,6,2,4,1,3,Yes
+E01414,34,Female,Single,PhD,Operations,Operations Manager,3,0,0,2729,No,Travel_Rarely,7,2,2,4,4,No
+E01415,45,Female,Divorced,PhD,Operations,Operations Manager,1,2,0,8432,No,Travel_Rarely,1,3,3,1,3,No
+E01416,33,Female,Single,Bachelor,R&D,Lab Technician,2,3,2,4887,No,Travel_Rarely,2,4,4,3,3,No
+E01417,42,Male,Married,PhD,Finance,Accountant,1,14,3,9091,No,Travel_Rarely,12,1,3,4,3,No
+E01418,36,Male,Divorced,PhD,Finance,Accountant,2,4,0,5407,No,Travel_Rarely,25,2,1,2,3,Yes
+E01419,37,Female,Single,PhD,Sales,Sales Manager,3,0,0,4297,No,Travel_Rarely,4,2,2,4,3,No
+E01420,32,Male,Single,PhD,Operations,Logistics Coordinator,1,0,0,6727,No,Travel_Rarely,3,2,2,4,3,No
+E01421,39,Male,Single,PhD,Marketing,Marketing Specialist,2,8,0,6004,Yes,Non-Travel,23,3,2,3,3,Yes
+E01422,39,Male,Divorced,Master,Finance,Financial Analyst,1,15,0,6897,Yes,Travel_Rarely,7,4,2,2,3,No
+E01423,47,Male,Divorced,PhD,IT,Data Analyst,2,9,0,5181,No,Travel_Rarely,5,2,4,1,3,Yes
+E01424,22,Male,Divorced,High School,IT,IT Support,1,0,0,7113,No,Travel_Rarely,1,4,1,4,3,No
+E01425,25,Male,Married,PhD,Finance,Accountant,1,5,1,12125,No,Travel_Frequently,4,1,3,4,3,No
+E01426,40,Female,Divorced,High School,Marketing,Content Strategist,2,6,3,6047,No,Travel_Rarely,26,4,4,1,3,Yes
+E01427,30,Male,Married,Bachelor,Marketing,Marketing Specialist,1,3,0,7922,No,Travel_Rarely,7,3,4,3,4,No
+E01428,26,Female,Single,Master,HR,HR Specialist,2,1,1,3323,Yes,Travel_Rarely,1,3,1,4,3,No
+E01429,28,Female,Divorced,High School,HR,HR Business Partner,2,0,0,9272,No,Travel_Rarely,9,4,3,4,3,No
+E01430,36,Female,Divorced,Master,IT,Data Analyst,2,3,0,6917,No,Travel_Rarely,12,2,3,1,3,Yes
+E01431,21,Female,Divorced,Master,Marketing,Brand Manager,1,3,0,7169,No,Non-Travel,3,3,2,3,3,No
+E01432,39,Female,Divorced,Bachelor,R&D,Senior Engineer,2,19,2,6166,No,Travel_Rarely,8,2,2,3,3,No
+E01433,29,Female,Married,Bachelor,Sales,Sales Executive,1,4,2,7003,No,Non-Travel,3,3,2,1,3,No
+E01434,19,Female,Divorced,Bachelor,HR,Recruiter,3,1,1,2530,No,Travel_Rarely,5,2,3,3,3,Yes
+E01435,24,Male,Married,Bachelor,IT,IT Support,2,0,0,9259,Yes,Travel_Frequently,11,2,4,4,4,Yes
+E01436,26,Male,Divorced,Bachelor,HR,HR Specialist,2,8,0,9511,Yes,Non-Travel,9,2,2,3,3,No
+E01437,19,Female,Divorced,High School,HR,HR Business Partner,2,1,1,4903,Yes,Travel_Frequently,8,4,1,2,3,No
+E01438,37,Male,Single,PhD,Finance,Finance Manager,3,12,0,5087,Yes,Travel_Rarely,1,1,3,1,3,Yes
+E01439,32,Male,Divorced,Bachelor,Operations,Logistics Coordinator,1,3,0,8798,No,Non-Travel,4,2,2,3,4,No
+E01440,19,Female,Divorced,Master,R&D,Senior Engineer,3,1,1,8537,No,Travel_Frequently,11,4,2,1,3,No
+E01441,40,Male,Single,Bachelor,Sales,Account Executive,2,2,0,9900,Yes,Travel_Rarely,2,2,1,2,3,No
+E01442,44,Male,Married,High School,R&D,Senior Engineer,2,5,1,5911,No,Non-Travel,5,4,4,1,3,No
+E01443,38,Male,Divorced,Bachelor,R&D,Lab Technician,2,1,1,4604,No,Travel_Rarely,15,1,4,1,3,No
+E01444,20,Male,Divorced,PhD,Operations,Operations Manager,3,2,0,4898,No,Travel_Frequently,5,3,1,4,4,No
+E01445,37,Female,Married,Bachelor,IT,Data Analyst,2,0,0,5748,No,Travel_Rarely,10,4,1,3,3,No
+E01446,28,Male,Married,Master,HR,Recruiter,1,10,0,6006,No,Travel_Rarely,1,4,3,3,3,No
+E01447,35,Male,Married,High School,Marketing,Content Strategist,3,7,2,3244,No,Travel_Rarely,4,3,4,1,3,No
+E01448,37,Female,Divorced,Master,HR,Recruiter,2,0,0,7112,Yes,Non-Travel,1,4,4,2,3,Yes
+E01449,42,Male,Single,Master,Sales,Sales Manager,2,7,0,8510,No,Travel_Rarely,1,3,2,2,3,No
+E01450,34,Male,Divorced,Bachelor,Operations,Operations Manager,2,2,0,3944,Yes,Travel_Rarely,2,3,4,1,3,No
+E01451,28,Male,Married,PhD,HR,HR Specialist,1,6,4,14429,Yes,Non-Travel,1,2,4,2,3,No
+E01452,39,Female,Married,Master,Marketing,Content Strategist,2,4,1,6627,No,Travel_Rarely,2,4,3,2,4,No
+E01453,33,Female,Divorced,PhD,R&D,Lab Technician,2,1,1,4909,No,Travel_Rarely,3,3,3,3,4,No
+E01454,40,Female,Divorced,Bachelor,IT,IT Support,1,0,0,3366,No,Travel_Rarely,2,1,4,1,3,No
+E01455,34,Female,Married,Master,Finance,Accountant,3,16,6,4064,No,Travel_Frequently,8,1,2,2,3,No
+E01456,32,Male,Single,PhD,Sales,Sales Manager,2,0,0,6789,No,Travel_Rarely,16,4,4,3,3,No
+E01457,37,Female,Divorced,PhD,IT,DevOps Engineer,2,11,0,12353,Yes,Travel_Rarely,21,1,1,2,3,Yes
+E01458,38,Female,Single,High School,Sales,Account Executive,2,1,1,6769,No,Travel_Rarely,3,4,4,2,3,Yes
+E01459,38,Female,Single,PhD,Sales,Account Executive,3,3,3,4333,Yes,Travel_Rarely,1,3,3,3,3,No
+E01460,36,Male,Divorced,Master,R&D,Senior Engineer,3,0,0,6421,No,Travel_Rarely,13,1,3,4,3,No
+E01461,48,Female,Divorced,Master,Operations,Operations Analyst,2,4,2,6723,No,Travel_Rarely,27,1,4,2,3,No
+E01462,24,Female,Married,Bachelor,Marketing,Marketing Specialist,2,6,1,14722,No,Non-Travel,9,2,1,3,3,No
+E01463,28,Male,Divorced,Master,R&D,Lab Technician,3,10,2,6272,No,Travel_Rarely,3,4,2,4,3,No
+E01464,28,Female,Married,PhD,HR,Recruiter,3,0,0,4862,No,Travel_Frequently,6,1,2,1,3,No
+E01465,40,Male,Divorced,Master,IT,Software Engineer,1,2,2,5929,No,Travel_Rarely,27,1,3,1,3,No
+E01466,31,Male,Divorced,High School,IT,IT Support,1,1,1,3371,Yes,Travel_Frequently,17,3,3,1,4,No
+E01467,40,Female,Married,PhD,Operations,Operations Analyst,2,11,0,2049,No,Travel_Frequently,1,1,4,2,3,No
+E01468,36,Female,Married,PhD,Finance,Finance Manager,1,1,0,8675,Yes,Travel_Rarely,10,2,3,1,3,Yes
+E01469,33,Male,Married,PhD,Sales,Sales Manager,3,1,0,11951,No,Travel_Rarely,1,3,1,4,4,Yes
+E01470,33,Male,Divorced,Master,R&D,Lab Technician,2,9,5,7833,No,Travel_Rarely,1,2,3,4,3,No
+E01471,25,Male,Single,High School,Marketing,Content Strategist,2,3,3,5082,No,Travel_Rarely,16,2,2,2,3,Yes
+E01472,35,Female,Married,Bachelor,Operations,Logistics Coordinator,1,3,3,3652,No,Travel_Frequently,5,1,2,3,3,No
+E01473,35,Female,Single,Bachelor,Marketing,Marketing Specialist,2,6,4,4354,No,Travel_Rarely,3,2,3,2,3,No
+E01474,26,Female,Single,PhD,IT,DevOps Engineer,1,0,0,4509,No,Travel_Rarely,6,1,2,4,3,Yes
+E01475,29,Male,Single,PhD,IT,Data Analyst,1,6,1,5055,No,Non-Travel,8,4,1,4,3,No
+E01476,41,Male,Single,PhD,Operations,Operations Analyst,1,5,1,5864,Yes,Travel_Frequently,30,1,2,1,3,Yes
+E01477,31,Male,Divorced,Master,Marketing,Content Strategist,2,0,0,11393,No,Travel_Rarely,30,3,3,4,4,Yes
+E01478,42,Female,Married,High School,Finance,Accountant,1,0,0,5744,No,Travel_Rarely,12,1,4,1,3,Yes
+E01479,28,Female,Single,High School,HR,HR Business Partner,1,5,5,6510,No,Travel_Frequently,4,3,1,4,3,No
+E01480,60,Female,Divorced,Master,Marketing,Content Strategist,2,0,0,5120,No,Travel_Rarely,12,4,4,1,3,No
+E01481,52,Male,Single,PhD,Sales,Sales Executive,2,2,1,6349,No,Travel_Rarely,2,2,2,1,3,Yes
+E01482,44,Female,Single,PhD,IT,Software Engineer,2,6,1,9416,No,Travel_Rarely,4,1,2,3,3,No
+E01483,24,Male,Single,High School,R&D,Research Scientist,1,4,2,3975,Yes,Travel_Rarely,2,2,2,3,3,No
+E01484,41,Female,Divorced,Master,Finance,Financial Analyst,4,5,3,7542,No,Travel_Rarely,12,3,4,3,3,No
+E01485,38,Male,Married,High School,Sales,Sales Executive,1,7,1,9055,No,Travel_Frequently,5,3,1,4,3,Yes
+E01486,38,Male,Single,PhD,Operations,Operations Manager,2,5,4,3743,No,Travel_Rarely,3,2,2,1,4,Yes
+E01487,37,Female,Single,High School,Sales,Sales Executive,4,0,0,3632,No,Travel_Rarely,1,4,4,4,3,No
+E01488,42,Female,Divorced,High School,HR,HR Business Partner,3,0,0,4770,Yes,Travel_Rarely,10,4,3,2,4,Yes
+E01489,31,Male,Single,High School,Finance,Accountant,3,1,1,7411,No,Travel_Rarely,1,2,2,2,3,No
+E01490,32,Female,Single,Master,Marketing,Marketing Specialist,1,0,0,3422,Yes,Travel_Rarely,6,4,3,1,3,Yes
+E01491,36,Female,Divorced,Bachelor,HR,Recruiter,1,3,1,8869,Yes,Travel_Rarely,6,4,3,2,3,No
+E01492,34,Male,Single,Bachelor,Operations,Logistics Coordinator,1,3,0,10045,Yes,Travel_Frequently,19,1,4,1,3,No
+E01493,41,Female,Married,Master,Marketing,Marketing Specialist,2,12,0,19362,No,Travel_Rarely,16,2,2,4,3,No
+E01494,53,Female,Divorced,PhD,R&D,Senior Engineer,2,9,0,10668,No,Travel_Rarely,4,4,4,2,3,No
+E01495,29,Male,Married,Master,Sales,Account Executive,1,3,1,4527,No,Non-Travel,10,3,3,3,3,No
+E01496,49,Female,Single,Master,IT,IT Support,2,3,1,8294,No,Non-Travel,1,4,1,3,3,No
+E01497,49,Female,Single,High School,Finance,Finance Manager,1,8,1,1579,No,Travel_Frequently,18,1,2,1,3,Yes
+E01498,44,Female,Divorced,High School,Operations,Logistics Coordinator,4,9,2,3117,No,Travel_Frequently,1,3,2,3,3,No
+E01499,19,Male,Single,Bachelor,IT,Data Analyst,1,1,0,4400,Yes,Travel_Rarely,4,4,2,2,3,No
+E01500,41,Female,Divorced,Bachelor,Marketing,Content Strategist,2,15,2,2719,No,Travel_Rarely,2,3,2,1,3,No

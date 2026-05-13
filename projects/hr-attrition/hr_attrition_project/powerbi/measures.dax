@@ -1,0 +1,52 @@
+// HR Attrition — DAX Measures
+// Drop into a Power BI model where the fact table 'Employees' has been loaded from hr_employees.csv
+
+Headcount =
+COUNTROWS ( Employees )
+
+Leavers =
+CALCULATE ( [Headcount], Employees[Attrition] = "Yes" )
+
+Attrition Rate % =
+DIVIDE ( [Leavers], [Headcount] )
+
+Avg Tenure =
+AVERAGE ( Employees[YearsAtCompany] )
+
+Early Attrition % =
+DIVIDE (
+    CALCULATE ( [Leavers], Employees[YearsAtCompany] < 2 ),
+    [Leavers]
+)
+
+Avg Monthly Income =
+AVERAGE ( Employees[MonthlyIncome] )
+
+Replacement Cost =
+[Leavers] * [Avg Monthly Income] * 6
+
+Attrition % OT Yes =
+CALCULATE ( [Attrition Rate %], Employees[OverTime] = "Yes" )
+
+Attrition % OT No =
+CALCULATE ( [Attrition Rate %], Employees[OverTime] = "No" )
+
+OT Attrition Lift =
+[Attrition % OT Yes] - [Attrition % OT No]
+
+Role Avg Income =
+CALCULATE (
+    AVERAGE ( Employees[MonthlyIncome] ),
+    ALLEXCEPT ( Employees, Employees[JobRole] )
+)
+
+Comp Gap Flag =
+IF ( Employees[MonthlyIncome] < 0.85 * [Role Avg Income], 1, 0 )
+
+Flight Risk Count =
+CALCULATE (
+    [Headcount],
+    Employees[OverTime] = "Yes",
+    FILTER ( Employees, Employees[MonthlyIncome] < 0.85 * [Role Avg Income] ),
+    Employees[JobSatisfaction] <= 2
+)
